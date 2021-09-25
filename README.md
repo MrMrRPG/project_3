@@ -1,2 +1,17 @@
 # project_3
-Project 3 repo for UCI Data Analytics Bootcamp
+<b>Members</b></br> 
+Benji
+Meagan
+Josh
+Sam
+
+<b>Domain</b></br> 
+Games Industry
+
+<b>Topic</b></br> 
+Chess
+
+<b>Possible Datasets</b></br> 
+<a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
+<a href="https://www.kaggle.com/odartey/top-chess-players">Top 100 Chess Players Historical</a></br>
+<a href="https://www.kaggle.com/datasnaek/chess">Chess Game Dataset (Lichess)</a></br>
