@@ -18,6 +18,7 @@ Chess
 
 <b>Possible APIs</b></br> 
 <a href="https://www.chess.com/news/view/published-data-api">Published-Data API</a></br>
+<a href="https://lichess.org/api">Lichess API</a></br>
 
 <b>Database</b></br> 
 Postgres in AWS Athena
@@ -29,6 +30,11 @@ Postgres in AWS Athena
 
 <b>Action Items</b></br>
 1. Scheduling 
+Monday @ noon
+
 2. Action items
-3. Call him back 
+API calls & Panda Dataframes
+- start Monday and approach completion
+
+5. Call him back 
 - Libraries we might look at? 
