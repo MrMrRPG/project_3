@@ -17,4 +17,18 @@ Chess
 <a href="https://www.kaggle.com/datasnaek/chess">Chess Game Dataset (Lichess)</a></br>
 
 <b>Possible APIs</b></br> 
-<a href="https://www.npmjs.com/package/chess-web-api">chess-web-api</a></br>
+<a href="https://www.chess.com/news/view/published-data-api">Published-Data API</a></br>
+
+<b>Database</b></br> 
+Postgres in AWS Athena
+
+<b>New JS Library</b></br>
+
+<b>Slides</b></br>
+<a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
+
+<b>Action Items</b></br>
+1. Scheduling 
+2. Action items
+3. Call him back 
+- Libraries we might look at? 
