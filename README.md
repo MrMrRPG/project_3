@@ -1,9 +1,9 @@
 # project_3
 <b>Members</b></br> 
-Benji
-Meagan
-Josh
-Sam
+Benji</br>
+Meagan</br>
+Josh</br>
+Sam</br>
 
 <b>Domain</b></br> 
 Games Industry
