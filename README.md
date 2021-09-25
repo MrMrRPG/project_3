@@ -21,7 +21,7 @@ Chess
 <a href="https://lichess.org/api">Lichess API</a></br>
 
 <b>Database</b></br> 
-Postgres in AWS Athena
+AWS Athena
 
 <b>New JS Library</b></br>
 
