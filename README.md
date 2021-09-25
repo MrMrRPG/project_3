@@ -1,4 +1,4 @@
-# project_3
+# project_3: Pink Pandas
 <b>Members</b></br> 
 Benji</br>
 Meagan</br>
