@@ -36,5 +36,5 @@ Monday @ noon
 API calls & Panda Dataframes
 - start Monday and approach completion
 
-5. Call him back 
+3. Call him back 
 - Libraries we might look at? 
