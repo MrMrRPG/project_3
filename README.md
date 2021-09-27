@@ -39,11 +39,7 @@ Flex Monster
 1. Scheduling 
 Monday @ noon
 - Leaflet (chess players by country)
-- 
+- Focusing on female players
 
 2. Action items
-API calls & Panda Dataframes
-- start Monday and approach completion
-
-3. Call him back 
-- Libraries we might look at? 
+JS Library
