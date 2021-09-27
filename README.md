@@ -11,6 +11,9 @@ Games Industry
 <b>Topic</b></br> 
 Chess
 
+<b>Angle</b></br> 
+Top female chess players 
+
 <b>Possible Datasets</b></br> 
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
 <a href="https://www.kaggle.com/odartey/top-chess-players">Top 100 Chess Players Historical</a></br>
@@ -36,11 +39,7 @@ Flex Monster
 1. Scheduling 
 Monday @ noon
 - Leaflet (chess players by country)
-- 
+- Focusing on female players
 
 2. Action items
-API calls & Panda Dataframes
-- start Monday and approach completion
-
-3. Call him back 
-- Libraries we might look at? 
+JS Library
