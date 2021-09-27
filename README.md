@@ -11,6 +11,9 @@ Games Industry
 <b>Topic</b></br> 
 Chess
 
+<b>Angle</b></br> 
+Top female chess players 
+
 <b>Possible Datasets</b></br> 
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
 <a href="https://www.kaggle.com/odartey/top-chess-players">Top 100 Chess Players Historical</a></br>
