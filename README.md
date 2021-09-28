@@ -1,7 +1,5 @@
 # project_3_turochamp by pink + pandas.py
 
-![20200308_ChessPandas_small-1024x731](https://user-images.githubusercontent.com/81134557/135058602-712c06b2-afce-43ff-a74f-024bfdf6606a.jpg)
-
 <img src="https://64.media.tumblr.com/f8e0a9a5b5a0f2fd5538d5a7bba1273f/tumblr_mqbflxsjRg1rn2sy0o1_500.gifv" alt="Panda Chess
 by ~jmaaa">
 
