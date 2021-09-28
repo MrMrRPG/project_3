@@ -1,4 +1,7 @@
-# project_3: Chess by Pink Pandas
+# project_3_turochamp by pink + pandas.py
+
+<iframe src="https://giphy.com/embed/iCZyBnPBLr0dy" width="480" height="201" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chess-iCZyBnPBLr0dy">via GIPHY</a></p>
+
 <b>Members</b></br> 
 Benji</br>
 Meagan</br>
@@ -47,3 +50,5 @@ Monday @ noon
 
 2. Action items
 JS Library
+
+<b>Bibliography</b></br>
