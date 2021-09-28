@@ -1,4 +1,5 @@
-# project_3: Chess by Pink Pandas
+# project_3_turochamp by pink + pandas.py
+
 <b>Members</b></br> 
 Benji</br>
 Meagan</br>
@@ -47,3 +48,8 @@ Monday @ noon
 
 2. Action items
 JS Library
+
+<b>Bibliography</b></br>
+
+<img src="https://64.media.tumblr.com/f8e0a9a5b5a0f2fd5538d5a7bba1273f/tumblr_mqbflxsjRg1rn2sy0o1_500.gifv" alt="Panda Chess
+by ~jmaaa">
