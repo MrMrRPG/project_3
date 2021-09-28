@@ -1,6 +1,6 @@
 # project_3_turochamp by pink + pandas.py
 
-<iframe src="https://giphy.com/embed/iCZyBnPBLr0dy" width="480" height="201" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chess-iCZyBnPBLr0dy">via GIPHY</a></p>
+![20200308_ChessPandas_small-1024x731](https://user-images.githubusercontent.com/81134557/135058602-712c06b2-afce-43ff-a74f-024bfdf6606a.jpg)
 
 <b>Members</b></br> 
 Benji</br>
