@@ -24,7 +24,8 @@ Top female chess players
 <a href="https://lichess.org/api">Lichess API</a></br>
 
 <b>Other Relevant Resources</b></br> 
-<a href="https://www.chess.com/members/titled-players/woman-grandmasters?&page=1">Woman Grandmasters on Chess.com</a></br>
+<a href="https://www.chess.com/members/titled-players/woman-grandmasters?&page=1">Woman Grandmasters (WGM) on Chess.com</a></br>
+<a href="https://api.chess.com/pub/titled/WGM">JSON List of WGMs</a></br>
 
 <b>Database</b></br> 
 AWS Athena
