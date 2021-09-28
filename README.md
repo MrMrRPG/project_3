@@ -3,6 +3,8 @@
 <img src="https://64.media.tumblr.com/f8e0a9a5b5a0f2fd5538d5a7bba1273f/tumblr_mqbflxsjRg1rn2sy0o1_500.gifv" alt="Panda Chess
 by ~jmaaa">
 
+<font size="24"> 
+
 <b>Members</b></br> 
 Benji</br>
 Meagan</br>
@@ -53,3 +55,5 @@ Monday @ noon
 JS Library
 
 <b>Bibliography</b></br>
+
+</font> 
