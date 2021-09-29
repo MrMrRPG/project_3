@@ -1,0 +1,64 @@
+#navbarSupportedContent{
+    position:relative;
+    left:60%;
+  
+  }
+  h1{
+    color:white;
+    background:#aa4aa5;
+  }
+  
+  .navbar-toggler{
+    padding:20px;
+  }
+  
+  .navbar-brand {
+    position: fixed;
+    height: 30px;
+    background:#aa4a7f;
+  }
+  
+  #latbox{
+    color:white;
+  }
+  
+  h3{
+    color:#aa4a9a;
+  }
+  
+  img{
+    width:100%;
+    height:100%;
+  }
+  .panel:hover {
+    border-color:#aa4a82;
+    border-style: solid;
+    
+  }
+  /* Right here I want to reduce my summary plot to half size so the description can wrap around */
+  .tempplot {
+    width: 50%;
+    height:50%;
+  }  
+  .box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:white;
+  
+  }
+  
+  .table {
+    font-size: 15px;
+    border-top-color:white;
+  }
+  .col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:40px;
+  }
+  /* media queries adjustment*/
+  @media(max-width:800px){
+    .navbar{
+        padding:inherit;
+    }
+  }
