@@ -1,5 +1,5 @@
-{
-    "123lt": {
+[
+    {
         "Username": "123lt",
         "Country": "China",
         "Blitz Wins": "751",
@@ -15,7 +15,7 @@
         "Bullet Best Rating": "2824",
         "Rapid Best Rating": "2509"
     },
-    "124chess": {
+    {
         "Username": "124chess",
         "Country": "Russia",
         "Blitz Wins": "1230",
@@ -31,7 +31,7 @@
         "Bullet Best Rating": "2605",
         "Rapid Best Rating": "2350"
     },
-    "1977ivan": {
+    {
         "Username": "1977ivan",
         "Country": "Serbia",
         "Blitz Wins": "734",
@@ -47,7 +47,7 @@
         "Bullet Best Rating": "2075",
         "Rapid Best Rating": "2556"
     },
-    "1stsecond": {
+    {
         "Username": "1stsecond",
         "Country": "Latvia",
         "Blitz Wins": "5342",
@@ -63,7 +63,7 @@
         "Bullet Best Rating": "2872",
         "Rapid Best Rating": "2608"
     },
-    "731291": {
+    {
         "Username": "731291",
         "Country": "Spain",
         "Blitz Wins": "2732",
@@ -79,7 +79,7 @@
         "Bullet Best Rating": "2643",
         "Rapid Best Rating": "2470"
     },
-    "a-adly": {
+    {
         "Username": "a-adly",
         "Country": "Egypt",
         "Blitz Wins": "453",
@@ -95,7 +95,7 @@
         "Bullet Best Rating": "2986",
         "Rapid Best Rating": "2720"
     },
-    "a-fier": {
+    {
         "Username": "a-fier",
         "Country": "Brazil",
         "Blitz Wins": "1159",
@@ -111,7 +111,7 @@
         "Bullet Best Rating": "2839",
         "Rapid Best Rating": "2589"
     },
-    "abasovn": {
+    {
         "Username": "abasovn",
         "Country": "Azerbaijan",
         "Blitz Wins": "190",
@@ -127,7 +127,7 @@
         "Bullet Best Rating": "2979",
         "Rapid Best Rating": "2609"
     },
-    "abhidabhi": {
+    {
         "Username": "abhidabhi",
         "Country": "India",
         "Blitz Wins": "905",
@@ -143,7 +143,7 @@
         "Bullet Best Rating": "2596",
         "Rapid Best Rating": "2626"
     },
-    "abhijeetgupta": {
+    {
         "Username": "abhijeetgupta",
         "Country": "India",
         "Blitz Wins": "409",
@@ -159,7 +159,7 @@
         "Bullet Best Rating": "2849",
         "Rapid Best Rating": "2600"
     },
-    "abhijeetonyoutube": {
+    {
         "Username": "abhijeetonyoutube",
         "Country": "India",
         "Blitz Wins": "71",
@@ -175,7 +175,7 @@
         "Bullet Best Rating": "2780",
         "Rapid Best Rating": "2759"
     },
-    "abykhovsky": {
+    {
         "Username": "abykhovsky",
         "Country": "United States",
         "Blitz Wins": "3156",
@@ -191,7 +191,7 @@
         "Bullet Best Rating": "2988",
         "Rapid Best Rating": "2499"
     },
-    "adham_fawzy": {
+    {
         "Username": "adham_fawzy",
         "Country": "Egypt",
         "Blitz Wins": "2805",
@@ -207,7 +207,7 @@
         "Bullet Best Rating": "2750",
         "Rapid Best Rating": "2541"
     },
-    "afgano29": {
+    {
         "Username": "afgano29",
         "Country": "Colombia",
         "Blitz Wins": "2358",
@@ -223,7 +223,7 @@
         "Bullet Best Rating": "2546",
         "Rapid Best Rating": "2715"
     },
-    "akshayraj_kore": {
+    {
         "Username": "akshayraj_kore",
         "Country": "United States",
         "Blitz Wins": "3144",
@@ -239,7 +239,7 @@
         "Bullet Best Rating": "2361",
         "Rapid Best Rating": "2000"
     },
-    "aleksa74": {
+    {
         "Username": "aleksa74",
         "Country": "Serbia",
         "Blitz Wins": "3620",
@@ -255,7 +255,7 @@
         "Bullet Best Rating": "2730",
         "Rapid Best Rating": "2062"
     },
-    "aleksey_sorokin": {
+    {
         "Username": "aleksey_sorokin",
         "Country": "United States",
         "Blitz Wins": "3609",
@@ -271,7 +271,7 @@
         "Bullet Best Rating": "2849",
         "Rapid Best Rating": "2439"
     },
-    "alexanderl": {
+    {
         "Username": "alexanderl",
         "Country": "United States",
         "Blitz Wins": "1397",
@@ -287,7 +287,7 @@
         "Bullet Best Rating": "2815",
         "Rapid Best Rating": "2805"
     },
-    "alexander_donchenko": {
+    {
         "Username": "alexander_donchenko",
         "Country": "Germany",
         "Blitz Wins": "1583",
@@ -303,7 +303,7 @@
         "Bullet Best Rating": "2834",
         "Rapid Best Rating": "2789"
     },
-    "alexander_moskalenko": {
+    {
         "Username": "alexander_moskalenko",
         "Country": "Russia",
         "Blitz Wins": "2504",
@@ -319,7 +319,7 @@
         "Bullet Best Rating": "2856",
         "Rapid Best Rating": "2431"
     },
-    "alexander_zubov": {
+    {
         "Username": "alexander_zubov",
         "Country": "Ukraine",
         "Blitz Wins": "1736",
@@ -335,7 +335,7 @@
         "Bullet Best Rating": "3078",
         "Rapid Best Rating": "2726"
     },
-    "alexchess1984": {
+    {
         "Username": "alexchess1984",
         "Country": "Czech Republic",
         "Blitz Wins": "810",
@@ -351,7 +351,7 @@
         "Bullet Best Rating": "2665",
         "Rapid Best Rating": "2251"
     },
-    "alexeishirov": {
+    {
         "Username": "alexeishirov",
         "Country": "Spain",
         "Blitz Wins": "205",
@@ -367,7 +367,7 @@
         "Bullet Best Rating": "2732",
         "Rapid Best Rating": "2909"
     },
-    "alexrustemov": {
+    {
         "Username": "alexrustemov",
         "Country": "Russia",
         "Blitz Wins": "2811",
@@ -383,7 +383,7 @@
         "Bullet Best Rating": "2315",
         "Rapid Best Rating": "1902"
     },
-    "alexyermo": {
+    {
         "Username": "alexyermo",
         "Country": "United States",
         "Blitz Wins": "27",
@@ -399,7 +399,7 @@
         "Bullet Best Rating": "2019",
         "Rapid Best Rating": "2206"
     },
-    "alex_stripunsky": {
+    {
         "Username": "alex_stripunsky",
         "Country": "United States",
         "Blitz Wins": "227",
@@ -415,7 +415,7 @@
         "Bullet Best Rating": "2750",
         "Rapid Best Rating": "2550"
     },
-    "allanstig": {
+    {
         "Username": "allanstig",
         "Country": "Denmark",
         "Blitz Wins": "297",
@@ -431,7 +431,7 @@
         "Bullet Best Rating": "2729",
         "Rapid Best Rating": "2491"
     },
-    "amintabatabaei": {
+    {
         "Username": "amintabatabaei",
         "Country": "Iran",
         "Blitz Wins": "3727",
@@ -447,7 +447,7 @@
         "Bullet Best Rating": "3184",
         "Rapid Best Rating": "2635"
     },
-    "amir-zaibi": {
+    {
         "Username": "amir-zaibi",
         "Country": "Tunisia",
         "Blitz Wins": "448",
@@ -463,7 +463,7 @@
         "Bullet Best Rating": "2545",
         "Rapid Best Rating": "2278"
     },
-    "amirbagheri78": {
+    {
         "Username": "amirbagheri78",
         "Country": "France",
         "Blitz Wins": "802",
@@ -479,7 +479,7 @@
         "Bullet Best Rating": "2682",
         "Rapid Best Rating": "2253"
     },
-    "amirreza_p": {
+    {
         "Username": "amirreza_p",
         "Country": "Iran",
         "Blitz Wins": "1296",
@@ -495,7 +495,7 @@
         "Bullet Best Rating": "3108",
         "Rapid Best Rating": "2255"
     },
-    "andrbaryshpolets": {
+    {
         "Username": "andrbaryshpolets",
         "Country": "United States",
         "Blitz Wins": "1566",
@@ -511,7 +511,7 @@
         "Bullet Best Rating": "2780",
         "Rapid Best Rating": "2515"
     },
-    "andreikka": {
+    {
         "Username": "andreikka",
         "Country": "Russia",
         "Blitz Wins": "1334",
@@ -527,7 +527,7 @@
         "Bullet Best Rating": "3144",
         "Rapid Best Rating": "2878"
     },
-    "andrei_belozerov": {
+    {
         "Username": "andrei_belozerov",
         "Country": "Russia",
         "Blitz Wins": "446",
@@ -543,7 +543,7 @@
         "Bullet Best Rating": "2528",
         "Rapid Best Rating": "2673"
     },
-    "andreystukopin": {
+    {
         "Username": "andreystukopin",
         "Country": "United States",
         "Blitz Wins": "301",
@@ -559,7 +559,7 @@
         "Bullet Best Rating": "2616",
         "Rapid Best Rating": "2596"
     },
-    "anishgiri": {
+    {
         "Username": "anishgiri",
         "Country": "Netherlands",
         "Blitz Wins": "297",
@@ -575,7 +575,7 @@
         "Bullet Best Rating": "3178",
         "Rapid Best Rating": "2852"
     },
-    "anishonyoutube": {
+    {
         "Username": "anishonyoutube",
         "Country": "Netherlands",
         "Blitz Wins": "215",
@@ -591,7 +591,7 @@
         "Bullet Best Rating": "3200",
         "Rapid Best Rating": "2948"
     },
-    "annawel": {
+    {
         "Username": "annawel",
         "Country": "France",
         "Blitz Wins": "1510",
@@ -607,7 +607,7 @@
         "Bullet Best Rating": "3162",
         "Rapid Best Rating": "2571"
     },
-    "anna_muzychuk": {
+    {
         "Username": "anna_muzychuk",
         "Country": "Ukraine",
         "Blitz Wins": "31",
@@ -623,7 +623,7 @@
         "Bullet Best Rating": "2656",
         "Rapid Best Rating": "2533"
     },
-    "anonymous1762": {
+    {
         "Username": "anonymous1762",
         "Country": "India",
         "Blitz Wins": "727",
@@ -639,7 +639,7 @@
         "Bullet Best Rating": "2806",
         "Rapid Best Rating": "2216"
     },
-    "anthonywirig": {
+    {
         "Username": "anthonywirig",
         "Country": "France",
         "Blitz Wins": "1002",
@@ -655,7 +655,7 @@
         "Bullet Best Rating": "2882",
         "Rapid Best Rating": "2266"
     },
-    "antipov_mikhail_al": {
+    {
         "Username": "antipov_mikhail_al",
         "Country": "Russia",
         "Blitz Wins": "1752",
@@ -671,7 +671,7 @@
         "Bullet Best Rating": "3012",
         "Rapid Best Rating": "2532"
     },
-    "antonsmirnov": {
+    {
         "Username": "antonsmirnov",
         "Country": "Australia",
         "Blitz Wins": "4287",
@@ -687,7 +687,7 @@
         "Bullet Best Rating": "2962",
         "Rapid Best Rating": "2637"
     },
-    "anton_demchenko": {
+    {
         "Username": "anton_demchenko",
         "Country": "Russia",
         "Blitz Wins": "2478",
@@ -703,7 +703,7 @@
         "Bullet Best Rating": "2828",
         "Rapid Best Rating": "2835"
     },
-    "anuar_is": {
+    {
         "Username": "anuar_is",
         "Country": "Kazakhstan",
         "Blitz Wins": "681",
@@ -719,7 +719,7 @@
         "Bullet Best Rating": "2622",
         "Rapid Best Rating": "2646"
     },
-    "arencibia": {
+    {
         "Username": "arencibia",
         "Country": "Cuba",
         "Blitz Wins": "1936",
@@ -735,7 +735,7 @@
         "Bullet Best Rating": "2576",
         "Rapid Best Rating": "2401"
     },
-    "arm-akiba": {
+    {
         "Username": "arm-akiba",
         "Country": "Armenia",
         "Blitz Wins": "397",
@@ -751,7 +751,7 @@
         "Bullet Best Rating": "2884",
         "Rapid Best Rating": "2920"
     },
-    "arnaudovp": {
+    {
         "Username": "arnaudovp",
         "Country": "Bulgaria",
         "Blitz Wins": "4368",
@@ -767,7 +767,7 @@
         "Bullet Best Rating": "2527",
         "Rapid Best Rating": "2426"
     },
-    "arseniy_nesterov": {
+    {
         "Username": "arseniy_nesterov",
         "Country": "Russia",
         "Blitz Wins": "2214",
@@ -783,7 +783,7 @@
         "Bullet Best Rating": "2926",
         "Rapid Best Rating": "2441"
     },
-    "artem_ilyin": {
+    {
         "Username": "artem_ilyin",
         "Country": "Russia",
         "Blitz Wins": "124",
@@ -799,7 +799,7 @@
         "Bullet Best Rating": "2499",
         "Rapid Best Rating": "2403"
     },
-    "arvika": {
+    {
         "Username": "arvika",
         "Country": "Sweden",
         "Blitz Wins": "95",
@@ -815,7 +815,7 @@
         "Bullet Best Rating": "2498",
         "Rapid Best Rating": "2544"
     },
-    "aryamabreu": {
+    {
         "Username": "aryamabreu",
         "Country": "United States",
         "Blitz Wins": "760",
@@ -831,7 +831,7 @@
         "Bullet Best Rating": "2721",
         "Rapid Best Rating": "2612"
     },
-    "aryangholami": {
+    {
         "Username": "aryangholami",
         "Country": "Iran",
         "Blitz Wins": "1476",
@@ -847,7 +847,7 @@
         "Bullet Best Rating": "2684",
         "Rapid Best Rating": "2545"
     },
-    "aryantari": {
+    {
         "Username": "aryantari",
         "Country": "Norway",
         "Blitz Wins": "2637",
@@ -863,7 +863,7 @@
         "Bullet Best Rating": "3100",
         "Rapid Best Rating": "2638"
     },
-    "asadlivugar": {
+    {
         "Username": "asadlivugar",
         "Country": "Azerbaijan",
         "Blitz Wins": "1724",
@@ -879,7 +879,7 @@
         "Bullet Best Rating": "2629",
         "Rapid Best Rating": "2771"
     },
-    "aspired": {
+    {
         "Username": "aspired",
         "Country": "India",
         "Blitz Wins": "1651",
@@ -895,7 +895,7 @@
         "Bullet Best Rating": "2795",
         "Rapid Best Rating": "2623"
     },
-    "atalik": {
+    {
         "Username": "atalik",
         "Country": "Serbia",
         "Blitz Wins": "234",
@@ -911,7 +911,7 @@
         "Bullet Best Rating": "2628",
         "Rapid Best Rating": "2834"
     },
-    "attack2mateu": {
+    {
         "Username": "attack2mateu",
         "Country": "Canada",
         "Blitz Wins": "3979",
@@ -927,7 +927,7 @@
         "Bullet Best Rating": "2867",
         "Rapid Best Rating": "2748"
     },
-    "attilaczebe": {
+    {
         "Username": "attilaczebe",
         "Country": "Hungary",
         "Blitz Wins": "39",
@@ -943,7 +943,7 @@
         "Bullet Best Rating": "2234",
         "Rapid Best Rating": "2428"
     },
-    "avitalbor": {
+    {
         "Username": "avitalbor",
         "Country": "Israel",
         "Blitz Wins": "1614",
@@ -959,7 +959,7 @@
         "Bullet Best Rating": "2771",
         "Rapid Best Rating": "2733"
     },
-    "aygehovit1992": {
+    {
         "Username": "aygehovit1992",
         "Country": "Russia",
         "Blitz Wins": "1832",
@@ -975,7 +975,7 @@
         "Bullet Best Rating": "2696",
         "Rapid Best Rating": "2504"
     },
-    "azerichess": {
+    {
         "Username": "azerichess",
         "Country": "Azerbaijan",
         "Blitz Wins": "611",
@@ -991,7 +991,7 @@
         "Bullet Best Rating": "3180",
         "Rapid Best Rating": "2820"
     },
-    "azeryahu": {
+    {
         "Username": "azeryahu",
         "Country": "Hungary",
         "Blitz Wins": "1584",
@@ -1007,7 +1007,7 @@
         "Bullet Best Rating": "2805",
         "Rapid Best Rating": "2077"
     },
-    "azikom": {
+    {
         "Username": "azikom",
         "Country": "Azerbaijan",
         "Blitz Wins": "1073",
@@ -1023,7 +1023,7 @@
         "Bullet Best Rating": "2492",
         "Rapid Best Rating": "2562"
     },
-    "b-man": {
+    {
         "Username": "b-man",
         "Country": "Iceland",
         "Blitz Wins": "3228",
@@ -1039,7 +1039,7 @@
         "Bullet Best Rating": "2570",
         "Rapid Best Rating": "2455"
     },
-    "b-unit": {
+    {
         "Username": "b-unit",
         "Country": "England",
         "Blitz Wins": "783",
@@ -1055,7 +1055,7 @@
         "Bullet Best Rating": "2677",
         "Rapid Best Rating": "2534"
     },
-    "baby_legs": {
+    {
         "Username": "baby_legs",
         "Country": "Germany",
         "Blitz Wins": "1025",
@@ -1071,7 +1071,7 @@
         "Bullet Best Rating": "2365",
         "Rapid Best Rating": "2643"
     },
-    "bacallao2019": {
+    {
         "Username": "bacallao2019",
         "Country": "Cuba",
         "Blitz Wins": "287",
@@ -1087,7 +1087,7 @@
         "Bullet Best Rating": "2662",
         "Rapid Best Rating": "2713"
     },
-    "bacyanide": {
+    {
         "Username": "bacyanide",
         "Country": "Georgia",
         "Blitz Wins": "790",
@@ -1103,7 +1103,7 @@
         "Bullet Best Rating": "2560",
         "Rapid Best Rating": "2535"
     },
-    "baki83": {
+    {
         "Username": "baki83",
         "Country": "France",
         "Blitz Wins": "319",
@@ -1119,7 +1119,7 @@
         "Bullet Best Rating": "2792",
         "Rapid Best Rating": "2807"
     },
-    "bakki78": {
+    {
         "Username": "bakki78",
         "Country": "Ukraine",
         "Blitz Wins": "258",
@@ -1135,7 +1135,7 @@
         "Bullet Best Rating": "2903",
         "Rapid Best Rating": "2669"
     },
-    "bancsoo": {
+    {
         "Username": "bancsoo",
         "Country": "Hungary",
         "Blitz Wins": "1192",
@@ -1151,7 +1151,7 @@
         "Bullet Best Rating": "2714",
         "Rapid Best Rating": "2695"
     },
-    "barys1974": {
+    {
         "Username": "barys1974",
         "Country": "Kazakhstan",
         "Blitz Wins": "1268",
@@ -1167,7 +1167,7 @@
         "Bullet Best Rating": "2344",
         "Rapid Best Rating": "2476"
     },
-    "barzed": {
+    {
         "Username": "barzed",
         "Country": "United States",
         "Blitz Wins": "198",
@@ -1183,7 +1183,7 @@
         "Bullet Best Rating": "3009",
         "Rapid Best Rating": "2811"
     },
-    "batica1984": {
+    {
         "Username": "batica1984",
         "Country": "Serbia",
         "Blitz Wins": "537",
@@ -1199,7 +1199,7 @@
         "Bullet Best Rating": "2581",
         "Rapid Best Rating": "2757"
     },
-    "batolovic": {
+    {
         "Username": "batolovic",
         "Country": "Philippines",
         "Blitz Wins": "453",
@@ -1215,7 +1215,7 @@
         "Bullet Best Rating": "2367",
         "Rapid Best Rating": "1200"
     },
-    "bazarov04": {
+    {
         "Username": "bazarov04",
         "Country": "Russia",
         "Blitz Wins": "478",
@@ -1231,7 +1231,7 @@
         "Bullet Best Rating": "2781",
         "Rapid Best Rating": "2432"
     },
-    "beca95": {
+    {
         "Username": "beca95",
         "Country": "Serbia",
         "Blitz Wins": "1936",
@@ -1247,7 +1247,7 @@
         "Bullet Best Rating": "2847",
         "Rapid Best Rating": "2709"
     },
-    "berny643": {
+    {
         "Username": "berny643",
         "Country": "Czech Republic",
         "Blitz Wins": "26",
@@ -1263,7 +1263,7 @@
         "Bullet Best Rating": "2347",
         "Rapid Best Rating": "2500"
     },
-    "besmall": {
+    {
         "Username": "besmall",
         "Country": "United States",
         "Blitz Wins": "39",
@@ -1279,7 +1279,7 @@
         "Bullet Best Rating": "2068",
         "Rapid Best Rating": "2610"
     },
-    "bigfish1995": {
+    {
         "Username": "bigfish1995",
         "Country": "Russia",
         "Blitz Wins": "5216",
@@ -1295,7 +1295,7 @@
         "Bullet Best Rating": "3231",
         "Rapid Best Rating": "2731"
     },
-    "bilguunsu": {
+    {
         "Username": "bilguunsu",
         "Country": "Mongolia",
         "Blitz Wins": "31",
@@ -1311,7 +1311,7 @@
         "Bullet Best Rating": "2630",
         "Rapid Best Rating": "2640"
     },
-    "bobanbogosavljevic": {
+    {
         "Username": "bobanbogosavljevic",
         "Country": "Serbia",
         "Blitz Wins": "201",
@@ -1327,7 +1327,7 @@
         "Bullet Best Rating": "2831",
         "Rapid Best Rating": "2294"
     },
-    "bocah_sakit": {
+    {
         "Username": "bocah_sakit",
         "Country": "Indonesia",
         "Blitz Wins": "1567",
@@ -1343,7 +1343,7 @@
         "Bullet Best Rating": "2978",
         "Rapid Best Rating": "2597"
     },
-    "bocharovd": {
+    {
         "Username": "bocharovd",
         "Country": "Russia",
         "Blitz Wins": "2313",
@@ -1359,7 +1359,7 @@
         "Bullet Best Rating": "2814",
         "Rapid Best Rating": "2517"
     },
-    "bogdandeac": {
+    {
         "Username": "bogdandeac",
         "Country": "Romania",
         "Blitz Wins": "3245",
@@ -1375,7 +1375,7 @@
         "Bullet Best Rating": "2951",
         "Rapid Best Rating": "2919"
     },
-    "bonamente": {
+    {
         "Username": "bonamente",
         "Country": "United States",
         "Blitz Wins": "15",
@@ -1391,7 +1391,7 @@
         "Bullet Best Rating": "2305",
         "Rapid Best Rating": "1359"
     },
-    "bonca64": {
+    {
         "Username": "bonca64",
         "Country": "Slovenia",
         "Blitz Wins": "150",
@@ -1407,7 +1407,7 @@
         "Bullet Best Rating": "2353",
         "Rapid Best Rating": "2227"
     },
-    "bonuspater18": {
+    {
         "Username": "bonuspater18",
         "Country": "Iceland",
         "Blitz Wins": "679",
@@ -1423,7 +1423,7 @@
         "Bullet Best Rating": "2843",
         "Rapid Best Rating": "2625"
     },
-    "boorrj": {
+    {
         "Username": "boorrj",
         "Country": "United States",
         "Blitz Wins": "58",
@@ -1439,7 +1439,7 @@
         "Bullet Best Rating": "3080",
         "Rapid Best Rating": "2600"
     },
-    "bosiocic": {
+    {
         "Username": "bosiocic",
         "Country": "Croatia",
         "Blitz Wins": "66",
@@ -1455,7 +1455,7 @@
         "Bullet Best Rating": "2173",
         "Rapid Best Rating": "2755"
     },
-    "brightthunder": {
+    {
         "Username": "brightthunder",
         "Country": "Spain",
         "Blitz Wins": "1159",
@@ -1471,7 +1471,7 @@
         "Bullet Best Rating": "2509",
         "Rapid Best Rating": "2533"
     },
-    "bui2512": {
+    {
         "Username": "bui2512",
         "Country": "Vietnam",
         "Blitz Wins": "337",
@@ -1487,7 +1487,7 @@
         "Bullet Best Rating": "1470",
         "Rapid Best Rating": "2392"
     },
-    "byniolus": {
+    {
         "Username": "byniolus",
         "Country": "Poland",
         "Blitz Wins": "830",
@@ -1503,7 +1503,7 @@
         "Bullet Best Rating": "2913",
         "Rapid Best Rating": "2528"
     },
-    "captainjames": {
+    {
         "Username": "captainjames",
         "Country": "Germany",
         "Blitz Wins": "620",
@@ -1519,7 +1519,7 @@
         "Bullet Best Rating": "2708",
         "Rapid Best Rating": "2206"
     },
-    "carlosalbornoz": {
+    {
         "Username": "carlosalbornoz",
         "Country": "Cuba",
         "Blitz Wins": "404",
@@ -1535,7 +1535,7 @@
         "Bullet Best Rating": "2811",
         "Rapid Best Rating": "2558"
     },
-    "cassoulet": {
+    {
         "Username": "cassoulet",
         "Country": "France",
         "Blitz Wins": "1130",
@@ -1551,7 +1551,7 @@
         "Bullet Best Rating": "2815",
         "Rapid Best Rating": "2288"
     },
-    "chabanon": {
+    {
         "Username": "chabanon",
         "Country": "France",
         "Blitz Wins": "14",
@@ -1567,7 +1567,7 @@
         "Bullet Best Rating": "2210",
         "Rapid Best Rating": "2344"
     },
-    "champ2005": {
+    {
         "Username": "champ2005",
         "Country": "United Arab Emirates",
         "Blitz Wins": "3178",
@@ -1583,7 +1583,7 @@
         "Bullet Best Rating": "3177",
         "Rapid Best Rating": "2784"
     },
-    "checkmate_107": {
+    {
         "Username": "checkmate_107",
         "Country": "India",
         "Blitz Wins": "51",
@@ -1599,7 +1599,7 @@
         "Bullet Best Rating": "2809",
         "Rapid Best Rating": "2476"
     },
-    "chefshouse": {
+    {
         "Username": "chefshouse",
         "Country": "China",
         "Blitz Wins": "101",
@@ -1615,7 +1615,7 @@
         "Bullet Best Rating": "2939",
         "Rapid Best Rating": "2884"
     },
-    "chepaschess": {
+    {
         "Username": "chepaschess",
         "Country": "Bulgaria",
         "Blitz Wins": "117",
@@ -1631,7 +1631,7 @@
         "Bullet Best Rating": "2860",
         "Rapid Best Rating": "2668"
     },
-    "chernobay_artem": {
+    {
         "Username": "chernobay_artem",
         "Country": "Russia",
         "Blitz Wins": "791",
@@ -1647,7 +1647,7 @@
         "Bullet Best Rating": "2523",
         "Rapid Best Rating": "2500"
     },
-    "chessasuke": {
+    {
         "Username": "chessasuke",
         "Country": "United States",
         "Blitz Wins": "917",
@@ -1663,7 +1663,7 @@
         "Bullet Best Rating": "2856",
         "Rapid Best Rating": "2617"
     },
-    "chessawp": {
+    {
         "Username": "chessawp",
         "Country": "China",
         "Blitz Wins": "17",
@@ -1679,7 +1679,7 @@
         "Bullet Best Rating": "2714",
         "Rapid Best Rating": "2789"
     },
-    "chessbrah": {
+    {
         "Username": "chessbrah",
         "Country": "Canada",
         "Blitz Wins": "7309",
@@ -1695,7 +1695,7 @@
         "Bullet Best Rating": "3271",
         "Rapid Best Rating": "2928"
     },
-    "chessdjw": {
+    {
         "Username": "chessdjw",
         "Country": "Germany",
         "Blitz Wins": "2032",
@@ -1711,7 +1711,7 @@
         "Bullet Best Rating": "2615",
         "Rapid Best Rating": "2336"
     },
-    "chessdude": {
+    {
         "Username": "chessdude",
         "Country": "Poland",
         "Blitz Wins": "348",
@@ -1727,7 +1727,7 @@
         "Bullet Best Rating": "2662",
         "Rapid Best Rating": "2600"
     },
-    "chesseducation4u": {
+    {
         "Username": "chesseducation4u",
         "Country": "Thailand",
         "Blitz Wins": "2078",
@@ -1743,7 +1743,7 @@
         "Bullet Best Rating": "2333",
         "Rapid Best Rating": "2328"
     },
-    "chessialist": {
+    {
         "Username": "chessialist",
         "Country": "Turkey",
         "Blitz Wins": "484",
@@ -1759,7 +1759,7 @@
         "Bullet Best Rating": "2533",
         "Rapid Best Rating": "2551"
     },
-    "chesspanda123": {
+    {
         "Username": "chesspanda123",
         "Country": "China",
         "Blitz Wins": "469",
@@ -1775,7 +1775,7 @@
         "Bullet Best Rating": "2969",
         "Rapid Best Rating": "2906"
     },
-    "chessqueen": {
+    {
         "Username": "chessqueen",
         "Country": "Russia",
         "Blitz Wins": "1716",
@@ -1791,7 +1791,7 @@
         "Bullet Best Rating": "2779",
         "Rapid Best Rating": "2610"
     },
-    "chessskool": {
+    {
         "Username": "chessskool",
         "Country": "Hungary",
         "Blitz Wins": "193",
@@ -1807,7 +1807,7 @@
         "Bullet Best Rating": "2889",
         "Rapid Best Rating": "2646"
     },
-    "chesstrainer2042": {
+    {
         "Username": "chesstrainer2042",
         "Country": "India",
         "Blitz Wins": "130",
@@ -1823,7 +1823,7 @@
         "Bullet Best Rating": "2582",
         "Rapid Best Rating": "2113"
     },
-    "chesswarrior7197": {
+    {
         "Username": "chesswarrior7197",
         "Country": "Uzbekistan",
         "Blitz Wins": "1700",
@@ -1839,7 +1839,7 @@
         "Bullet Best Rating": "3014",
         "Rapid Best Rating": "2635"
     },
-    "chessweebs": {
+    {
         "Username": "chessweebs",
         "Country": "United States",
         "Blitz Wins": "1121",
@@ -1855,7 +1855,7 @@
         "Bullet Best Rating": "3016",
         "Rapid Best Rating": "2525"
     },
-    "chito89": {
+    {
         "Username": "chito89",
         "Country": "Paraguay",
         "Blitz Wins": "2822",
@@ -1871,7 +1871,7 @@
         "Bullet Best Rating": "2919",
         "Rapid Best Rating": "2621"
     },
-    "chopper1905": {
+    {
         "Username": "chopper1905",
         "Country": "Turkey",
         "Blitz Wins": "2298",
@@ -1887,7 +1887,7 @@
         "Bullet Best Rating": "2943",
         "Rapid Best Rating": "2604"
     },
-    "classyel": {
+    {
         "Username": "classyel",
         "Country": "Armenia",
         "Blitz Wins": "4302",
@@ -1903,7 +1903,7 @@
         "Bullet Best Rating": "2533",
         "Rapid Best Rating": "2549"
     },
-    "conquering": {
+    {
         "Username": "conquering",
         "Country": "India",
         "Blitz Wins": "1337",
@@ -1919,7 +1919,7 @@
         "Bullet Best Rating": "2764",
         "Rapid Best Rating": "1412"
     },
-    "contora": {
+    {
         "Username": "contora",
         "Country": "United States",
         "Blitz Wins": "295",
@@ -1935,7 +1935,7 @@
         "Bullet Best Rating": "2410",
         "Rapid Best Rating": "2598"
     },
-    "courgete": {
+    {
         "Username": "courgete",
         "Country": "France",
         "Blitz Wins": "96",
@@ -1951,7 +1951,7 @@
         "Bullet Best Rating": "2507",
         "Rapid Best Rating": "2059"
     },
-    "crackcubano": {
+    {
         "Username": "crackcubano",
         "Country": "Cuba",
         "Blitz Wins": "2011",
@@ -1967,7 +1967,7 @@
         "Bullet Best Rating": "2295",
         "Rapid Best Rating": "2726"
     },
-    "crazyboy26": {
+    {
         "Username": "crazyboy26",
         "Country": "France",
         "Blitz Wins": "55",
@@ -1983,7 +1983,7 @@
         "Bullet Best Rating": "1929",
         "Rapid Best Rating": "2634"
     },
-    "crescentmoon2411": {
+    {
         "Username": "crescentmoon2411",
         "Country": "Vietnam",
         "Blitz Wins": "397",
@@ -1999,7 +1999,7 @@
         "Bullet Best Rating": "2938",
         "Rapid Best Rating": "2811"
     },
-    "cristhiancruzsanchez": {
+    {
         "Username": "cristhiancruzsanchez",
         "Country": "Peru",
         "Blitz Wins": "54",
@@ -2015,7 +2015,7 @@
         "Bullet Best Rating": "2738",
         "Rapid Best Rating": "2620"
     },
-    "cruel_yaro": {
+    {
         "Username": "cruel_yaro",
         "Country": "United States",
         "Blitz Wins": "1833",
@@ -2031,7 +2031,7 @@
         "Bullet Best Rating": "2799",
         "Rapid Best Rating": "2621"
     },
-    "cubitas": {
+    {
         "Username": "cubitas",
         "Country": "Paraguay",
         "Blitz Wins": "497",
@@ -2047,7 +2047,7 @@
         "Bullet Best Rating": "2539",
         "Rapid Best Rating": "2542"
     },
-    "daanbrandenburg": {
+    {
         "Username": "daanbrandenburg",
         "Country": "Netherlands",
         "Blitz Wins": "521",
@@ -2063,7 +2063,7 @@
         "Bullet Best Rating": "2583",
         "Rapid Best Rating": "2606"
     },
-    "daat": {
+    {
         "Username": "daat",
         "Country": "Norway",
         "Blitz Wins": "217",
@@ -2079,7 +2079,7 @@
         "Bullet Best Rating": "2598",
         "Rapid Best Rating": "2675"
     },
-    "daggigretarsson": {
+    {
         "Username": "daggigretarsson",
         "Country": "Iceland",
         "Blitz Wins": "1324",
@@ -2095,7 +2095,7 @@
         "Bullet Best Rating": "2717",
         "Rapid Best Rating": "2400"
     },
-    "dalmatinac101": {
+    {
         "Username": "dalmatinac101",
         "Country": "Croatia",
         "Blitz Wins": "1988",
@@ -2111,7 +2111,7 @@
         "Bullet Best Rating": "3109",
         "Rapid Best Rating": "2870"
     },
-    "dancingheaven16": {
+    {
         "Username": "dancingheaven16",
         "Country": "India",
         "Blitz Wins": "154",
@@ -2127,7 +2127,7 @@
         "Bullet Best Rating": "2072",
         "Rapid Best Rating": "2350"
     },
-    "danieldardha2005": {
+    {
         "Username": "danieldardha2005",
         "Country": "Belgium",
         "Blitz Wins": "640",
@@ -2143,7 +2143,7 @@
         "Bullet Best Rating": "2765",
         "Rapid Best Rating": "2505"
     },
-    "danielnaroditsky": {
+    {
         "Username": "danielnaroditsky",
         "Country": "United States",
         "Blitz Wins": "14818",
@@ -2159,7 +2159,7 @@
         "Bullet Best Rating": "3553",
         "Rapid Best Rating": "2919"
     },
-    "daro94": {
+    {
         "Username": "daro94",
         "Country": "United States",
         "Blitz Wins": "2143",
@@ -2175,7 +2175,7 @@
         "Bullet Best Rating": "3055",
         "Rapid Best Rating": "2735"
     },
-    "davidarenas1224": {
+    {
         "Username": "davidarenas1224",
         "Country": "Colombia",
         "Blitz Wins": "595",
@@ -2191,7 +2191,7 @@
         "Bullet Best Rating": "2519",
         "Rapid Best Rating": "2475"
     },
-    "davidmarkosyan": {
+    {
         "Username": "davidmarkosyan",
         "Country": "Russia",
         "Blitz Wins": "3866",
@@ -2207,7 +2207,7 @@
         "Bullet Best Rating": "2554",
         "Rapid Best Rating": "2058"
     },
-    "david_arutinian": {
+    {
         "Username": "david_arutinian",
         "Country": "Georgia",
         "Blitz Wins": "519",
@@ -2223,7 +2223,7 @@
         "Bullet Best Rating": "2676",
         "Rapid Best Rating": "2094"
     },
-    "dbojkov": {
+    {
         "Username": "dbojkov",
         "Country": "Bulgaria",
         "Blitz Wins": "265",
@@ -2239,7 +2239,7 @@
         "Bullet Best Rating": "2459",
         "Rapid Best Rating": "2255"
     },
-    "deadeye10": {
+    {
         "Username": "deadeye10",
         "Country": "India",
         "Blitz Wins": "10",
@@ -2255,7 +2255,7 @@
         "Bullet Best Rating": "2800",
         "Rapid Best Rating": "2706"
     },
-    "debashisdebs": {
+    {
         "Username": "debashisdebs",
         "Country": "India",
         "Blitz Wins": "539",
@@ -2271,7 +2271,7 @@
         "Bullet Best Rating": "2801",
         "Rapid Best Rating": "2691"
     },
-    "defenceboy": {
+    {
         "Username": "defenceboy",
         "Country": "China",
         "Blitz Wins": "626",
@@ -2287,7 +2287,7 @@
         "Bullet Best Rating": "3006",
         "Rapid Best Rating": "2607"
     },
-    "delhigm": {
+    {
         "Username": "delhigm",
         "Country": "India",
         "Blitz Wins": "14",
@@ -2303,7 +2303,7 @@
         "Bullet Best Rating": "2513",
         "Rapid Best Rating": "2464"
     },
-    "devikbronstein": {
+    {
         "Username": "devikbronstein",
         "Country": "India",
         "Blitz Wins": "729",
@@ -2319,7 +2319,7 @@
         "Bullet Best Rating": "2811",
         "Rapid Best Rating": "2522"
     },
-    "dhoine": {
+    {
         "Username": "dhoine",
         "Country": "Russia",
         "Blitz Wins": "163",
@@ -2335,7 +2335,7 @@
         "Bullet Best Rating": "2933",
         "Rapid Best Rating": "2515"
     },
-    "dinopopuslic": {
+    {
         "Username": "dinopopuslic",
         "Country": "Croatia",
         "Blitz Wins": "21",
@@ -2351,7 +2351,7 @@
         "Bullet Best Rating": "1680",
         "Rapid Best Rating": "2651"
     },
-    "diokletian": {
+    {
         "Username": "diokletian",
         "Country": "Ukraine",
         "Blitz Wins": "2332",
@@ -2367,7 +2367,7 @@
         "Bullet Best Rating": "2522",
         "Rapid Best Rating": "2230"
     },
-    "djojua": {
+    {
         "Username": "djojua",
         "Country": "Georgia",
         "Blitz Wins": "60",
@@ -2383,7 +2383,7 @@
         "Bullet Best Rating": "2806",
         "Rapid Best Rating": "2706"
     },
-    "dj_haubi": {
+    {
         "Username": "dj_haubi",
         "Country": "Germany",
         "Blitz Wins": "878",
@@ -2399,7 +2399,7 @@
         "Bullet Best Rating": "2570",
         "Rapid Best Rating": "2537"
     },
-    "dlugy": {
+    {
         "Username": "dlugy",
         "Country": "United States",
         "Blitz Wins": "1294",
@@ -2415,7 +2415,7 @@
         "Bullet Best Rating": "2779",
         "Rapid Best Rating": "2247"
     },
-    "dr-bassem": {
+    {
         "Username": "dr-bassem",
         "Country": "Egypt",
         "Blitz Wins": "493",
@@ -2431,7 +2431,7 @@
         "Bullet Best Rating": "2819",
         "Rapid Best Rating": "2964"
     },
-    "dragansolak": {
+    {
         "Username": "dragansolak",
         "Country": "Turkey",
         "Blitz Wins": "1361",
@@ -2447,7 +2447,7 @@
         "Bullet Best Rating": "2769",
         "Rapid Best Rating": "2679"
     },
-    "dragonflow": {
+    {
         "Username": "dragonflow",
         "Country": "Italy",
         "Blitz Wins": "794",
@@ -2463,7 +2463,7 @@
         "Bullet Best Rating": "2573",
         "Rapid Best Rating": "2661"
     },
-    "drags95": {
+    {
         "Username": "drags95",
         "Country": "Poland",
         "Blitz Wins": "1272",
@@ -2479,7 +2479,7 @@
         "Bullet Best Rating": "2973",
         "Rapid Best Rating": "2609"
     },
-    "dretch": {
+    {
         "Username": "dretch",
         "Country": "United States",
         "Blitz Wins": "1036",
@@ -2495,7 +2495,7 @@
         "Bullet Best Rating": "3014",
         "Rapid Best Rating": "2860"
     },
-    "drvelja": {
+    {
         "Username": "drvelja",
         "Country": "Serbia",
         "Blitz Wins": "1768",
@@ -2511,7 +2511,7 @@
         "Bullet Best Rating": "3057",
         "Rapid Best Rating": "2334"
     },
-    "drycounty": {
+    {
         "Username": "drycounty",
         "Country": "United States",
         "Blitz Wins": "7989",
@@ -2527,7 +2527,7 @@
         "Bullet Best Rating": "2702",
         "Rapid Best Rating": "2774"
     },
-    "duanlian": {
+    {
         "Username": "duanlian",
         "Country": "China",
         "Blitz Wins": "12",
@@ -2543,7 +2543,7 @@
         "Bullet Best Rating": "2377",
         "Rapid Best Rating": "2526"
     },
-    "dudedoel": {
+    {
         "Username": "dudedoel",
         "Country": "Netherlands",
         "Blitz Wins": "18",
@@ -2559,7 +2559,7 @@
         "Bullet Best Rating": "2447",
         "Rapid Best Rating": "2475"
     },
-    "duhless": {
+    {
         "Username": "duhless",
         "Country": "Russia",
         "Blitz Wins": "3724",
@@ -2575,7 +2575,7 @@
         "Bullet Best Rating": "3058",
         "Rapid Best Rating": "2940"
     },
-    "durarbayli": {
+    {
         "Username": "durarbayli",
         "Country": "Azerbaijan",
         "Blitz Wins": "1935",
@@ -2591,7 +2591,7 @@
         "Bullet Best Rating": "2774",
         "Rapid Best Rating": "2732"
     },
-    "dusanacns": {
+    {
         "Username": "dusanacns",
         "Country": "Serbia",
         "Blitz Wins": "871",
@@ -2607,7 +2607,7 @@
         "Bullet Best Rating": "2827",
         "Rapid Best Rating": "2000"
     },
-    "dyadya81": {
+    {
         "Username": "dyadya81",
         "Country": "Armenia",
         "Blitz Wins": "1197",
@@ -2623,7 +2623,7 @@
         "Bullet Best Rating": "2832",
         "Rapid Best Rating": "2527"
     },
-    "dynamikus": {
+    {
         "Username": "dynamikus",
         "Country": "Switzerland",
         "Blitz Wins": "837",
@@ -2639,7 +2639,7 @@
         "Bullet Best Rating": "2747",
         "Rapid Best Rating": "2413"
     },
-    "earlgreynow": {
+    {
         "Username": "earlgreynow",
         "Country": "Qatar",
         "Blitz Wins": "576",
@@ -2655,7 +2655,7 @@
         "Bullet Best Rating": "2336",
         "Rapid Best Rating": "2206"
     },
-    "ehsan_ghaemmaghami": {
+    {
         "Username": "ehsan_ghaemmaghami",
         "Country": "Iran",
         "Blitz Wins": "2073",
@@ -2671,7 +2671,7 @@
         "Bullet Best Rating": "2975",
         "Rapid Best Rating": "2782"
     },
-    "elefante33": {
+    {
         "Username": "elefante33",
         "Country": "Brazil",
         "Blitz Wins": "537",
@@ -2687,7 +2687,7 @@
         "Bullet Best Rating": "2780",
         "Rapid Best Rating": "2578"
     },
-    "elegance_riks": {
+    {
         "Username": "elegance_riks",
         "Country": "India",
         "Blitz Wins": "131",
@@ -2703,7 +2703,7 @@
         "Bullet Best Rating": "2687",
         "Rapid Best Rating": "2624"
     },
-    "elgasanov": {
+    {
         "Username": "elgasanov",
         "Country": "Ukraine",
         "Blitz Wins": "349",
@@ -2719,7 +2719,7 @@
         "Bullet Best Rating": "2365",
         "Rapid Best Rating": "2544"
     },
-    "elhelvetico": {
+    {
         "Username": "elhelvetico",
         "Country": "Switzerland",
         "Blitz Wins": "1025",
@@ -2735,7 +2735,7 @@
         "Bullet Best Rating": "2691",
         "Rapid Best Rating": "2618"
     },
-    "elshan1985": {
+    {
         "Username": "elshan1985",
         "Country": "United States",
         "Blitz Wins": "1522",
@@ -2751,7 +2751,7 @@
         "Bullet Best Rating": "2840",
         "Rapid Best Rating": "2816"
     },
-    "eltaj_safarli": {
+    {
         "Username": "eltaj_safarli",
         "Country": "Azerbaijan",
         "Blitz Wins": "504",
@@ -2767,7 +2767,7 @@
         "Bullet Best Rating": "3085",
         "Rapid Best Rating": "2729"
     },
-    "emiliocordova": {
+    {
         "Username": "emiliocordova",
         "Country": "Peru",
         "Blitz Wins": "1200",
@@ -2783,7 +2783,7 @@
         "Bullet Best Rating": "2879",
         "Rapid Best Rating": "2609"
     },
-    "enajer77": {
+    {
         "Username": "enajer77",
         "Country": "Russia",
         "Blitz Wins": "362",
@@ -2799,7 +2799,7 @@
         "Bullet Best Rating": "2576",
         "Rapid Best Rating": "2467"
     },
-    "enki007": {
+    {
         "Username": "enki007",
         "Country": "Ukraine",
         "Blitz Wins": "76",
@@ -2815,7 +2815,7 @@
         "Bullet Best Rating": "2646",
         "Rapid Best Rating": "2585"
     },
-    "erichansen": {
+    {
         "Username": "erichansen",
         "Country": "Canada",
         "Blitz Wins": "5430",
@@ -2831,7 +2831,7 @@
         "Bullet Best Rating": "3265",
         "Rapid Best Rating": "2805"
     },
-    "erikblomqvist": {
+    {
         "Username": "erikblomqvist",
         "Country": "Sweden",
         "Blitz Wins": "137",
@@ -2847,7 +2847,7 @@
         "Bullet Best Rating": "2403",
         "Rapid Best Rating": "2711"
     },
-    "etoilegeniale": {
+    {
         "Username": "etoilegeniale",
         "Country": "France",
         "Blitz Wins": "296",
@@ -2863,7 +2863,7 @@
         "Bullet Best Rating": "2508",
         "Rapid Best Rating": "2595"
     },
-    "evandro_barbosa": {
+    {
         "Username": "evandro_barbosa",
         "Country": "Brazil",
         "Blitz Wins": "8389",
@@ -2879,7 +2879,7 @@
         "Bullet Best Rating": "2675",
         "Rapid Best Rating": "2501"
     },
-    "evgeny81": {
+    {
         "Username": "evgeny81",
         "Country": "Israel",
         "Blitz Wins": "402",
@@ -2895,7 +2895,7 @@
         "Bullet Best Rating": "2203",
         "Rapid Best Rating": "2719"
     },
-    "evgenysharapov": {
+    {
         "Username": "evgenysharapov",
         "Country": "Ukraine",
         "Blitz Wins": "842",
@@ -2911,7 +2911,7 @@
         "Bullet Best Rating": "2222",
         "Rapid Best Rating": "2333"
     },
-    "evgenyt": {
+    {
         "Username": "evgenyt",
         "Country": "Russia",
         "Blitz Wins": "664",
@@ -2927,7 +2927,7 @@
         "Bullet Best Rating": "2290",
         "Rapid Best Rating": "2832"
     },
-    "exoticprincess": {
+    {
         "Username": "exoticprincess",
         "Country": "Georgia",
         "Blitz Wins": "1515",
@@ -2943,7 +2943,7 @@
         "Bullet Best Rating": "2992",
         "Rapid Best Rating": "2740"
     },
-    "fabianocaruana": {
+    {
         "Username": "fabianocaruana",
         "Country": "United States",
         "Blitz Wins": "552",
@@ -2959,7 +2959,7 @@
         "Bullet Best Rating": "2949",
         "Rapid Best Rating": "3045"
     },
-    "fablibi": {
+    {
         "Username": "fablibi",
         "Country": "France",
         "Blitz Wins": "1225",
@@ -2975,7 +2975,7 @@
         "Bullet Best Rating": "2757",
         "Rapid Best Rating": "2565"
     },
-    "fandorine": {
+    {
         "Username": "fandorine",
         "Country": "Russia",
         "Blitz Wins": "1383",
@@ -2991,7 +2991,7 @@
         "Bullet Best Rating": "2891",
         "Rapid Best Rating": "2770"
     },
-    "faqade": {
+    {
         "Username": "faqade",
         "Country": "Greece",
         "Blitz Wins": "901",
@@ -3007,7 +3007,7 @@
         "Bullet Best Rating": "2729",
         "Rapid Best Rating": "2945"
     },
-    "farrukh_amonatov": {
+    {
         "Username": "farrukh_amonatov",
         "Country": "Russia",
         "Blitz Wins": "3147",
@@ -3023,7 +3023,7 @@
         "Bullet Best Rating": "2764",
         "Rapid Best Rating": "2615"
     },
-    "fatupss": {
+    {
         "Username": "fatupss",
         "Country": "United States",
         "Blitz Wins": "551",
@@ -3039,7 +3039,7 @@
         "Bullet Best Rating": "2774",
         "Rapid Best Rating": "2543"
     },
-    "fcchelsea14": {
+    {
         "Username": "fcchelsea14",
         "Country": "Vietnam",
         "Blitz Wins": "2441",
@@ -3055,7 +3055,7 @@
         "Bullet Best Rating": "2655",
         "Rapid Best Rating": "2717"
     },
-    "fighterman91": {
+    {
         "Username": "fighterman91",
         "Country": "Iran",
         "Blitz Wins": "1247",
@@ -3071,7 +3071,7 @@
         "Bullet Best Rating": "2832",
         "Rapid Best Rating": "2260"
     },
-    "filippov_anton": {
+    {
         "Username": "filippov_anton",
         "Country": "Kazakhstan",
         "Blitz Wins": "352",
@@ -3087,7 +3087,7 @@
         "Bullet Best Rating": "2568",
         "Rapid Best Rating": "1974"
     },
-    "firegrizzly": {
+    {
         "Username": "firegrizzly",
         "Country": "Romania",
         "Blitz Wins": "1146",
@@ -3103,7 +3103,7 @@
         "Bullet Best Rating": "2477",
         "Rapid Best Rating": "2500"
     },
-    "fireheart92": {
+    {
         "Username": "fireheart92",
         "Country": "India",
         "Blitz Wins": "428",
@@ -3119,7 +3119,7 @@
         "Bullet Best Rating": "2939",
         "Rapid Best Rating": "2863"
     },
-    "firouzja2003": {
+    {
         "Username": "firouzja2003",
         "Country": "Iran",
         "Blitz Wins": "5773",
@@ -3135,7 +3135,7 @@
         "Bullet Best Rating": "3521",
         "Rapid Best Rating": "2807"
     },
-    "fodorpoti": {
+    {
         "Username": "fodorpoti",
         "Country": "Hungary",
         "Blitz Wins": "425",
@@ -3151,7 +3151,7 @@
         "Bullet Best Rating": "2647",
         "Rapid Best Rating": "2518"
     },
-    "foewa98": {
+    {
         "Username": "foewa98",
         "Country": "Jamaica",
         "Blitz Wins": "303",
@@ -3167,7 +3167,7 @@
         "Bullet Best Rating": "2002",
         "Rapid Best Rating": "1375"
     },
-    "formerprodigy": {
+    {
         "Username": "formerprodigy",
         "Country": "Czech Republic",
         "Blitz Wins": "332",
@@ -3183,7 +3183,7 @@
         "Bullet Best Rating": "3044",
         "Rapid Best Rating": "2943"
     },
-    "ftorodent": {
+    {
         "Username": "ftorodent",
         "Country": "Russia",
         "Blitz Wins": "330",
@@ -3199,7 +3199,7 @@
         "Bullet Best Rating": "2603",
         "Rapid Best Rating": "2291"
     },
-    "fyall777": {
+    {
         "Username": "fyall777",
         "Country": "Portugal",
         "Blitz Wins": "14015",
@@ -3215,7 +3215,7 @@
         "Bullet Best Rating": "1200",
         "Rapid Best Rating": "1200"
     },
-    "g3god": {
+    {
         "Username": "g3god",
         "Country": "India",
         "Blitz Wins": "772",
@@ -3231,7 +3231,7 @@
         "Bullet Best Rating": "2827",
         "Rapid Best Rating": "2829"
     },
-    "gabix_94": {
+    {
         "Username": "gabix_94",
         "Country": "Hungary",
         "Blitz Wins": "2756",
@@ -3247,7 +3247,7 @@
         "Bullet Best Rating": "2931",
         "Rapid Best Rating": "2571"
     },
-    "gabrielian_artur": {
+    {
         "Username": "gabrielian_artur",
         "Country": "Russia",
         "Blitz Wins": "1096",
@@ -3263,7 +3263,7 @@
         "Bullet Best Rating": "2810",
         "Rapid Best Rating": "2844"
     },
-    "gabuzyan_chessmood": {
+    {
         "Username": "gabuzyan_chessmood",
         "Country": "Armenia",
         "Blitz Wins": "1876",
@@ -3279,7 +3279,7 @@
         "Bullet Best Rating": "3067",
         "Rapid Best Rating": "2571"
     },
-    "gaguna": {
+    {
         "Username": "gaguna",
         "Country": "Georgia",
         "Blitz Wins": "328",
@@ -3295,7 +3295,7 @@
         "Bullet Best Rating": "2549",
         "Rapid Best Rating": "2572"
     },
-    "gajuchess": {
+    {
         "Username": "gajuchess",
         "Country": "Poland",
         "Blitz Wins": "2855",
@@ -3311,7 +3311,7 @@
         "Bullet Best Rating": "2819",
         "Rapid Best Rating": "2756"
     },
-    "gakashchess": {
+    {
         "Username": "gakashchess",
         "Country": "India",
         "Blitz Wins": "11",
@@ -3327,7 +3327,7 @@
         "Bullet Best Rating": "2866",
         "Rapid Best Rating": "2621"
     },
-    "garcho08": {
+    {
         "Username": "garcho08",
         "Country": "Indonesia",
         "Blitz Wins": "3028",
@@ -3343,7 +3343,7 @@
         "Bullet Best Rating": "2893",
         "Rapid Best Rating": "2564"
     },
-    "gasconchess-youtube": {
+    {
         "Username": "gasconchess-youtube",
         "Country": "Timor-Leste",
         "Blitz Wins": "2407",
@@ -3359,7 +3359,7 @@
         "Bullet Best Rating": "2530",
         "Rapid Best Rating": "2679"
     },
-    "geller_jakov": {
+    {
         "Username": "geller_jakov",
         "Country": "Russia",
         "Blitz Wins": "74",
@@ -3375,7 +3375,7 @@
         "Bullet Best Rating": "2806",
         "Rapid Best Rating": "2377"
     },
-    "geminiboy": {
+    {
         "Username": "geminiboy",
         "Country": "China",
         "Blitz Wins": "361",
@@ -3391,7 +3391,7 @@
         "Bullet Best Rating": "2692",
         "Rapid Best Rating": "2000"
     },
-    "gen-gutman": {
+    {
         "Username": "gen-gutman",
         "Country": "Ukraine",
         "Blitz Wins": "381",
@@ -3407,7 +3407,7 @@
         "Bullet Best Rating": "2659",
         "Rapid Best Rating": "2161"
     },
-    "genghis_k": {
+    {
         "Username": "genghis_k",
         "Country": "Argentina",
         "Blitz Wins": "980",
@@ -3423,7 +3423,7 @@
         "Bullet Best Rating": "3265",
         "Rapid Best Rating": "2701"
     },
-    "georgescu_tiberiu": {
+    {
         "Username": "georgescu_tiberiu",
         "Country": "Romania",
         "Blitz Wins": "795",
@@ -3439,7 +3439,7 @@
         "Bullet Best Rating": "2584",
         "Rapid Best Rating": "2003"
     },
-    "georgmeier": {
+    {
         "Username": "georgmeier",
         "Country": "Uruguay",
         "Blitz Wins": "3403",
@@ -3455,7 +3455,7 @@
         "Bullet Best Rating": "3023",
         "Rapid Best Rating": "2924"
     },
-    "gguseinov": {
+    {
         "Username": "gguseinov",
         "Country": "Azerbaijan",
         "Blitz Wins": "272",
@@ -3471,7 +3471,7 @@
         "Bullet Best Rating": "3028",
         "Rapid Best Rating": "2771"
     },
-    "ghandeevam2003": {
+    {
         "Username": "ghandeevam2003",
         "Country": "India",
         "Blitz Wins": "3381",
@@ -3487,7 +3487,7 @@
         "Bullet Best Rating": "3236",
         "Rapid Best Rating": "2461"
     },
-    "giantslayer83": {
+    {
         "Username": "giantslayer83",
         "Country": "India",
         "Blitz Wins": "538",
@@ -3503,7 +3503,7 @@
         "Bullet Best Rating": "2395",
         "Rapid Best Rating": "2326"
     },
-    "gigaquparadze": {
+    {
         "Username": "gigaquparadze",
         "Country": "Georgia",
         "Blitz Wins": "7392",
@@ -3519,7 +3519,7 @@
         "Bullet Best Rating": "2877",
         "Rapid Best Rating": "2940"
     },
-    "gilmil": {
+    {
         "Username": "gilmil",
         "Country": "Brazil",
         "Blitz Wins": "2258",
@@ -3535,7 +3535,7 @@
         "Bullet Best Rating": "2020",
         "Rapid Best Rating": "2575"
     },
-    "ginger_gm": {
+    {
         "Username": "ginger_gm",
         "Country": "United Kingdom",
         "Blitz Wins": "10819",
@@ -3551,7 +3551,7 @@
         "Bullet Best Rating": "2675",
         "Rapid Best Rating": "2469"
     },
-    "glek_igor": {
+    {
         "Username": "glek_igor",
         "Country": "Russia",
         "Blitz Wins": "282",
@@ -3567,7 +3567,7 @@
         "Bullet Best Rating": "1356",
         "Rapid Best Rating": "2507"
     },
-    "gliglu": {
+    {
         "Username": "gliglu",
         "Country": "Poland",
         "Blitz Wins": "1275",
@@ -3583,7 +3583,7 @@
         "Bullet Best Rating": "2292",
         "Rapid Best Rating": "2452"
     },
-    "gmalex1971": {
+    {
         "Username": "gmalex1971",
         "Country": "Bulgaria",
         "Blitz Wins": "754",
@@ -3599,7 +3599,7 @@
         "Bullet Best Rating": "2141",
         "Rapid Best Rating": "2535"
     },
-    "gmalmeida": {
+    {
         "Username": "gmalmeida",
         "Country": "Cuba",
         "Blitz Wins": "548",
@@ -3615,7 +3615,7 @@
         "Bullet Best Rating": "2342",
         "Rapid Best Rating": "2592"
     },
-    "gmarunchess": {
+    {
         "Username": "gmarunchess",
         "Country": "United States",
         "Blitz Wins": "136",
@@ -3631,7 +3631,7 @@
         "Bullet Best Rating": "2659",
         "Rapid Best Rating": "2123"
     },
-    "gmbenjaminbok": {
+    {
         "Username": "gmbenjaminbok",
         "Country": "Netherlands",
         "Blitz Wins": "1954",
@@ -3647,7 +3647,7 @@
         "Bullet Best Rating": "2985",
         "Rapid Best Rating": "2715"
     },
-    "gmbenjaminfinegold": {
+    {
         "Username": "gmbenjaminfinegold",
         "Country": "United States",
         "Blitz Wins": "5204",
@@ -3663,7 +3663,7 @@
         "Bullet Best Rating": "2793",
         "Rapid Best Rating": "2516"
     },
-    "gmchessrob": {
+    {
         "Username": "gmchessrob",
         "Country": "United States",
         "Blitz Wins": "413",
@@ -3679,7 +3679,7 @@
         "Bullet Best Rating": "2656",
         "Rapid Best Rating": "2532"
     },
-    "gmcorrales": {
+    {
         "Username": "gmcorrales",
         "Country": "United States",
         "Blitz Wins": "6254",
@@ -3695,7 +3695,7 @@
         "Bullet Best Rating": "2866",
         "Rapid Best Rating": "2539"
     },
-    "gmcyborek": {
+    {
         "Username": "gmcyborek",
         "Country": "Poland",
         "Blitz Wins": "2116",
@@ -3711,7 +3711,7 @@
         "Bullet Best Rating": "2659",
         "Rapid Best Rating": "2000"
     },
-    "gmg": {
+    {
         "Username": "gmg",
         "Country": "United States",
         "Blitz Wins": "6801",
@@ -3727,7 +3727,7 @@
         "Bullet Best Rating": "2804",
         "Rapid Best Rating": "2763"
     },
-    "gmharikrishna": {
+    {
         "Username": "gmharikrishna",
         "Country": "India",
         "Blitz Wins": "334",
@@ -3743,7 +3743,7 @@
         "Bullet Best Rating": "3020",
         "Rapid Best Rating": "2869"
     },
-    "gmhess": {
+    {
         "Username": "gmhess",
         "Country": "France",
         "Blitz Wins": "7866",
@@ -3759,7 +3759,7 @@
         "Bullet Best Rating": "2901",
         "Rapid Best Rating": "2664"
     },
-    "gmjlh": {
+    {
         "Username": "gmjlh",
         "Country": "Norway",
         "Blitz Wins": "2863",
@@ -3775,7 +3775,7 @@
         "Bullet Best Rating": "3070",
         "Rapid Best Rating": "2754"
     },
-    "gmjoey1": {
+    {
         "Username": "gmjoey1",
         "Country": "Philippines",
         "Blitz Wins": "29619",
@@ -3791,7 +3791,7 @@
         "Bullet Best Rating": "2972",
         "Rapid Best Rating": "2426"
     },
-    "gmkomarov": {
+    {
         "Username": "gmkomarov",
         "Country": "United Arab Emirates",
         "Blitz Wins": "179",
@@ -3807,7 +3807,7 @@
         "Bullet Best Rating": "2617",
         "Rapid Best Rating": "2392"
     },
-    "gmkrikor": {
+    {
         "Username": "gmkrikor",
         "Country": "Brazil",
         "Blitz Wins": "9374",
@@ -3823,7 +3823,7 @@
         "Bullet Best Rating": "2888",
         "Rapid Best Rating": "2613"
     },
-    "gmlazarobruzon": {
+    {
         "Username": "gmlazarobruzon",
         "Country": "United States",
         "Blitz Wins": "789",
@@ -3839,7 +3839,7 @@
         "Bullet Best Rating": "2555",
         "Rapid Best Rating": "2775"
     },
-    "gmmarcindziuba": {
+    {
         "Username": "gmmarcindziuba",
         "Country": "Poland",
         "Blitz Wins": "405",
@@ -3855,7 +3855,7 @@
         "Bullet Best Rating": "2483",
         "Rapid Best Rating": "2557"
     },
-    "gmmatamoros": {
+    {
         "Username": "gmmatamoros",
         "Country": "Ecuador",
         "Blitz Wins": "687",
@@ -3871,7 +3871,7 @@
         "Bullet Best Rating": "2587",
         "Rapid Best Rating": "2430"
     },
-    "gmmelik": {
+    {
         "Username": "gmmelik",
         "Country": "United States",
         "Blitz Wins": "4867",
@@ -3887,7 +3887,7 @@
         "Bullet Best Rating": "2569",
         "Rapid Best Rating": "2530"
     },
-    "gmmoranda": {
+    {
         "Username": "gmmoranda",
         "Country": "Poland",
         "Blitz Wins": "405",
@@ -3903,7 +3903,7 @@
         "Bullet Best Rating": "2945",
         "Rapid Best Rating": "2605"
     },
-    "gmneiksans": {
+    {
         "Username": "gmneiksans",
         "Country": "Latvia",
         "Blitz Wins": "1916",
@@ -3919,7 +3919,7 @@
         "Bullet Best Rating": "2883",
         "Rapid Best Rating": "2742"
     },
-    "gmnickpert": {
+    {
         "Username": "gmnickpert",
         "Country": "United Kingdom",
         "Blitz Wins": "106",
@@ -3935,7 +3935,7 @@
         "Bullet Best Rating": "2767",
         "Rapid Best Rating": "2569"
     },
-    "gmoratovsky": {
+    {
         "Username": "gmoratovsky",
         "Country": "Spain",
         "Blitz Wins": "324",
@@ -3951,7 +3951,7 @@
         "Bullet Best Rating": "2507",
         "Rapid Best Rating": "2200"
     },
-    "gmpontuscarlsson": {
+    {
         "Username": "gmpontuscarlsson",
         "Country": "Sweden",
         "Blitz Wins": "2916",
@@ -3967,7 +3967,7 @@
         "Bullet Best Rating": "2671",
         "Rapid Best Rating": "2471"
     },
-    "gmrafaelleitao": {
+    {
         "Username": "gmrafaelleitao",
         "Country": "Brazil",
         "Blitz Wins": "339",
@@ -3983,7 +3983,7 @@
         "Bullet Best Rating": "2225",
         "Rapid Best Rating": "2659"
     },
-    "gmreniergonzalez": {
+    {
         "Username": "gmreniergonzalez",
         "Country": "United States",
         "Blitz Wins": "176",
@@ -3999,7 +3999,7 @@
         "Bullet Best Rating": "2691",
         "Rapid Best Rating": "2477"
     },
-    "gmsergiobarrientos": {
+    {
         "Username": "gmsergiobarrientos",
         "Country": "Colombia",
         "Blitz Wins": "221",
@@ -4015,7 +4015,7 @@
         "Bullet Best Rating": "2891",
         "Rapid Best Rating": "2500"
     },
-    "gmsrinath": {
+    {
         "Username": "gmsrinath",
         "Country": "India",
         "Blitz Wins": "1246",
@@ -4031,7 +4031,7 @@
         "Bullet Best Rating": "3018",
         "Rapid Best Rating": "2865"
     },
-    "gmstefanova": {
+    {
         "Username": "gmstefanova",
         "Country": "Bulgaria",
         "Blitz Wins": "95",
@@ -4047,7 +4047,7 @@
         "Bullet Best Rating": "2647",
         "Rapid Best Rating": "2717"
     },
-    "gmtalks_youtube": {
+    {
         "Username": "gmtalks_youtube",
         "Country": "Denmark",
         "Blitz Wins": "1505",
@@ -4063,7 +4063,7 @@
         "Bullet Best Rating": "2686",
         "Rapid Best Rating": "2542"
     },
-    "gmtazbir": {
+    {
         "Username": "gmtazbir",
         "Country": "Poland",
         "Blitz Wins": "568",
@@ -4079,7 +4079,7 @@
         "Bullet Best Rating": "2886",
         "Rapid Best Rating": "2080"
     },
-    "gmvallejo": {
+    {
         "Username": "gmvallejo",
         "Country": "Spain",
         "Blitz Wins": "405",
@@ -4095,7 +4095,7 @@
         "Bullet Best Rating": "2936",
         "Rapid Best Rating": "2713"
     },
-    "gmwso": {
+    {
         "Username": "gmwso",
         "Country": "United States",
         "Blitz Wins": "614",
@@ -4111,7 +4111,7 @@
         "Bullet Best Rating": "3206",
         "Rapid Best Rating": "2938"
     },
-    "gm_andrei_murariu": {
+    {
         "Username": "gm_andrei_murariu",
         "Country": "Romania",
         "Blitz Wins": "445",
@@ -4127,7 +4127,7 @@
         "Bullet Best Rating": "2128",
         "Rapid Best Rating": "1970"
     },
-    "gm_barcenilla": {
+    {
         "Username": "gm_barcenilla",
         "Country": "Philippines",
         "Blitz Wins": "228",
@@ -4143,7 +4143,7 @@
         "Bullet Best Rating": "2979",
         "Rapid Best Rating": "2460"
     },
-    "gm_batchuluun": {
+    {
         "Username": "gm_batchuluun",
         "Country": "Mongolia",
         "Blitz Wins": "107",
@@ -4159,7 +4159,7 @@
         "Bullet Best Rating": "2793",
         "Rapid Best Rating": "2656"
     },
-    "gm_crest": {
+    {
         "Username": "gm_crest",
         "Country": "Russia",
         "Blitz Wins": "324",
@@ -4175,7 +4175,7 @@
         "Bullet Best Rating": "2873",
         "Rapid Best Rating": "2547"
     },
-    "gm_d85": {
+    {
         "Username": "gm_d85",
         "Country": "International",
         "Blitz Wins": "316",
@@ -4191,7 +4191,7 @@
         "Bullet Best Rating": "2923",
         "Rapid Best Rating": "2859"
     },
-    "gm_darwinlaylo": {
+    {
         "Username": "gm_darwinlaylo",
         "Country": "Philippines",
         "Blitz Wins": "847",
@@ -4207,7 +4207,7 @@
         "Bullet Best Rating": "2471",
         "Rapid Best Rating": "2451"
     },
-    "gm_dmitrij": {
+    {
         "Username": "gm_dmitrij",
         "Country": "Germany",
         "Blitz Wins": "10950",
@@ -4223,7 +4223,7 @@
         "Bullet Best Rating": "3110",
         "Rapid Best Rating": "2914"
     },
-    "gm_donatello": {
+    {
         "Username": "gm_donatello",
         "Country": "Slovenia",
         "Blitz Wins": "3374",
@@ -4239,7 +4239,7 @@
         "Bullet Best Rating": "2884",
         "Rapid Best Rating": "2626"
     },
-    "gm_levan_pantsulaia": {
+    {
         "Username": "gm_levan_pantsulaia",
         "Country": "Georgia",
         "Blitz Wins": "624",
@@ -4255,7 +4255,7 @@
         "Bullet Best Rating": "2692",
         "Rapid Best Rating": "2782"
     },
-    "gm_petrovich": {
+    {
         "Username": "gm_petrovich",
         "Country": "United Arab Emirates",
         "Blitz Wins": "1620",
@@ -4271,7 +4271,7 @@
         "Bullet Best Rating": "2612",
         "Rapid Best Rating": "2098"
     },
-    "gm_rashid": {
+    {
         "Username": "gm_rashid",
         "Country": "Uzbekistan",
         "Blitz Wins": "310",
@@ -4287,7 +4287,7 @@
         "Bullet Best Rating": "2312",
         "Rapid Best Rating": "2361"
     },
-    "gm_robertomogranzini": {
+    {
         "Username": "gm_robertomogranzini",
         "Country": "Italy",
         "Blitz Wins": "3021",
@@ -4303,7 +4303,7 @@
         "Bullet Best Rating": "2573",
         "Rapid Best Rating": "2203"
     },
-    "gm_shahin": {
+    {
         "Username": "gm_shahin",
         "Country": "Iran",
         "Blitz Wins": "2423",
@@ -4319,7 +4319,7 @@
         "Bullet Best Rating": "2857",
         "Rapid Best Rating": "1441"
     },
-    "gnowreopard": {
+    {
         "Username": "gnowreopard",
         "Country": "China",
         "Blitz Wins": "641",
@@ -4335,7 +4335,7 @@
         "Bullet Best Rating": "2626",
         "Rapid Best Rating": "2548"
     },
-    "gogieff": {
+    {
         "Username": "gogieff",
         "Country": "Ukraine",
         "Blitz Wins": "685",
@@ -4351,7 +4351,7 @@
         "Bullet Best Rating": "2903",
         "Rapid Best Rating": "2876"
     },
-    "gorato": {
+    {
         "Username": "gorato",
         "Country": "Serbia",
         "Blitz Wins": "72",
@@ -4367,7 +4367,7 @@
         "Bullet Best Rating": "2510",
         "Rapid Best Rating": "2450"
     },
-    "gordima": {
+    {
         "Username": "gordima",
         "Country": "Russia",
         "Blitz Wins": "1512",
@@ -4383,7 +4383,7 @@
         "Bullet Best Rating": "2884",
         "Rapid Best Rating": "2513"
     },
-    "goryachkina": {
+    {
         "Username": "goryachkina",
         "Country": "Russia",
         "Blitz Wins": "282",
@@ -4399,7 +4399,7 @@
         "Bullet Best Rating": "1969",
         "Rapid Best Rating": "2695"
     },
-    "grafdemontekritz": {
+    {
         "Username": "grafdemontekritz",
         "Country": "United States",
         "Blitz Wins": "13",
@@ -4415,7 +4415,7 @@
         "Bullet Best Rating": "2529",
         "Rapid Best Rating": "2234"
     },
-    "grandelicious": {
+    {
         "Username": "grandelicious",
         "Country": "Sweden",
         "Blitz Wins": "356",
@@ -4431,7 +4431,7 @@
         "Bullet Best Rating": "3029",
         "Rapid Best Rating": "2768"
     },
-    "grandmaster1369": {
+    {
         "Username": "grandmaster1369",
         "Country": "Iran",
         "Blitz Wins": "546",
@@ -4447,7 +4447,7 @@
         "Bullet Best Rating": "2731",
         "Rapid Best Rating": "2547"
     },
-    "grischuk": {
+    {
         "Username": "grischuk",
         "Country": "Russia",
         "Blitz Wins": "616",
@@ -4463,7 +4463,7 @@
         "Bullet Best Rating": "3310",
         "Rapid Best Rating": "2837"
     },
-    "groovykettle": {
+    {
         "Username": "groovykettle",
         "Country": "Netherlands",
         "Blitz Wins": "1267",
@@ -4479,7 +4479,7 @@
         "Bullet Best Rating": "2946",
         "Rapid Best Rating": "2342"
     },
-    "grzechu96": {
+    {
         "Username": "grzechu96",
         "Country": "Poland",
         "Blitz Wins": "519",
@@ -4495,7 +4495,7 @@
         "Bullet Best Rating": "2379",
         "Rapid Best Rating": "2552"
     },
-    "guenplen": {
+    {
         "Username": "guenplen",
         "Country": "Russia",
         "Blitz Wins": "1117",
@@ -4511,7 +4511,7 @@
         "Bullet Best Rating": "3013",
         "Rapid Best Rating": "2601"
     },
-    "gukeshdommaraju": {
+    {
         "Username": "gukeshdommaraju",
         "Country": "India",
         "Blitz Wins": "1793",
@@ -4527,7 +4527,7 @@
         "Bullet Best Rating": "2816",
         "Rapid Best Rating": "2594"
     },
-    "gutovandrey": {
+    {
         "Username": "gutovandrey",
         "Country": "Russia",
         "Blitz Wins": "88",
@@ -4543,7 +4543,7 @@
         "Bullet Best Rating": "2230",
         "Rapid Best Rating": "2800"
     },
-    "hamisandwich": {
+    {
         "Username": "hamisandwich",
         "Country": "Moldova",
         "Blitz Wins": "2663",
@@ -4559,7 +4559,7 @@
         "Bullet Best Rating": "2722",
         "Rapid Best Rating": "2241"
     },
-    "hamonde": {
+    {
         "Username": "hamonde",
         "Country": "Philippines",
         "Blitz Wins": "311",
@@ -4575,7 +4575,7 @@
         "Bullet Best Rating": "2735",
         "Rapid Best Rating": "2562"
     },
-    "hansontwitch": {
+    {
         "Username": "hansontwitch",
         "Country": "United States",
         "Blitz Wins": "630",
@@ -4591,7 +4591,7 @@
         "Bullet Best Rating": "3227",
         "Rapid Best Rating": "2627"
     },
-    "hanzo_hasashi1": {
+    {
         "Username": "hanzo_hasashi1",
         "Country": "Uzbekistan",
         "Blitz Wins": "181",
@@ -4607,7 +4607,7 @@
         "Bullet Best Rating": "2827",
         "Rapid Best Rating": "2826"
     },
-    "harry_rakkel": {
+    {
         "Username": "harry_rakkel",
         "Country": "Poland",
         "Blitz Wins": "812",
@@ -4623,7 +4623,7 @@
         "Bullet Best Rating": "2531",
         "Rapid Best Rating": "2589"
     },
-    "harsha_bharathakoti": {
+    {
         "Username": "harsha_bharathakoti",
         "Country": "India",
         "Blitz Wins": "1159",
@@ -4639,7 +4639,7 @@
         "Bullet Best Rating": "3037",
         "Rapid Best Rating": "2453"
     },
-    "hasangatin_ramil": {
+    {
         "Username": "hasangatin_ramil",
         "Country": "Russia",
         "Blitz Wins": "809",
@@ -4655,7 +4655,7 @@
         "Bullet Best Rating": "2449",
         "Rapid Best Rating": "2502"
     },
-    "heliopsis": {
+    {
         "Username": "heliopsis",
         "Country": "Poland",
         "Blitz Wins": "299",
@@ -4671,7 +4671,7 @@
         "Bullet Best Rating": "2675",
         "Rapid Best Rating": "2500"
     },
-    "hikaru": {
+    {
         "Username": "hikaru",
         "Country": "United States",
         "Blitz Wins": "19643",
@@ -4687,7 +4687,7 @@
         "Bullet Best Rating": "3570",
         "Rapid Best Rating": "2829"
     },
-    "hissha": {
+    {
         "Username": "hissha",
         "Country": "United States",
         "Blitz Wins": "38",
@@ -4703,7 +4703,7 @@
         "Bullet Best Rating": "2022",
         "Rapid Best Rating": "2199"
     },
-    "hitaman": {
+    {
         "Username": "hitaman",
         "Country": "Ukraine",
         "Blitz Wins": "426",
@@ -4719,7 +4719,7 @@
         "Bullet Best Rating": "2642",
         "Rapid Best Rating": "2300"
     },
-    "hoffmana26": {
+    {
         "Username": "hoffmana26",
         "Country": "Uruguay",
         "Blitz Wins": "364",
@@ -4735,7 +4735,7 @@
         "Bullet Best Rating": "2470",
         "Rapid Best Rating": "2277"
     },
-    "homayoontofighi": {
+    {
         "Username": "homayoontofighi",
         "Country": "Iran",
         "Blitz Wins": "486",
@@ -4751,7 +4751,7 @@
         "Bullet Best Rating": "2991",
         "Rapid Best Rating": "2400"
     },
-    "horizonevent": {
+    {
         "Username": "horizonevent",
         "Country": "Poland",
         "Blitz Wins": "107",
@@ -4767,7 +4767,7 @@
         "Bullet Best Rating": "2659",
         "Rapid Best Rating": "2440"
     },
-    "howitzer14": {
+    {
         "Username": "howitzer14",
         "Country": "England",
         "Blitz Wins": "1595",
@@ -4783,7 +4783,7 @@
         "Bullet Best Rating": "3032",
         "Rapid Best Rating": "2906"
     },
-    "hrant_chessmood": {
+    {
         "Username": "hrant_chessmood",
         "Country": "Armenia",
         "Blitz Wins": "3049",
@@ -4799,7 +4799,7 @@
         "Bullet Best Rating": "2961",
         "Rapid Best Rating": "2947"
     },
-    "hristosbanikas": {
+    {
         "Username": "hristosbanikas",
         "Country": "Greece",
         "Blitz Wins": "14",
@@ -4815,7 +4815,7 @@
         "Bullet Best Rating": "2769",
         "Rapid Best Rating": "2609"
     },
-    "hugooakland": {
+    {
         "Username": "hugooakland",
         "Country": "United States",
         "Blitz Wins": "9534",
@@ -4831,7 +4831,7 @@
         "Bullet Best Rating": "1974",
         "Rapid Best Rating": "2128"
     },
-    "hugospangenberg": {
+    {
         "Username": "hugospangenberg",
         "Country": "Argentina",
         "Blitz Wins": "2346",
@@ -4847,7 +4847,7 @@
         "Bullet Best Rating": "2459",
         "Rapid Best Rating": "2000"
     },
-    "humpy1987": {
+    {
         "Username": "humpy1987",
         "Country": "India",
         "Blitz Wins": "37",
@@ -4863,7 +4863,7 @@
         "Bullet Best Rating": "2649",
         "Rapid Best Rating": "2719"
     },
-    "hustlestandard": {
+    {
         "Username": "hustlestandard",
         "Country": "France",
         "Blitz Wins": "64",
@@ -4879,7 +4879,7 @@
         "Bullet Best Rating": "2651",
         "Rapid Best Rating": "2139"
     },
-    "hyxiom": {
+    {
         "Username": "hyxiom",
         "Country": "France",
         "Blitz Wins": "67",
@@ -4895,7 +4895,7 @@
         "Bullet Best Rating": "1850",
         "Rapid Best Rating": "1894"
     },
-    "ichamo": {
+    {
         "Username": "ichamo",
         "Country": "Qatar",
         "Blitz Wins": "718",
@@ -4911,7 +4911,7 @@
         "Bullet Best Rating": "2457",
         "Rapid Best Rating": "2402"
     },
-    "igorkovalenko": {
+    {
         "Username": "igorkovalenko",
         "Country": "Latvia",
         "Blitz Wins": "5179",
@@ -4927,7 +4927,7 @@
         "Bullet Best Rating": "2922",
         "Rapid Best Rating": "2651"
     },
-    "igor_lysyj": {
+    {
         "Username": "igor_lysyj",
         "Country": "Russia",
         "Blitz Wins": "211",
@@ -4943,7 +4943,7 @@
         "Bullet Best Rating": "1391",
         "Rapid Best Rating": "2661"
     },
-    "igrok3069": {
+    {
         "Username": "igrok3069",
         "Country": "Russia",
         "Blitz Wins": "86",
@@ -4959,7 +4959,7 @@
         "Bullet Best Rating": "1628",
         "Rapid Best Rating": "2685"
     },
-    "iljazaragatski": {
+    {
         "Username": "iljazaragatski",
         "Country": "Germany",
         "Blitz Wins": "1014",
@@ -4975,7 +4975,7 @@
         "Bullet Best Rating": "2438",
         "Rapid Best Rating": "2576"
     },
-    "iljushin_alexey": {
+    {
         "Username": "iljushin_alexey",
         "Country": "Russia",
         "Blitz Wins": "319",
@@ -4991,7 +4991,7 @@
         "Bullet Best Rating": "2624",
         "Rapid Best Rating": "2507"
     },
-    "illingworth": {
+    {
         "Username": "illingworth",
         "Country": "Australia",
         "Blitz Wins": "1802",
@@ -5007,7 +5007,7 @@
         "Bullet Best Rating": "3064",
         "Rapid Best Rating": "2877"
     },
-    "immatt64": {
+    {
         "Username": "immatt64",
         "Country": "United Kingdom",
         "Blitz Wins": "638",
@@ -5023,7 +5023,7 @@
         "Bullet Best Rating": "2542",
         "Rapid Best Rating": "2519"
     },
-    "imre91": {
+    {
         "Username": "imre91",
         "Country": "Hungary",
         "Blitz Wins": "1920",
@@ -5039,7 +5039,7 @@
         "Bullet Best Rating": "2840",
         "Rapid Best Rating": "2672"
     },
-    "incognito_knight": {
+    {
         "Username": "incognito_knight",
         "Country": "Ukraine",
         "Blitz Wins": "1868",
@@ -5055,7 +5055,7 @@
         "Bullet Best Rating": "2683",
         "Rapid Best Rating": "2388"
     },
-    "indian-elephant": {
+    {
         "Username": "indian-elephant",
         "Country": "India",
         "Blitz Wins": "1775",
@@ -5071,7 +5071,7 @@
         "Bullet Best Rating": "2841",
         "Rapid Best Rating": "2737"
     },
-    "indianlad": {
+    {
         "Username": "indianlad",
         "Country": "India",
         "Blitz Wins": "5784",
@@ -5087,7 +5087,7 @@
         "Bullet Best Rating": "3138",
         "Rapid Best Rating": "2639"
     },
-    "infernal_xam": {
+    {
         "Username": "infernal_xam",
         "Country": "Russia",
         "Blitz Wins": "1980",
@@ -5103,7 +5103,7 @@
         "Bullet Best Rating": "2906",
         "Rapid Best Rating": "2877"
     },
-    "inopov": {
+    {
         "Username": "inopov",
         "Country": "Philippines",
         "Blitz Wins": "269",
@@ -5119,7 +5119,7 @@
         "Bullet Best Rating": "2550",
         "Rapid Best Rating": "2497"
     },
-    "irochka83": {
+    {
         "Username": "irochka83",
         "Country": "United States",
         "Blitz Wins": "196",
@@ -5135,7 +5135,7 @@
         "Bullet Best Rating": "2548",
         "Rapid Best Rating": "2449"
     },
-    "iturrizaga": {
+    {
         "Username": "iturrizaga",
         "Country": "Venezuela",
         "Blitz Wins": "481",
@@ -5151,7 +5151,7 @@
         "Bullet Best Rating": "3036",
         "Rapid Best Rating": "2665"
     },
-    "iuri_shkuro": {
+    {
         "Username": "iuri_shkuro",
         "Country": "Ukraine",
         "Blitz Wins": "951",
@@ -5167,7 +5167,7 @@
         "Bullet Best Rating": "2762",
         "Rapid Best Rating": "2511"
     },
-    "izoria123": {
+    {
         "Username": "izoria123",
         "Country": "United States",
         "Blitz Wins": "1565",
@@ -5183,7 +5183,7 @@
         "Bullet Best Rating": "2802",
         "Rapid Best Rating": "2641"
     },
-    "jansmeets": {
+    {
         "Username": "jansmeets",
         "Country": "Netherlands",
         "Blitz Wins": "321",
@@ -5199,7 +5199,7 @@
         "Bullet Best Rating": "3034",
         "Rapid Best Rating": "2717"
     },
-    "jcibarra": {
+    {
         "Username": "jcibarra",
         "Country": "Spain",
         "Blitz Wins": "745",
@@ -5215,7 +5215,7 @@
         "Bullet Best Rating": "2959",
         "Rapid Best Rating": "2564"
     },
-    "jefferyx": {
+    {
         "Username": "jefferyx",
         "Country": "United States",
         "Blitz Wins": "816",
@@ -5231,7 +5231,7 @@
         "Bullet Best Rating": "3211",
         "Rapid Best Rating": "2838"
     },
-    "jfriedel": {
+    {
         "Username": "jfriedel",
         "Country": "United States",
         "Blitz Wins": "304",
@@ -5247,7 +5247,7 @@
         "Bullet Best Rating": "2692",
         "Rapid Best Rating": "2512"
     },
-    "jlucasvf": {
+    {
         "Username": "jlucasvf",
         "Country": "Western Sahara",
         "Blitz Wins": "694",
@@ -5263,7 +5263,7 @@
         "Bullet Best Rating": "2813",
         "Rapid Best Rating": "2350"
     },
-    "jmb2010": {
+    {
         "Username": "jmb2010",
         "Country": "United States",
         "Blitz Wins": "377",
@@ -5279,7 +5279,7 @@
         "Bullet Best Rating": "2922",
         "Rapid Best Rating": "2835"
     },
-    "jncool68": {
+    {
         "Username": "jncool68",
         "Country": "France",
         "Blitz Wins": "2695",
@@ -5295,7 +5295,7 @@
         "Bullet Best Rating": "2708",
         "Rapid Best Rating": "2506"
     },
-    "johansalomon": {
+    {
         "Username": "johansalomon",
         "Country": "Norway",
         "Blitz Wins": "2311",
@@ -5311,7 +5311,7 @@
         "Bullet Best Rating": "2633",
         "Rapid Best Rating": "2507"
     },
-    "joppie2": {
+    {
         "Username": "joppie2",
         "Country": "Netherlands",
         "Blitz Wins": "4115",
@@ -5327,7 +5327,7 @@
         "Bullet Best Rating": "3140",
         "Rapid Best Rating": "2646"
     },
-    "joshdaruca": {
+    {
         "Username": "joshdaruca",
         "Country": "United States",
         "Blitz Wins": "1924",
@@ -5343,7 +5343,7 @@
         "Bullet Best Rating": "2793",
         "Rapid Best Rating": "2662"
     },
-    "joshuachick": {
+    {
         "Username": "joshuachick",
         "Country": "China",
         "Blitz Wins": "3948",
@@ -5359,7 +5359,7 @@
         "Bullet Best Rating": "2865",
         "Rapid Best Rating": "2792"
     },
-    "jospem": {
+    {
         "Username": "jospem",
         "Country": "Peru",
         "Blitz Wins": "7705",
@@ -5375,7 +5375,7 @@
         "Bullet Best Rating": "3171",
         "Rapid Best Rating": "2744"
     },
-    "jrlok": {
+    {
         "Username": "jrlok",
         "Country": "United States",
         "Blitz Wins": "703",
@@ -5391,7 +5391,7 @@
         "Bullet Best Rating": "2500",
         "Rapid Best Rating": "2216"
     },
-    "jsprepz": {
+    {
         "Username": "jsprepz",
         "Country": "Norway",
         "Blitz Wins": "990",
@@ -5407,7 +5407,7 @@
         "Bullet Best Rating": "2898",
         "Rapid Best Rating": "2805"
     },
-    "jt": {
+    {
         "Username": "jt",
         "Country": "Denmark",
         "Blitz Wins": "490",
@@ -5423,7 +5423,7 @@
         "Bullet Best Rating": "1689",
         "Rapid Best Rating": "2394"
     },
-    "juancglez": {
+    {
         "Username": "juancglez",
         "Country": "Mexico",
         "Blitz Wins": "81",
@@ -5439,7 +5439,7 @@
         "Bullet Best Rating": "2688",
         "Rapid Best Rating": "2338"
     },
-    "julio_becerra": {
+    {
         "Username": "julio_becerra",
         "Country": "United States",
         "Blitz Wins": "1870",
@@ -5455,7 +5455,7 @@
         "Bullet Best Rating": "2721",
         "Rapid Best Rating": "2537"
     },
-    "jumbo": {
+    {
         "Username": "jumbo",
         "Country": "Kazakhstan",
         "Blitz Wins": "1527",
@@ -5471,7 +5471,7 @@
         "Bullet Best Rating": "2896",
         "Rapid Best Rating": "2730"
     },
-    "justantan": {
+    {
         "Username": "justantan",
         "Country": "Australia",
         "Blitz Wins": "4015",
@@ -5487,7 +5487,7 @@
         "Bullet Best Rating": "2770",
         "Rapid Best Rating": "2515"
     },
-    "justanything": {
+    {
         "Username": "justanything",
         "Country": "Hungary",
         "Blitz Wins": "2479",
@@ -5503,7 +5503,7 @@
         "Bullet Best Rating": "2576",
         "Rapid Best Rating": "1421"
     },
-    "justatrickstar": {
+    {
         "Username": "justatrickstar",
         "Country": "Fiji",
         "Blitz Wins": "2648",
@@ -5519,7 +5519,7 @@
         "Bullet Best Rating": "2725",
         "Rapid Best Rating": "2489"
     },
-    "juwen": {
+    {
         "Username": "juwen",
         "Country": "China",
         "Blitz Wins": "226",
@@ -5535,7 +5535,7 @@
         "Bullet Best Rating": "2541",
         "Rapid Best Rating": "2688"
     },
-    "kaidanov": {
+    {
         "Username": "kaidanov",
         "Country": "United States",
         "Blitz Wins": "19",
@@ -5551,7 +5551,7 @@
         "Bullet Best Rating": "1854",
         "Rapid Best Rating": "1660"
     },
-    "kaka666": {
+    {
         "Username": "kaka666",
         "Country": "China",
         "Blitz Wins": "330",
@@ -5567,7 +5567,7 @@
         "Bullet Best Rating": "2999",
         "Rapid Best Rating": "2600"
     },
-    "kampkatten": {
+    {
         "Username": "kampkatten",
         "Country": "Denmark",
         "Blitz Wins": "224",
@@ -5583,7 +5583,7 @@
         "Bullet Best Rating": "2816",
         "Rapid Best Rating": "2591"
     },
-    "kantorgergely": {
+    {
         "Username": "kantorgergely",
         "Country": "Hungary",
         "Blitz Wins": "11",
@@ -5599,7 +5599,7 @@
         "Bullet Best Rating": "2519",
         "Rapid Best Rating": "1800"
     },
-    "kaphrep": {
+    {
         "Username": "kaphrep",
         "Country": "United States",
         "Blitz Wins": "4740",
@@ -5615,7 +5615,7 @@
         "Bullet Best Rating": "2825",
         "Rapid Best Rating": "2776"
     },
-    "karavanela": {
+    {
         "Username": "karavanela",
         "Country": "United States",
         "Blitz Wins": "948",
@@ -5631,7 +5631,7 @@
         "Bullet Best Rating": "2278",
         "Rapid Best Rating": "2191"
     },
-    "katerynalagno": {
+    {
         "Username": "katerynalagno",
         "Country": "Russia",
         "Blitz Wins": "360",
@@ -5647,7 +5647,7 @@
         "Bullet Best Rating": "2693",
         "Rapid Best Rating": "2463"
     },
-    "kaydentroffchess": {
+    {
         "Username": "kaydentroffchess",
         "Country": "United States",
         "Blitz Wins": "190",
@@ -5663,7 +5663,7 @@
         "Bullet Best Rating": "2891",
         "Rapid Best Rating": "2535"
     },
-    "keitharkell": {
+    {
         "Username": "keitharkell",
         "Country": "United Kingdom",
         "Blitz Wins": "2617",
@@ -5679,7 +5679,7 @@
         "Bullet Best Rating": "2517",
         "Rapid Best Rating": "2520"
     },
-    "kempsy": {
+    {
         "Username": "kempsy",
         "Country": "Canada",
         "Blitz Wins": "1505",
@@ -5695,7 +5695,7 @@
         "Bullet Best Rating": "2888",
         "Rapid Best Rating": "2660"
     },
-    "ketigrant": {
+    {
         "Username": "ketigrant",
         "Country": "Scotland",
         "Blitz Wins": "409",
@@ -5711,7 +5711,7 @@
         "Bullet Best Rating": "2408",
         "Rapid Best Rating": "2411"
     },
-    "kevin_goh": {
+    {
         "Username": "kevin_goh",
         "Country": "Singapore",
         "Blitz Wins": "906",
@@ -5727,7 +5727,7 @@
         "Bullet Best Rating": "2593",
         "Rapid Best Rating": "2475"
     },
-    "khatanbaatarbazar": {
+    {
         "Username": "khatanbaatarbazar",
         "Country": "Mongolia",
         "Blitz Wins": "12557",
@@ -5743,7 +5743,7 @@
         "Bullet Best Rating": "2610",
         "Rapid Best Rating": "2162"
     },
-    "khaz_modan": {
+    {
         "Username": "khaz_modan",
         "Country": "Sweden",
         "Blitz Wins": "1269",
@@ -5759,7 +5759,7 @@
         "Bullet Best Rating": "2560",
         "Rapid Best Rating": "1939"
     },
-    "kiborg1987": {
+    {
         "Username": "kiborg1987",
         "Country": "Bosnia-Herzegovina",
         "Blitz Wins": "376",
@@ -5775,7 +5775,7 @@
         "Bullet Best Rating": "2938",
         "Rapid Best Rating": "2630"
     },
-    "killer-kostya": {
+    {
         "Username": "killer-kostya",
         "Country": "Georgia",
         "Blitz Wins": "567",
@@ -5791,7 +5791,7 @@
         "Bullet Best Rating": "2728",
         "Rapid Best Rating": "1994"
     },
-    "kingloek": {
+    {
         "Username": "kingloek",
         "Country": "Netherlands",
         "Blitz Wins": "135",
@@ -5807,7 +5807,7 @@
         "Bullet Best Rating": "2580",
         "Rapid Best Rating": "2770"
     },
-    "kintoho": {
+    {
         "Username": "kintoho",
         "Country": "France",
         "Blitz Wins": "11756",
@@ -5823,7 +5823,7 @@
         "Bullet Best Rating": "2332",
         "Rapid Best Rating": "1945"
     },
-    "kiril1965": {
+    {
         "Username": "kiril1965",
         "Country": "North Macedonia",
         "Blitz Wins": "134",
@@ -5839,7 +5839,7 @@
         "Bullet Best Rating": "2143",
         "Rapid Best Rating": "2737"
     },
-    "kirillshevchenko": {
+    {
         "Username": "kirillshevchenko",
         "Country": "Ukraine",
         "Blitz Wins": "916",
@@ -5855,7 +5855,7 @@
         "Bullet Best Rating": "2960",
         "Rapid Best Rating": "2810"
     },
-    "knvb": {
+    {
         "Username": "knvb",
         "Country": "Canada",
         "Blitz Wins": "7784",
@@ -5871,7 +5871,7 @@
         "Bullet Best Rating": "3201",
         "Rapid Best Rating": "2695"
     },
-    "kobalia": {
+    {
         "Username": "kobalia",
         "Country": "Russia",
         "Blitz Wins": "413",
@@ -5887,7 +5887,7 @@
         "Bullet Best Rating": "2474",
         "Rapid Best Rating": "2522"
     },
-    "koksik_13": {
+    {
         "Username": "koksik_13",
         "Country": "Russia",
         "Blitz Wins": "843",
@@ -5903,7 +5903,7 @@
         "Bullet Best Rating": "2708",
         "Rapid Best Rating": "2200"
     },
-    "koktebel22": {
+    {
         "Username": "koktebel22",
         "Country": "France",
         "Blitz Wins": "213",
@@ -5919,7 +5919,7 @@
         "Bullet Best Rating": "2697",
         "Rapid Best Rating": "2687"
     },
-    "konavets": {
+    {
         "Username": "konavets",
         "Country": "United States",
         "Blitz Wins": "2473",
@@ -5935,7 +5935,7 @@
         "Bullet Best Rating": "3146",
         "Rapid Best Rating": "2660"
     },
-    "kondylev": {
+    {
         "Username": "kondylev",
         "Country": "United Arab Emirates",
         "Blitz Wins": "231",
@@ -5951,7 +5951,7 @@
         "Bullet Best Rating": "2481",
         "Rapid Best Rating": "2027"
     },
-    "koutsalogo": {
+    {
         "Username": "koutsalogo",
         "Country": "Greece",
         "Blitz Wins": "267",
@@ -5967,7 +5967,7 @@
         "Bullet Best Rating": "2728",
         "Rapid Best Rating": "2536"
     },
-    "kouzari": {
+    {
         "Username": "kouzari",
         "Country": "Kazakhstan",
         "Blitz Wins": "2284",
@@ -5983,7 +5983,7 @@
         "Bullet Best Rating": "2584",
         "Rapid Best Rating": "2100"
     },
-    "kpio91": {
+    {
         "Username": "kpio91",
         "Country": "Poland",
         "Blitz Wins": "1097",
@@ -5999,7 +5999,7 @@
         "Bullet Best Rating": "2859",
         "Rapid Best Rating": "2800"
     },
-    "krasimir_rusev": {
+    {
         "Username": "krasimir_rusev",
         "Country": "Bulgaria",
         "Blitz Wins": "2502",
@@ -6015,7 +6015,7 @@
         "Bullet Best Rating": "2784",
         "Rapid Best Rating": "2635"
     },
-    "kruhor": {
+    {
         "Username": "kruhor",
         "Country": "Czech Republic",
         "Blitz Wins": "111",
@@ -6031,7 +6031,7 @@
         "Bullet Best Rating": "2079",
         "Rapid Best Rating": "2697"
     },
-    "kuli4ik": {
+    {
         "Username": "kuli4ik",
         "Country": "Russia",
         "Blitz Wins": "1282",
@@ -6047,7 +6047,7 @@
         "Bullet Best Rating": "2882",
         "Rapid Best Rating": "2552"
     },
-    "kuybokarovtemur": {
+    {
         "Username": "kuybokarovtemur",
         "Country": "Australia",
         "Blitz Wins": "49",
@@ -6063,7 +6063,7 @@
         "Bullet Best Rating": "2874",
         "Rapid Best Rating": "2671"
     },
-    "kuzubovyuriy": {
+    {
         "Username": "kuzubovyuriy",
         "Country": "Ukraine",
         "Blitz Wins": "1193",
@@ -6079,7 +6079,7 @@
         "Bullet Best Rating": "2797",
         "Rapid Best Rating": "2578"
     },
-    "k_a_s_t_o_r": {
+    {
         "Username": "k_a_s_t_o_r",
         "Country": "Chile",
         "Blitz Wins": "3346",
@@ -6095,7 +6095,7 @@
         "Bullet Best Rating": "2858",
         "Rapid Best Rating": "2700"
     },
-    "k_grigoryan": {
+    {
         "Username": "k_grigoryan",
         "Country": "United States",
         "Blitz Wins": "406",
@@ -6111,7 +6111,7 @@
         "Bullet Best Rating": "2771",
         "Rapid Best Rating": "2820"
     },
-    "l3on4rdo": {
+    {
         "Username": "l3on4rdo",
         "Country": "Slovenia",
         "Blitz Wins": "449",
@@ -6127,7 +6127,7 @@
         "Bullet Best Rating": "2724",
         "Rapid Best Rating": "2567"
     },
-    "lachesisq": {
+    {
         "Username": "lachesisq",
         "Country": "Russia",
         "Blitz Wins": "2715",
@@ -6143,7 +6143,7 @@
         "Bullet Best Rating": "3168",
         "Rapid Best Rating": "2908"
     },
-    "lapitch": {
+    {
         "Username": "lapitch",
         "Country": "France",
         "Blitz Wins": "244",
@@ -6159,7 +6159,7 @@
         "Bullet Best Rating": "3001",
         "Rapid Best Rating": "2521"
     },
-    "last7samurai": {
+    {
         "Username": "last7samurai",
         "Country": "Turkey",
         "Blitz Wins": "3062",
@@ -6175,7 +6175,7 @@
         "Bullet Best Rating": "2859",
         "Rapid Best Rating": "2827"
     },
-    "lcfox": {
+    {
         "Username": "lcfox",
         "Country": "China",
         "Blitz Wins": "165",
@@ -6191,7 +6191,7 @@
         "Bullet Best Rating": "2305",
         "Rapid Best Rating": "2020"
     },
-    "lestofante90": {
+    {
         "Username": "lestofante90",
         "Country": "Italy",
         "Blitz Wins": "2028",
@@ -6207,7 +6207,7 @@
         "Bullet Best Rating": "2898",
         "Rapid Best Rating": "2557"
     },
-    "lestri": {
+    {
         "Username": "lestri",
         "Country": "Spain",
         "Blitz Wins": "238",
@@ -6223,7 +6223,7 @@
         "Bullet Best Rating": "2482",
         "Rapid Best Rating": "2492"
     },
-    "lili_ani": {
+    {
         "Username": "lili_ani",
         "Country": "Georgia",
         "Blitz Wins": "619",
@@ -6239,7 +6239,7 @@
         "Bullet Best Rating": "2831",
         "Rapid Best Rating": "2515"
     },
-    "lilleper1": {
+    {
         "Username": "lilleper1",
         "Country": "Denmark",
         "Blitz Wins": "1171",
@@ -6255,7 +6255,7 @@
         "Bullet Best Rating": "2832",
         "Rapid Best Rating": "2452"
     },
-    "littlepeasant": {
+    {
         "Username": "littlepeasant",
         "Country": "United States",
         "Blitz Wins": "1087",
@@ -6271,7 +6271,7 @@
         "Bullet Best Rating": "2905",
         "Rapid Best Rating": "2658"
     },
-    "locotito77": {
+    {
         "Username": "locotito77",
         "Country": "Bolivia",
         "Blitz Wins": "39",
@@ -6287,7 +6287,7 @@
         "Bullet Best Rating": "2744",
         "Rapid Best Rating": "2649"
     },
-    "lonelyqueen0": {
+    {
         "Username": "lonelyqueen0",
         "Country": "Guatemala",
         "Blitz Wins": "819",
@@ -6303,7 +6303,7 @@
         "Bullet Best Rating": "3067",
         "Rapid Best Rating": "2709"
     },
-    "lonelyzeng": {
+    {
         "Username": "lonelyzeng",
         "Country": "China",
         "Blitz Wins": "526",
@@ -6319,7 +6319,7 @@
         "Bullet Best Rating": "2818",
         "Rapid Best Rating": "2671"
     },
-    "lordillidan": {
+    {
         "Username": "lordillidan",
         "Country": "Hungary",
         "Blitz Wins": "1455",
@@ -6335,7 +6335,7 @@
         "Bullet Best Rating": "2995",
         "Rapid Best Rating": "2922"
     },
-    "lovevae": {
+    {
         "Username": "lovevae",
         "Country": "China",
         "Blitz Wins": "265",
@@ -6351,7 +6351,7 @@
         "Bullet Best Rating": "3036",
         "Rapid Best Rating": "2895"
     },
-    "lpsupi": {
+    {
         "Username": "lpsupi",
         "Country": "Brazil",
         "Blitz Wins": "3915",
@@ -6367,7 +6367,7 @@
         "Bullet Best Rating": "2971",
         "Rapid Best Rating": "2759"
     },
-    "luckismyskill": {
+    {
         "Username": "luckismyskill",
         "Country": "Australia",
         "Blitz Wins": "1036",
@@ -6383,7 +6383,7 @@
         "Bullet Best Rating": "2982",
         "Rapid Best Rating": "2586"
     },
-    "luckyluka04": {
+    {
         "Username": "luckyluka04",
         "Country": "Serbia",
         "Blitz Wins": "41",
@@ -6399,7 +6399,7 @@
         "Bullet Best Rating": "2596",
         "Rapid Best Rating": "2609"
     },
-    "luckytiger": {
+    {
         "Username": "luckytiger",
         "Country": "Ukraine",
         "Blitz Wins": "441",
@@ -6415,7 +6415,7 @@
         "Bullet Best Rating": "2905",
         "Rapid Best Rating": "2484"
     },
-    "luiseqp": {
+    {
         "Username": "luiseqp",
         "Country": "Cuba",
         "Blitz Wins": "391",
@@ -6431,7 +6431,7 @@
         "Bullet Best Rating": "2501",
         "Rapid Best Rating": "2663"
     },
-    "luisibarrach": {
+    {
         "Username": "luisibarrach",
         "Country": "Mexico",
         "Blitz Wins": "719",
@@ -6447,7 +6447,7 @@
         "Bullet Best Rating": "2753",
         "Rapid Best Rating": "2398"
     },
-    "lukianoo": {
+    {
         "Username": "lukianoo",
         "Country": "Georgia",
         "Blitz Wins": "1101",
@@ -6463,7 +6463,7 @@
         "Bullet Best Rating": "2769",
         "Rapid Best Rating": "2746"
     },
-    "lupulescuc": {
+    {
         "Username": "lupulescuc",
         "Country": "Romania",
         "Blitz Wins": "15",
@@ -6479,7 +6479,7 @@
         "Bullet Best Rating": "2121",
         "Rapid Best Rating": "2669"
     },
-    "lupul_cenusiu": {
+    {
         "Username": "lupul_cenusiu",
         "Country": "Romania",
         "Blitz Wins": "3941",
@@ -6495,7 +6495,7 @@
         "Bullet Best Rating": "2155",
         "Rapid Best Rating": "2262"
     },
-    "lyndonlistzmendonca": {
+    {
         "Username": "lyndonlistzmendonca",
         "Country": "Bosnia-Herzegovina",
         "Blitz Wins": "1103",
@@ -6511,7 +6511,7 @@
         "Bullet Best Rating": "2643",
         "Rapid Best Rating": "2385"
     },
-    "lyonbeast": {
+    {
         "Username": "lyonbeast",
         "Country": "France",
         "Blitz Wins": "1004",
@@ -6527,7 +6527,7 @@
         "Bullet Best Rating": "3224",
         "Rapid Best Rating": "2863"
     },
-    "machupichu10": {
+    {
         "Username": "machupichu10",
         "Country": "Peru",
         "Blitz Wins": "519",
@@ -6543,7 +6543,7 @@
         "Bullet Best Rating": "3020",
         "Rapid Best Rating": "2835"
     },
-    "maciek_92": {
+    {
         "Username": "maciek_92",
         "Country": "Poland",
         "Blitz Wins": "3798",
@@ -6559,7 +6559,7 @@
         "Bullet Best Rating": "2885",
         "Rapid Best Rating": "2541"
     },
-    "macmolner": {
+    {
         "Username": "macmolner",
         "Country": "United States",
         "Blitz Wins": "446",
@@ -6575,7 +6575,7 @@
         "Bullet Best Rating": "2504",
         "Rapid Best Rating": "2853"
     },
-    "maestroza": {
+    {
         "Username": "maestroza",
         "Country": "Russia",
         "Blitz Wins": "1772",
@@ -6591,7 +6591,7 @@
         "Bullet Best Rating": "2492",
         "Rapid Best Rating": "1266"
     },
-    "maghalashvili": {
+    {
         "Username": "maghalashvili",
         "Country": "Georgia",
         "Blitz Wins": "1173",
@@ -6607,7 +6607,7 @@
         "Bullet Best Rating": "2938",
         "Rapid Best Rating": "2495"
     },
-    "magicmaster17": {
+    {
         "Username": "magicmaster17",
         "Country": "Hungary",
         "Blitz Wins": "156",
@@ -6623,7 +6623,7 @@
         "Bullet Best Rating": "2714",
         "Rapid Best Rating": "2621"
     },
-    "magnuscarlsen": {
+    {
         "Username": "magnuscarlsen",
         "Country": "Norway",
         "Blitz Wins": "137",
@@ -6639,7 +6639,7 @@
         "Bullet Best Rating": "3350",
         "Rapid Best Rating": "2862"
     },
-    "malev212": {
+    {
         "Username": "malev212",
         "Country": "United States",
         "Blitz Wins": "543",
@@ -6655,7 +6655,7 @@
         "Bullet Best Rating": "2454",
         "Rapid Best Rating": "2860"
     },
-    "mamey78": {
+    {
         "Username": "mamey78",
         "Country": "Cuba",
         "Blitz Wins": "350",
@@ -6671,7 +6671,7 @@
         "Bullet Best Rating": "2651",
         "Rapid Best Rating": "2493"
     },
-    "man-chuk": {
+    {
         "Username": "man-chuk",
         "Country": "Armenia",
         "Blitz Wins": "1792",
@@ -6687,7 +6687,7 @@
         "Bullet Best Rating": "3032",
         "Rapid Best Rating": "2649"
     },
-    "marcan2b": {
+    {
         "Username": "marcan2b",
         "Country": "France",
         "Blitz Wins": "3076",
@@ -6703,7 +6703,7 @@
         "Bullet Best Rating": "2667",
         "Rapid Best Rating": "2376"
     },
-    "marctarnold": {
+    {
         "Username": "marctarnold",
         "Country": "United States",
         "Blitz Wins": "1250",
@@ -6719,7 +6719,7 @@
         "Bullet Best Rating": "2519",
         "Rapid Best Rating": "2606"
     },
-    "margency": {
+    {
         "Username": "margency",
         "Country": "Turkey",
         "Blitz Wins": "3175",
@@ -6735,7 +6735,7 @@
         "Bullet Best Rating": "2764",
         "Rapid Best Rating": "2279"
     },
-    "marianpetrov": {
+    {
         "Username": "marianpetrov",
         "Country": "Bulgaria",
         "Blitz Wins": "3407",
@@ -6751,7 +6751,7 @@
         "Bullet Best Rating": "2550",
         "Rapid Best Rating": "2441"
     },
-    "markparagua": {
+    {
         "Username": "markparagua",
         "Country": "United States",
         "Blitz Wins": "675",
@@ -6767,7 +6767,7 @@
         "Bullet Best Rating": "2904",
         "Rapid Best Rating": "2462"
     },
-    "markusragger": {
+    {
         "Username": "markusragger",
         "Country": "Austria",
         "Blitz Wins": "233",
@@ -6783,7 +6783,7 @@
         "Bullet Best Rating": "2590",
         "Rapid Best Rating": "2359"
     },
-    "martinez1985": {
+    {
         "Username": "martinez1985",
         "Country": "Cuba",
         "Blitz Wins": "231",
@@ -6799,7 +6799,7 @@
         "Bullet Best Rating": "2719",
         "Rapid Best Rating": "2673"
     },
-    "masmos97": {
+    {
         "Username": "masmos97",
         "Country": "Iran",
         "Blitz Wins": "90",
@@ -6815,7 +6815,7 @@
         "Bullet Best Rating": "2627",
         "Rapid Best Rating": "2500"
     },
-    "mastroskaki": {
+    {
         "Username": "mastroskaki",
         "Country": "Greece",
         "Blitz Wins": "921",
@@ -6831,7 +6831,7 @@
         "Bullet Best Rating": "2548",
         "Rapid Best Rating": "2549"
     },
-    "mathiaswomacka": {
+    {
         "Username": "mathiaswomacka",
         "Country": "Germany",
         "Blitz Wins": "1663",
@@ -6847,7 +6847,7 @@
         "Bullet Best Rating": "2263",
         "Rapid Best Rating": "2428"
     },
-    "matibar": {
+    {
         "Username": "matibar",
         "Country": "Poland",
         "Blitz Wins": "1891",
@@ -6863,7 +6863,7 @@
         "Bullet Best Rating": "2882",
         "Rapid Best Rating": "2636"
     },
-    "mauricioflores": {
+    {
         "Username": "mauricioflores",
         "Country": "United States",
         "Blitz Wins": "523",
@@ -6879,7 +6879,7 @@
         "Bullet Best Rating": "2833",
         "Rapid Best Rating": "2656"
     },
-    "maximdlugy": {
+    {
         "Username": "maximdlugy",
         "Country": "United States",
         "Blitz Wins": "2320",
@@ -6895,7 +6895,7 @@
         "Bullet Best Rating": "2890",
         "Rapid Best Rating": "1936"
     },
-    "maxwell1986": {
+    {
         "Username": "maxwell1986",
         "Country": "Belgium",
         "Blitz Wins": "286",
@@ -6911,7 +6911,7 @@
         "Bullet Best Rating": "2506",
         "Rapid Best Rating": "2298"
     },
-    "maybe00": {
+    {
         "Username": "maybe00",
         "Country": "Iran",
         "Blitz Wins": "692",
@@ -6927,7 +6927,7 @@
         "Bullet Best Rating": "2730",
         "Rapid Best Rating": "2647"
     },
-    "mazetovic": {
+    {
         "Username": "mazetovic",
         "Country": "France",
         "Blitz Wins": "1458",
@@ -6943,7 +6943,7 @@
         "Bullet Best Rating": "2644",
         "Rapid Best Rating": "2641"
     },
-    "medvegy": {
+    {
         "Username": "medvegy",
         "Country": "Hungary",
         "Blitz Wins": "1935",
@@ -6959,7 +6959,7 @@
         "Bullet Best Rating": "2645",
         "Rapid Best Rating": "2547"
     },
-    "megazz": {
+    {
         "Username": "megazz",
         "Country": "Australia",
         "Blitz Wins": "2106",
@@ -6975,7 +6975,7 @@
         "Bullet Best Rating": "2507",
         "Rapid Best Rating": "2544"
     },
-    "messiboca": {
+    {
         "Username": "messiboca",
         "Country": "Argentina",
         "Blitz Wins": "54",
@@ -6991,7 +6991,7 @@
         "Bullet Best Rating": "2825",
         "Rapid Best Rating": "2623"
     },
-    "mgeli": {
+    {
         "Username": "mgeli",
         "Country": "United States",
         "Blitz Wins": "23",
@@ -7007,7 +7007,7 @@
         "Bullet Best Rating": "2487",
         "Rapid Best Rating": "2015"
     },
-    "mhebden": {
+    {
         "Username": "mhebden",
         "Country": "United Kingdom",
         "Blitz Wins": "337",
@@ -7023,7 +7023,7 @@
         "Bullet Best Rating": "2305",
         "Rapid Best Rating": "2444"
     },
-    "michaelroiz": {
+    {
         "Username": "michaelroiz",
         "Country": "Israel",
         "Blitz Wins": "5752",
@@ -7039,7 +7039,7 @@
         "Bullet Best Rating": "2875",
         "Rapid Best Rating": "2608"
     },
-    "michelangelo": {
+    {
         "Username": "michelangelo",
         "Country": "Slovenia",
         "Blitz Wins": "106",
@@ -7055,7 +7055,7 @@
         "Bullet Best Rating": "2501",
         "Rapid Best Rating": "2796"
     },
-    "micheliavelli": {
+    {
         "Username": "micheliavelli",
         "Country": "Germany",
         "Blitz Wins": "2282",
@@ -7071,7 +7071,7 @@
         "Bullet Best Rating": "2593",
         "Rapid Best Rating": "2319"
     },
-    "micki-taryan": {
+    {
         "Username": "micki-taryan",
         "Country": "Armenia",
         "Blitz Wins": "2207",
@@ -7087,7 +7087,7 @@
         "Bullet Best Rating": "3206",
         "Rapid Best Rating": "2676"
     },
-    "mikaelyanarman1996": {
+    {
         "Username": "mikaelyanarman1996",
         "Country": "Armenia",
         "Blitz Wins": "1533",
@@ -7103,7 +7103,7 @@
         "Bullet Best Rating": "2694",
         "Rapid Best Rating": "2555"
     },
-    "mikhail646464": {
+    {
         "Username": "mikhail646464",
         "Country": "Russia",
         "Blitz Wins": "366",
@@ -7119,7 +7119,7 @@
         "Bullet Best Rating": "2200",
         "Rapid Best Rating": "2200"
     },
-    "mikhail_golubev": {
+    {
         "Username": "mikhail_golubev",
         "Country": "Ukraine",
         "Blitz Wins": "1853",
@@ -7135,7 +7135,7 @@
         "Bullet Best Rating": "2341",
         "Rapid Best Rating": "2240"
     },
-    "milanovicdan": {
+    {
         "Username": "milanovicdan",
         "Country": "Serbia",
         "Blitz Wins": "113",
@@ -7151,7 +7151,7 @@
         "Bullet Best Rating": "2404",
         "Rapid Best Rating": "2707"
     },
-    "milanzajic": {
+    {
         "Username": "milanzajic",
         "Country": "Serbia",
         "Blitz Wins": "14",
@@ -7167,7 +7167,7 @@
         "Bullet Best Rating": "2786",
         "Rapid Best Rating": "2619"
     },
-    "milosji": {
+    {
         "Username": "milosji",
         "Country": "Czech Republic",
         "Blitz Wins": "381",
@@ -7183,7 +7183,7 @@
         "Bullet Best Rating": "2633",
         "Rapid Best Rating": "2550"
     },
-    "mirceaparligras": {
+    {
         "Username": "mirceaparligras",
         "Country": "Romania",
         "Blitz Wins": "358",
@@ -7199,7 +7199,7 @@
         "Bullet Best Rating": "2428",
         "Rapid Best Rating": "2635"
     },
-    "mirman90": {
+    {
         "Username": "mirman90",
         "Country": "Turkey",
         "Blitz Wins": "3071",
@@ -7215,7 +7215,7 @@
         "Bullet Best Rating": "2912",
         "Rapid Best Rating": "2701"
     },
-    "miromiljkovic": {
+    {
         "Username": "miromiljkovic",
         "Country": "Serbia",
         "Blitz Wins": "501",
@@ -7231,7 +7231,7 @@
         "Bullet Best Rating": "2717",
         "Rapid Best Rating": "2407"
     },
-    "mironius": {
+    {
         "Username": "mironius",
         "Country": "Micronesia",
         "Blitz Wins": "1353",
@@ -7247,7 +7247,7 @@
         "Bullet Best Rating": "2515",
         "Rapid Best Rating": "2606"
     },
-    "misapap": {
+    {
         "Username": "misapap",
         "Country": "Serbia",
         "Blitz Wins": "645",
@@ -7263,7 +7263,7 @@
         "Bullet Best Rating": "2641",
         "Rapid Best Rating": "2482"
     },
-    "mishanick": {
+    {
         "Username": "mishanick",
         "Country": "Russia",
         "Blitz Wins": "7273",
@@ -7279,7 +7279,7 @@
         "Bullet Best Rating": "3077",
         "Rapid Best Rating": "2977"
     },
-    "mishikomchedlishvili": {
+    {
         "Username": "mishikomchedlishvili",
         "Country": "Georgia",
         "Blitz Wins": "464",
@@ -7295,7 +7295,7 @@
         "Bullet Best Rating": "2793",
         "Rapid Best Rating": "2598"
     },
-    "misi_95": {
+    {
         "Username": "misi_95",
         "Country": "Azerbaijan",
         "Blitz Wins": "435",
@@ -7311,7 +7311,7 @@
         "Bullet Best Rating": "2573",
         "Rapid Best Rating": "2259"
     },
-    "mnikolov": {
+    {
         "Username": "mnikolov",
         "Country": "Bulgaria",
         "Blitz Wins": "2689",
@@ -7327,7 +7327,7 @@
         "Bullet Best Rating": "2657",
         "Rapid Best Rating": "1892"
     },
-    "molton": {
+    {
         "Username": "molton",
         "Country": "Australia",
         "Blitz Wins": "1919",
@@ -7343,7 +7343,7 @@
         "Bullet Best Rating": "2780",
         "Rapid Best Rating": "2729"
     },
-    "monmoransy": {
+    {
         "Username": "monmoransy",
         "Country": "Russia",
         "Blitz Wins": "1300",
@@ -7359,7 +7359,7 @@
         "Bullet Best Rating": "2667",
         "Rapid Best Rating": "2268"
     },
-    "mornar1951": {
+    {
         "Username": "mornar1951",
         "Country": "Croatia",
         "Blitz Wins": "439",
@@ -7375,7 +7375,7 @@
         "Bullet Best Rating": "2283",
         "Rapid Best Rating": "2556"
     },
-    "moro182": {
+    {
         "Username": "moro182",
         "Country": "Italy",
         "Blitz Wins": "1098",
@@ -7391,7 +7391,7 @@
         "Bullet Best Rating": "2883",
         "Rapid Best Rating": "2621"
     },
-    "morteza_mahjoob": {
+    {
         "Username": "morteza_mahjoob",
         "Country": "Iran",
         "Blitz Wins": "506",
@@ -7407,7 +7407,7 @@
         "Bullet Best Rating": "2797",
         "Rapid Best Rating": "2055"
     },
-    "mossedivertenti": {
+    {
         "Username": "mossedivertenti",
         "Country": "Italy",
         "Blitz Wins": "37",
@@ -7423,7 +7423,7 @@
         "Bullet Best Rating": "2536",
         "Rapid Best Rating": "2400"
     },
-    "movebymove": {
+    {
         "Username": "movebymove",
         "Country": "United Kingdom",
         "Blitz Wins": "151",
@@ -7439,7 +7439,7 @@
         "Bullet Best Rating": "1357",
         "Rapid Best Rating": "2092"
     },
-    "mrmotley": {
+    {
         "Username": "mrmotley",
         "Country": "Bulgaria",
         "Blitz Wins": "66",
@@ -7455,7 +7455,7 @@
         "Bullet Best Rating": "2731",
         "Rapid Best Rating": "2549"
     },
-    "mrtattaglia": {
+    {
         "Username": "mrtattaglia",
         "Country": "Hungary",
         "Blitz Wins": "2192",
@@ -7471,7 +7471,7 @@
         "Bullet Best Rating": "3070",
         "Rapid Best Rating": "2711"
     },
-    "mr_dynamic": {
+    {
         "Username": "mr_dynamic",
         "Country": "Netherlands",
         "Blitz Wins": "70",
@@ -7487,7 +7487,7 @@
         "Bullet Best Rating": "2427",
         "Rapid Best Rating": "2586"
     },
-    "msb2": {
+    {
         "Username": "msb2",
         "Country": "Germany",
         "Blitz Wins": "4941",
@@ -7503,7 +7503,7 @@
         "Bullet Best Rating": "3025",
         "Rapid Best Rating": "2692"
     },
-    "mugzyyy": {
+    {
         "Username": "mugzyyy",
         "Country": "Spain",
         "Blitz Wins": "325",
@@ -7519,7 +7519,7 @@
         "Bullet Best Rating": "2657",
         "Rapid Best Rating": "2654"
     },
-    "muisback26": {
+    {
         "Username": "muisback26",
         "Country": "Azerbaijan",
         "Blitz Wins": "1651",
@@ -7535,7 +7535,7 @@
         "Bullet Best Rating": "3001",
         "Rapid Best Rating": "2970"
     },
-    "muradore": {
+    {
         "Username": "muradore",
         "Country": "Serbia",
         "Blitz Wins": "5005",
@@ -7551,7 +7551,7 @@
         "Bullet Best Rating": "2445",
         "Rapid Best Rating": "1443"
     },
-    "murtas73": {
+    {
         "Username": "murtas73",
         "Country": "Kazakhstan",
         "Blitz Wins": "120",
@@ -7567,7 +7567,7 @@
         "Bullet Best Rating": "2316",
         "Rapid Best Rating": "2594"
     },
-    "mvpjs31": {
+    {
         "Username": "mvpjs31",
         "Country": "Jersey",
         "Blitz Wins": "836",
@@ -7583,7 +7583,7 @@
         "Bullet Best Rating": "2819",
         "Rapid Best Rating": "2491"
     },
-    "naaas1": {
+    {
         "Username": "naaas1",
         "Country": "Mongolia",
         "Blitz Wins": "458",
@@ -7599,7 +7599,7 @@
         "Bullet Best Rating": "2719",
         "Rapid Best Rating": "2398"
     },
-    "ndepinesperg": {
+    {
         "Username": "ndepinesperg",
         "Country": "Israel",
         "Blitz Wins": "580",
@@ -7615,7 +7615,7 @@
         "Bullet Best Rating": "2895",
         "Rapid Best Rating": "2963"
     },
-    "nemegejas": {
+    {
         "Username": "nemegejas",
         "Country": "Lithuania",
         "Blitz Wins": "609",
@@ -7631,7 +7631,7 @@
         "Bullet Best Rating": "2988",
         "Rapid Best Rating": "1621"
     },
-    "nemequittepas": {
+    {
         "Username": "nemequittepas",
         "Country": "France",
         "Blitz Wins": "1075",
@@ -7647,7 +7647,7 @@
         "Bullet Best Rating": "2827",
         "Rapid Best Rating": "2411"
     },
-    "neurisdr": {
+    {
         "Username": "neurisdr",
         "Country": "Paraguay",
         "Blitz Wins": "190",
@@ -7663,7 +7663,7 @@
         "Bullet Best Rating": "2651",
         "Rapid Best Rating": "2670"
     },
-    "newbornnow": {
+    {
         "Username": "newbornnow",
         "Country": "Moldova",
         "Blitz Wins": "2033",
@@ -7679,7 +7679,7 @@
         "Bullet Best Rating": "2636",
         "Rapid Best Rating": "2581"
     },
-    "newtie4": {
+    {
         "Username": "newtie4",
         "Country": "France",
         "Blitz Wins": "116",
@@ -7695,7 +7695,7 @@
         "Bullet Best Rating": "2505",
         "Rapid Best Rating": "2554"
     },
-    "newzorro": {
+    {
         "Username": "newzorro",
         "Country": "Russia",
         "Blitz Wins": "437",
@@ -7711,7 +7711,7 @@
         "Bullet Best Rating": "2770",
         "Rapid Best Rating": "2634"
     },
-    "nguyenduchoa": {
+    {
         "Username": "nguyenduchoa",
         "Country": "Vietnam",
         "Blitz Wins": "6126",
@@ -7727,7 +7727,7 @@
         "Bullet Best Rating": "2489",
         "Rapid Best Rating": "2241"
     },
-    "nguyenxi": {
+    {
         "Username": "nguyenxi",
         "Country": "Vietnam",
         "Blitz Wins": "1315",
@@ -7743,7 +7743,7 @@
         "Bullet Best Rating": "2873",
         "Rapid Best Rating": "1799"
     },
-    "nidjatmamedov": {
+    {
         "Username": "nidjatmamedov",
         "Country": "Azerbaijan",
         "Blitz Wins": "131",
@@ -7759,7 +7759,7 @@
         "Bullet Best Rating": "2510",
         "Rapid Best Rating": "1837"
     },
-    "nihalsarin": {
+    {
         "Username": "nihalsarin",
         "Country": "Sweden",
         "Blitz Wins": "9201",
@@ -7775,7 +7775,7 @@
         "Bullet Best Rating": "3382",
         "Rapid Best Rating": "2669"
     },
-    "nikolakis2014": {
+    {
         "Username": "nikolakis2014",
         "Country": "Greece",
         "Blitz Wins": "446",
@@ -7791,7 +7791,7 @@
         "Bullet Best Rating": "2529",
         "Rapid Best Rating": "2321"
     },
-    "nitzan_steinberg": {
+    {
         "Username": "nitzan_steinberg",
         "Country": "Israel",
         "Blitz Wins": "1308",
@@ -7807,7 +7807,7 @@
         "Bullet Best Rating": "2987",
         "Rapid Best Rating": "2542"
     },
-    "noukii": {
+    {
         "Username": "noukii",
         "Country": "France",
         "Blitz Wins": "6551",
@@ -7823,7 +7823,7 @@
         "Bullet Best Rating": "2967",
         "Rapid Best Rating": "2612"
     },
-    "nrvisakh": {
+    {
         "Username": "nrvisakh",
         "Country": "India",
         "Blitz Wins": "1883",
@@ -7839,7 +7839,7 @@
         "Bullet Best Rating": "2920",
         "Rapid Best Rating": "2573"
     },
-    "nuidisvulko": {
+    {
         "Username": "nuidisvulko",
         "Country": "Peru",
         "Blitz Wins": "32",
@@ -7855,7 +7855,7 @@
         "Bullet Best Rating": "2763",
         "Rapid Best Rating": "2583"
     },
-    "nyzhnyk_illia": {
+    {
         "Username": "nyzhnyk_illia",
         "Country": "United States",
         "Blitz Wins": "575",
@@ -7871,7 +7871,7 @@
         "Bullet Best Rating": "2905",
         "Rapid Best Rating": "2782"
     },
-    "obliviate12": {
+    {
         "Username": "obliviate12",
         "Country": "India",
         "Blitz Wins": "629",
@@ -7887,7 +7887,7 @@
         "Bullet Best Rating": "2860",
         "Rapid Best Rating": "2776"
     },
-    "off-war": {
+    {
         "Username": "off-war",
         "Country": "Ukraine",
         "Blitz Wins": "2263",
@@ -7903,7 +7903,7 @@
         "Bullet Best Rating": "2866",
         "Rapid Best Rating": "2673"
     },
-    "ok97": {
+    {
         "Username": "ok97",
         "Country": "Israel",
         "Blitz Wins": "4102",
@@ -7919,7 +7919,7 @@
         "Bullet Best Rating": "2890",
         "Rapid Best Rating": "2719"
     },
-    "oleksandr_bortnyk": {
+    {
         "Username": "oleksandr_bortnyk",
         "Country": "Ukraine",
         "Blitz Wins": "2522",
@@ -7935,7 +7935,7 @@
         "Bullet Best Rating": "3340",
         "Rapid Best Rating": "2939"
     },
-    "olksuna": {
+    {
         "Username": "olksuna",
         "Country": "Argentina",
         "Blitz Wins": "424",
@@ -7951,7 +7951,7 @@
         "Bullet Best Rating": "2598",
         "Rapid Best Rating": "2540"
     },
-    "olomi007": {
+    {
         "Username": "olomi007",
         "Country": "United States",
         "Blitz Wins": "1051",
@@ -7967,7 +7967,7 @@
         "Bullet Best Rating": "2501",
         "Rapid Best Rating": "2374"
     },
-    "oparingrigoriy": {
+    {
         "Username": "oparingrigoriy",
         "Country": "Russia",
         "Blitz Wins": "3070",
@@ -7983,7 +7983,7 @@
         "Bullet Best Rating": "3049",
         "Rapid Best Rating": "2650"
     },
-    "openyagami": {
+    {
         "Username": "openyagami",
         "Country": "United States",
         "Blitz Wins": "905",
@@ -7999,7 +7999,7 @@
         "Bullet Best Rating": "2903",
         "Rapid Best Rating": "2787"
     },
-    "oskariot": {
+    {
         "Username": "oskariot",
         "Country": "International",
         "Blitz Wins": "4236",
@@ -8015,7 +8015,7 @@
         "Bullet Best Rating": "2826",
         "Rapid Best Rating": "2250"
     },
-    "oursemare": {
+    {
         "Username": "oursemare",
         "Country": "France",
         "Blitz Wins": "180",
@@ -8031,7 +8031,7 @@
         "Bullet Best Rating": "2245",
         "Rapid Best Rating": "2379"
     },
-    "pablozarnicki": {
+    {
         "Username": "pablozarnicki",
         "Country": "Argentina",
         "Blitz Wins": "1086",
@@ -8047,7 +8047,7 @@
         "Bullet Best Rating": "2637",
         "Rapid Best Rating": "2319"
     },
-    "paralinch": {
+    {
         "Username": "paralinch",
         "Country": "Russia",
         "Blitz Wins": "1477",
@@ -8063,7 +8063,7 @@
         "Bullet Best Rating": "3054",
         "Rapid Best Rating": "2347"
     },
-    "parhamov": {
+    {
         "Username": "parhamov",
         "Country": "Iran",
         "Blitz Wins": "2213",
@@ -8079,7 +8079,7 @@
         "Bullet Best Rating": "3140",
         "Rapid Best Rating": "2674"
     },
-    "parimarjan": {
+    {
         "Username": "parimarjan",
         "Country": "India",
         "Blitz Wins": "34",
@@ -8095,7 +8095,7 @@
         "Bullet Best Rating": "2753",
         "Rapid Best Rating": "2656"
     },
-    "paulfromspb": {
+    {
         "Username": "paulfromspb",
         "Country": "Russia",
         "Blitz Wins": "2899",
@@ -8111,7 +8111,7 @@
         "Bullet Best Rating": "2741",
         "Rapid Best Rating": "2590"
     },
-    "paulphoenix87": {
+    {
         "Username": "paulphoenix87",
         "Country": "Switzerland",
         "Blitz Wins": "1846",
@@ -8127,7 +8127,7 @@
         "Bullet Best Rating": "2695",
         "Rapid Best Rating": "1493"
     },
-    "paulvelten": {
+    {
         "Username": "paulvelten",
         "Country": "France",
         "Blitz Wins": "179",
@@ -8143,7 +8143,7 @@
         "Bullet Best Rating": "2800",
         "Rapid Best Rating": "2787"
     },
-    "pavel_skatchkov": {
+    {
         "Username": "pavel_skatchkov",
         "Country": "Russia",
         "Blitz Wins": "122",
@@ -8159,7 +8159,7 @@
         "Bullet Best Rating": "2638",
         "Rapid Best Rating": "2502"
     },
-    "pawelczarnota": {
+    {
         "Username": "pawelczarnota",
         "Country": "Poland",
         "Blitz Wins": "203",
@@ -8175,7 +8175,7 @@
         "Bullet Best Rating": "2730",
         "Rapid Best Rating": "2502"
     },
-    "penguingm1": {
+    {
         "Username": "penguingm1",
         "Country": "North Korea",
         "Blitz Wins": "2569",
@@ -8191,7 +8191,7 @@
         "Bullet Best Rating": "3504",
         "Rapid Best Rating": "2969"
     },
-    "pidzsy": {
+    {
         "Username": "pidzsy",
         "Country": "Hungary",
         "Blitz Wins": "75",
@@ -8207,7 +8207,7 @@
         "Bullet Best Rating": "2412",
         "Rapid Best Rating": "2582"
     },
-    "platy3": {
+    {
         "Username": "platy3",
         "Country": "Argentina",
         "Blitz Wins": "1078",
@@ -8223,7 +8223,7 @@
         "Bullet Best Rating": "3186",
         "Rapid Best Rating": "2622"
     },
-    "polish_fighter3000": {
+    {
         "Username": "polish_fighter3000",
         "Country": "Poland",
         "Blitz Wins": "1312",
@@ -8239,7 +8239,7 @@
         "Bullet Best Rating": "3248",
         "Rapid Best Rating": "2997"
     },
-    "pollo2016": {
+    {
         "Username": "pollo2016",
         "Country": "Cuba",
         "Blitz Wins": "277",
@@ -8255,7 +8255,7 @@
         "Bullet Best Rating": "2592",
         "Rapid Best Rating": "2518"
     },
-    "potosino1970": {
+    {
         "Username": "potosino1970",
         "Country": "Mexico",
         "Blitz Wins": "441",
@@ -8271,7 +8271,7 @@
         "Bullet Best Rating": "2759",
         "Rapid Best Rating": "2529"
     },
-    "pouya21": {
+    {
         "Username": "pouya21",
         "Country": "Iran",
         "Blitz Wins": "217",
@@ -8287,7 +8287,7 @@
         "Bullet Best Rating": "2819",
         "Rapid Best Rating": "2662"
     },
-    "predatoru": {
+    {
         "Username": "predatoru",
         "Country": "Romania",
         "Blitz Wins": "510",
@@ -8303,7 +8303,7 @@
         "Bullet Best Rating": "2495",
         "Rapid Best Rating": "2460"
     },
-    "profylax": {
+    {
         "Username": "profylax",
         "Country": "Norway",
         "Blitz Wins": "1098",
@@ -8319,7 +8319,7 @@
         "Bullet Best Rating": "1381",
         "Rapid Best Rating": "1913"
     },
-    "promen1999": {
+    {
         "Username": "promen1999",
         "Country": "Hungary",
         "Blitz Wins": "1141",
@@ -8335,7 +8335,7 @@
         "Bullet Best Rating": "2802",
         "Rapid Best Rating": "2860"
     },
-    "pvorontsov": {
+    {
         "Username": "pvorontsov",
         "Country": "United States",
         "Blitz Wins": "306",
@@ -8351,7 +8351,7 @@
         "Bullet Best Rating": "2521",
         "Rapid Best Rating": "2465"
     },
-    "qashashvilialexandre": {
+    {
         "Username": "qashashvilialexandre",
         "Country": "Georgia",
         "Blitz Wins": "192",
@@ -8367,7 +8367,7 @@
         "Bullet Best Rating": "2178",
         "Rapid Best Rating": "2006"
     },
-    "rabachess": {
+    {
         "Username": "rabachess",
         "Country": "United States",
         "Blitz Wins": "236",
@@ -8383,7 +8383,7 @@
         "Bullet Best Rating": "2176",
         "Rapid Best Rating": "2200"
     },
-    "radzio1987": {
+    {
         "Username": "radzio1987",
         "Country": "Poland",
         "Blitz Wins": "270",
@@ -8399,7 +8399,7 @@
         "Bullet Best Rating": "2842",
         "Rapid Best Rating": "2749"
     },
-    "rakhmanov_aleksandr": {
+    {
         "Username": "rakhmanov_aleksandr",
         "Country": "Russia",
         "Blitz Wins": "687",
@@ -8415,7 +8415,7 @@
         "Bullet Best Rating": "2580",
         "Rapid Best Rating": "2608"
     },
-    "raphaei": {
+    {
         "Username": "raphaei",
         "Country": "Slovenia",
         "Blitz Wins": "680",
@@ -8431,7 +8431,7 @@
         "Bullet Best Rating": "2176",
         "Rapid Best Rating": "2570"
     },
-    "rasmussvane": {
+    {
         "Username": "rasmussvane",
         "Country": "Germany",
         "Blitz Wins": "1332",
@@ -8447,7 +8447,7 @@
         "Bullet Best Rating": "3056",
         "Rapid Best Rating": "2557"
     },
-    "ratkovic_miloje": {
+    {
         "Username": "ratkovic_miloje",
         "Country": "Serbia",
         "Blitz Wins": "646",
@@ -8463,7 +8463,7 @@
         "Bullet Best Rating": "2633",
         "Rapid Best Rating": "2514"
     },
-    "raunaksadhwani2005": {
+    {
         "Username": "raunaksadhwani2005",
         "Country": "United Arab Emirates",
         "Blitz Wins": "1219",
@@ -8479,7 +8479,7 @@
         "Bullet Best Rating": "3204",
         "Rapid Best Rating": "2646"
     },
-    "rayrobson": {
+    {
         "Username": "rayrobson",
         "Country": "United States",
         "Blitz Wins": "414",
@@ -8495,7 +8495,7 @@
         "Bullet Best Rating": "2859",
         "Rapid Best Rating": "2796"
     },
-    "rd4ever": {
+    {
         "Username": "rd4ever",
         "Country": "Kazakhstan",
         "Blitz Wins": "705",
@@ -8511,7 +8511,7 @@
         "Bullet Best Rating": "2813",
         "Rapid Best Rating": "2591"
     },
-    "rdeux42": {
+    {
         "Username": "rdeux42",
         "Country": "France",
         "Blitz Wins": "46",
@@ -8527,7 +8527,7 @@
         "Bullet Best Rating": "1980",
         "Rapid Best Rating": "2532"
     },
-    "rednova1729": {
+    {
         "Username": "rednova1729",
         "Country": "United States",
         "Blitz Wins": "107",
@@ -8543,7 +8543,7 @@
         "Bullet Best Rating": "2977",
         "Rapid Best Rating": "2765"
     },
-    "reutik": {
+    {
         "Username": "reutik",
         "Country": "Israel",
         "Blitz Wins": "1765",
@@ -8559,7 +8559,7 @@
         "Bullet Best Rating": "2634",
         "Rapid Best Rating": "2500"
     },
-    "revisor": {
+    {
         "Username": "revisor",
         "Country": "Russia",
         "Blitz Wins": "965",
@@ -8575,7 +8575,7 @@
         "Bullet Best Rating": "2821",
         "Rapid Best Rating": "2048"
     },
-    "rexterminator": {
+    {
         "Username": "rexterminator",
         "Country": "Turks and Caicos Islands",
         "Blitz Wins": "130",
@@ -8591,7 +8591,7 @@
         "Bullet Best Rating": "2561",
         "Rapid Best Rating": "2738"
     },
-    "rfelgaer": {
+    {
         "Username": "rfelgaer",
         "Country": "Argentina",
         "Blitz Wins": "537",
@@ -8607,7 +8607,7 @@
         "Bullet Best Rating": "2110",
         "Rapid Best Rating": "2647"
     },
-    "rikikits": {
+    {
         "Username": "rikikits",
         "Country": "France",
         "Blitz Wins": "2225",
@@ -8623,7 +8623,7 @@
         "Bullet Best Rating": "2916",
         "Rapid Best Rating": "2815"
     },
-    "rnhs": {
+    {
         "Username": "rnhs",
         "Country": "Qatar",
         "Blitz Wins": "777",
@@ -8639,7 +8639,7 @@
         "Bullet Best Rating": "2961",
         "Rapid Best Rating": "2600"
     },
-    "robert_chessmood": {
+    {
         "Username": "robert_chessmood",
         "Country": "Armenia",
         "Blitz Wins": "2058",
@@ -8655,7 +8655,7 @@
         "Bullet Best Rating": "3033",
         "Rapid Best Rating": "2547"
     },
-    "robinswinkels": {
+    {
         "Username": "robinswinkels",
         "Country": "Netherlands",
         "Blitz Wins": "64",
@@ -8671,7 +8671,7 @@
         "Bullet Best Rating": "2597",
         "Rapid Best Rating": "1837"
     },
-    "rodalquilar": {
+    {
         "Username": "rodalquilar",
         "Country": "Argentina",
         "Blitz Wins": "1153",
@@ -8687,7 +8687,7 @@
         "Bullet Best Rating": "2780",
         "Rapid Best Rating": "2686"
     },
-    "roelandpruijssers": {
+    {
         "Username": "roelandpruijssers",
         "Country": "Netherlands",
         "Blitz Wins": "1204",
@@ -8703,7 +8703,7 @@
         "Bullet Best Rating": "2613",
         "Rapid Best Rating": "2770"
     },
-    "rogapa": {
+    {
         "Username": "rogapa",
         "Country": "Cuba",
         "Blitz Wins": "613",
@@ -8719,7 +8719,7 @@
         "Bullet Best Rating": "2513",
         "Rapid Best Rating": "2494"
     },
-    "roman_ovetchkin": {
+    {
         "Username": "roman_ovetchkin",
         "Country": "Russia",
         "Blitz Wins": "291",
@@ -8735,7 +8735,7 @@
         "Bullet Best Rating": "2578",
         "Rapid Best Rating": "2455"
     },
-    "rookoco": {
+    {
         "Username": "rookoco",
         "Country": "United States",
         "Blitz Wins": "4881",
@@ -8751,7 +8751,7 @@
         "Bullet Best Rating": "2834",
         "Rapid Best Rating": "2339"
     },
-    "rozum_ivan": {
+    {
         "Username": "rozum_ivan",
         "Country": "Russia",
         "Blitz Wins": "414",
@@ -8767,7 +8767,7 @@
         "Bullet Best Rating": "2787",
         "Rapid Best Rating": "2483"
     },
-    "rpragchess": {
+    {
         "Username": "rpragchess",
         "Country": "India",
         "Blitz Wins": "837",
@@ -8783,7 +8783,7 @@
         "Bullet Best Rating": "3041",
         "Rapid Best Rating": "2629"
     },
-    "ruifeng": {
+    {
         "Username": "ruifeng",
         "Country": "United States",
         "Blitz Wins": "378",
@@ -8799,7 +8799,7 @@
         "Bullet Best Rating": "2614",
         "Rapid Best Rating": "2556"
     },
-    "rybka1989": {
+    {
         "Username": "rybka1989",
         "Country": "Ukraine",
         "Blitz Wins": "1974",
@@ -8815,7 +8815,7 @@
         "Bullet Best Rating": "2572",
         "Rapid Best Rating": "2192"
     },
-    "s2pac": {
+    {
         "Username": "s2pac",
         "Country": "Belarus",
         "Blitz Wins": "918",
@@ -8831,7 +8831,7 @@
         "Bullet Best Rating": "2928",
         "Rapid Best Rating": "2552"
     },
-    "sadorra_pcap_manila": {
+    {
         "Username": "sadorra_pcap_manila",
         "Country": "Philippines",
         "Blitz Wins": "194",
@@ -8847,7 +8847,7 @@
         "Bullet Best Rating": "2744",
         "Rapid Best Rating": "2506"
     },
-    "sahajgrover": {
+    {
         "Username": "sahajgrover",
         "Country": "India",
         "Blitz Wins": "394",
@@ -8863,7 +8863,7 @@
         "Bullet Best Rating": "2764",
         "Rapid Best Rating": "2681"
     },
-    "salgadochess91": {
+    {
         "Username": "salgadochess91",
         "Country": "Spain",
         "Blitz Wins": "386",
@@ -8879,7 +8879,7 @@
         "Bullet Best Rating": "2776",
         "Rapid Best Rating": "2344"
     },
-    "sam_chessmood": {
+    {
         "Username": "sam_chessmood",
         "Country": "Armenia",
         "Blitz Wins": "974",
@@ -8895,7 +8895,7 @@
         "Bullet Best Rating": "2949",
         "Rapid Best Rating": "2616"
     },
-    "sanan_sjugirov": {
+    {
         "Username": "sanan_sjugirov",
         "Country": "Russia",
         "Blitz Wins": "3650",
@@ -8911,7 +8911,7 @@
         "Bullet Best Rating": "2992",
         "Rapid Best Rating": "2894"
     },
-    "sandromareco": {
+    {
         "Username": "sandromareco",
         "Country": "Argentina",
         "Blitz Wins": "662",
@@ -8927,7 +8927,7 @@
         "Bullet Best Rating": "2394",
         "Rapid Best Rating": "2832"
     },
-    "santoblue": {
+    {
         "Username": "santoblue",
         "Country": "Turkey",
         "Blitz Wins": "5475",
@@ -8943,7 +8943,7 @@
         "Bullet Best Rating": "2931",
         "Rapid Best Rating": "2632"
     },
-    "savelijtartakover": {
+    {
         "Username": "savelijtartakover",
         "Country": "Russia",
         "Blitz Wins": "519",
@@ -8959,7 +8959,7 @@
         "Bullet Best Rating": "2249",
         "Rapid Best Rating": "2589"
     },
-    "saxar85": {
+    {
         "Username": "saxar85",
         "Country": "Ukraine",
         "Blitz Wins": "215",
@@ -8975,7 +8975,7 @@
         "Bullet Best Rating": "2647",
         "Rapid Best Rating": "2735"
     },
-    "sebastian": {
+    {
         "Username": "sebastian",
         "Country": "United States",
         "Blitz Wins": "1051",
@@ -8991,7 +8991,7 @@
         "Bullet Best Rating": "3084",
         "Rapid Best Rating": "2880"
     },
-    "senseijulio": {
+    {
         "Username": "senseijulio",
         "Country": "Philippines",
         "Blitz Wins": "876",
@@ -9007,7 +9007,7 @@
         "Bullet Best Rating": "2585",
         "Rapid Best Rating": "2662"
     },
-    "sergeiaza": {
+    {
         "Username": "sergeiaza",
         "Country": "Belarus",
         "Blitz Wins": "2054",
@@ -9023,7 +9023,7 @@
         "Bullet Best Rating": "2610",
         "Rapid Best Rating": "2660"
     },
-    "sergey_kasparov": {
+    {
         "Username": "sergey_kasparov",
         "Country": "Armenia",
         "Blitz Wins": "1094",
@@ -9039,7 +9039,7 @@
         "Bullet Best Rating": "2194",
         "Rapid Best Rating": "2538"
     },
-    "sergiochess83": {
+    {
         "Username": "sergiochess83",
         "Country": "Hungary",
         "Blitz Wins": "1144",
@@ -9055,7 +9055,7 @@
         "Bullet Best Rating": "2731",
         "Rapid Best Rating": "2696"
     },
-    "sethu0025": {
+    {
         "Username": "sethu0025",
         "Country": "India",
         "Blitz Wins": "1601",
@@ -9071,7 +9071,7 @@
         "Bullet Best Rating": "2693",
         "Rapid Best Rating": "2673"
     },
-    "shankland": {
+    {
         "Username": "shankland",
         "Country": "United States",
         "Blitz Wins": "643",
@@ -9087,7 +9087,7 @@
         "Bullet Best Rating": "2729",
         "Rapid Best Rating": "2777"
     },
-    "sharapovevgeny": {
+    {
         "Username": "sharapovevgeny",
         "Country": "Ukraine",
         "Blitz Wins": "261",
@@ -9103,7 +9103,7 @@
         "Bullet Best Rating": "2470",
         "Rapid Best Rating": "2491"
     },
-    "sharpchess22": {
+    {
         "Username": "sharpchess22",
         "Country": "Argentina",
         "Blitz Wins": "2627",
@@ -9119,7 +9119,7 @@
         "Bullet Best Rating": "2408",
         "Rapid Best Rating": "2627"
     },
-    "shevson": {
+    {
         "Username": "shevson",
         "Country": "Poland",
         "Blitz Wins": "54",
@@ -9135,7 +9135,7 @@
         "Bullet Best Rating": "2171",
         "Rapid Best Rating": "2384"
     },
-    "shield12": {
+    {
         "Username": "shield12",
         "Country": "Uzbekistan",
         "Blitz Wins": "1267",
@@ -9151,7 +9151,7 @@
         "Bullet Best Rating": "3026",
         "Rapid Best Rating": "2696"
     },
-    "shimanovalex": {
+    {
         "Username": "shimanovalex",
         "Country": "United States",
         "Blitz Wins": "3873",
@@ -9167,7 +9167,7 @@
         "Bullet Best Rating": "2989",
         "Rapid Best Rating": "2801"
     },
-    "shtembuliak": {
+    {
         "Username": "shtembuliak",
         "Country": "United States",
         "Blitz Wins": "3575",
@@ -9183,7 +9183,7 @@
         "Bullet Best Rating": "2986",
         "Rapid Best Rating": "2523"
     },
-    "shyam": {
+    {
         "Username": "shyam",
         "Country": "India",
         "Blitz Wins": "708",
@@ -9199,7 +9199,7 @@
         "Bullet Best Rating": "2834",
         "Rapid Best Rating": "2241"
     },
-    "sibelephant": {
+    {
         "Username": "sibelephant",
         "Country": "Russia",
         "Blitz Wins": "673",
@@ -9215,7 +9215,7 @@
         "Bullet Best Rating": "3280",
         "Rapid Best Rating": "2905"
     },
-    "sipkeernst": {
+    {
         "Username": "sipkeernst",
         "Country": "Netherlands",
         "Blitz Wins": "145",
@@ -9231,7 +9231,7 @@
         "Bullet Best Rating": "2546",
         "Rapid Best Rating": "2187"
     },
-    "smirnov_pavel": {
+    {
         "Username": "smirnov_pavel",
         "Country": "Russia",
         "Blitz Wins": "928",
@@ -9247,7 +9247,7 @@
         "Bullet Best Rating": "2628",
         "Rapid Best Rating": "2455"
     },
-    "smurfo": {
+    {
         "Username": "smurfo",
         "Country": "Australia",
         "Blitz Wins": "4161",
@@ -9263,7 +9263,7 @@
         "Bullet Best Rating": "2671",
         "Rapid Best Rating": "2534"
     },
-    "son_of_sultan": {
+    {
         "Username": "son_of_sultan",
         "Country": "International",
         "Blitz Wins": "332",
@@ -9279,7 +9279,7 @@
         "Bullet Best Rating": "2856",
         "Rapid Best Rating": "2533"
     },
-    "spartakus1975": {
+    {
         "Username": "spartakus1975",
         "Country": "Ukraine",
         "Blitz Wins": "1343",
@@ -9295,7 +9295,7 @@
         "Bullet Best Rating": "2617",
         "Rapid Best Rating": "2622"
     },
-    "speedskater": {
+    {
         "Username": "speedskater",
         "Country": "United States",
         "Blitz Wins": "2362",
@@ -9311,7 +9311,7 @@
         "Bullet Best Rating": "2900",
         "Rapid Best Rating": "2488"
     },
-    "spicycaterpillar": {
+    {
         "Username": "spicycaterpillar",
         "Country": "United States",
         "Blitz Wins": "1571",
@@ -9327,7 +9327,7 @@
         "Bullet Best Rating": "3265",
         "Rapid Best Rating": "2732"
     },
-    "ss003": {
+    {
         "Username": "ss003",
         "Country": "Ukraine",
         "Blitz Wins": "341",
@@ -9343,7 +9343,7 @@
         "Bullet Best Rating": "2378",
         "Rapid Best Rating": "1571"
     },
-    "stanyga": {
+    {
         "Username": "stanyga",
         "Country": "India",
         "Blitz Wins": "333",
@@ -9359,7 +9359,7 @@
         "Bullet Best Rating": "2550",
         "Rapid Best Rating": "2623"
     },
-    "starmatecc": {
+    {
         "Username": "starmatecc",
         "Country": "Philippines",
         "Blitz Wins": "842",
@@ -9375,7 +9375,7 @@
         "Bullet Best Rating": "2488",
         "Rapid Best Rating": "1893"
     },
-    "sumohawk": {
+    {
         "Username": "sumohawk",
         "Country": "United Kingdom",
         "Blitz Wins": "446",
@@ -9391,7 +9391,7 @@
         "Bullet Best Rating": "2367",
         "Rapid Best Rating": "2590"
     },
-    "sundarkidambi": {
+    {
         "Username": "sundarkidambi",
         "Country": "India",
         "Blitz Wins": "30",
@@ -9407,7 +9407,7 @@
         "Bullet Best Rating": "1492",
         "Rapid Best Rating": "2021"
     },
-    "superetual": {
+    {
         "Username": "superetual",
         "Country": "Spain",
         "Blitz Wins": "92",
@@ -9423,7 +9423,7 @@
         "Bullet Best Rating": "2507",
         "Rapid Best Rating": "2356"
     },
-    "suryaganguly": {
+    {
         "Username": "suryaganguly",
         "Country": "India",
         "Blitz Wins": "584",
@@ -9439,7 +9439,7 @@
         "Bullet Best Rating": "2803",
         "Rapid Best Rating": "2704"
     },
-    "swapchess90": {
+    {
         "Username": "swapchess90",
         "Country": "India",
         "Blitz Wins": "1512",
@@ -9455,7 +9455,7 @@
         "Bullet Best Rating": "2809",
         "Rapid Best Rating": "2532"
     },
-    "swayamsm": {
+    {
         "Username": "swayamsm",
         "Country": "India",
         "Blitz Wins": "466",
@@ -9471,7 +9471,7 @@
         "Bullet Best Rating": "2776",
         "Rapid Best Rating": "2612"
     },
-    "swisspower96": {
+    {
         "Username": "swisspower96",
         "Country": "Switzerland",
         "Blitz Wins": "1706",
@@ -9487,7 +9487,7 @@
         "Bullet Best Rating": "2700",
         "Rapid Best Rating": "2531"
     },
-    "sychev_klementy": {
+    {
         "Username": "sychev_klementy",
         "Country": "Russia",
         "Blitz Wins": "692",
@@ -9503,7 +9503,7 @@
         "Bullet Best Rating": "2825",
         "Rapid Best Rating": "2743"
     },
-    "szfinx11": {
+    {
         "Username": "szfinx11",
         "Country": "Hungary",
         "Blitz Wins": "141",
@@ -9519,7 +9519,7 @@
         "Bullet Best Rating": "2742",
         "Rapid Best Rating": "2127"
     },
-    "tamirnabaty": {
+    {
         "Username": "tamirnabaty",
         "Country": "Israel",
         "Blitz Wins": "522",
@@ -9535,7 +9535,7 @@
         "Bullet Best Rating": "2940",
         "Rapid Best Rating": "2632"
     },
-    "tapuah": {
+    {
         "Username": "tapuah",
         "Country": "Israel",
         "Blitz Wins": "6539",
@@ -9551,7 +9551,7 @@
         "Bullet Best Rating": "2751",
         "Rapid Best Rating": "2836"
     },
-    "tashik": {
+    {
         "Username": "tashik",
         "Country": "Ukraine",
         "Blitz Wins": "958",
@@ -9567,7 +9567,7 @@
         "Bullet Best Rating": "2595",
         "Rapid Best Rating": "2397"
     },
-    "taxidermist": {
+    {
         "Username": "taxidermist",
         "Country": "United States",
         "Blitz Wins": "269",
@@ -9583,7 +9583,7 @@
         "Bullet Best Rating": "2530",
         "Rapid Best Rating": "2502"
     },
-    "temiksmozg": {
+    {
         "Username": "temiksmozg",
         "Country": "Ukraine",
         "Blitz Wins": "1436",
@@ -9599,7 +9599,7 @@
         "Bullet Best Rating": "2668",
         "Rapid Best Rating": "2504"
     },
-    "tenismaster": {
+    {
         "Username": "tenismaster",
         "Country": "United States",
         "Blitz Wins": "4242",
@@ -9615,7 +9615,7 @@
         "Bullet Best Rating": "2747",
         "Rapid Best Rating": "2791"
     },
-    "thamizhan": {
+    {
         "Username": "thamizhan",
         "Country": "United States",
         "Blitz Wins": "469",
@@ -9631,7 +9631,7 @@
         "Bullet Best Rating": "2270",
         "Rapid Best Rating": "2000"
     },
-    "thecount": {
+    {
         "Username": "thecount",
         "Country": "United States",
         "Blitz Wins": "3901",
@@ -9647,7 +9647,7 @@
         "Bullet Best Rating": "2815",
         "Rapid Best Rating": "2659"
     },
-    "thegadfly1897": {
+    {
         "Username": "thegadfly1897",
         "Country": "Turkey",
         "Blitz Wins": "299",
@@ -9663,7 +9663,7 @@
         "Bullet Best Rating": "2744",
         "Rapid Best Rating": "2717"
     },
-    "thejoker64": {
+    {
         "Username": "thejoker64",
         "Country": "Turkey",
         "Blitz Wins": "463",
@@ -9679,7 +9679,7 @@
         "Bullet Best Rating": "2798",
         "Rapid Best Rating": "2579"
     },
-    "thesilmarils": {
+    {
         "Username": "thesilmarils",
         "Country": "United States",
         "Blitz Wins": "635",
@@ -9695,7 +9695,7 @@
         "Bullet Best Rating": "2548",
         "Rapid Best Rating": "1439"
     },
-    "tigergenov": {
+    {
         "Username": "tigergenov",
         "Country": "Bulgaria",
         "Blitz Wins": "62",
@@ -9711,7 +9711,7 @@
         "Bullet Best Rating": "2271",
         "Rapid Best Rating": "2497"
     },
-    "tigra": {
+    {
         "Username": "tigra",
         "Country": "Russia",
         "Blitz Wins": "431",
@@ -9727,7 +9727,7 @@
         "Bullet Best Rating": "2459",
         "Rapid Best Rating": "2656"
     },
-    "tigrangharamian": {
+    {
         "Username": "tigrangharamian",
         "Country": "France",
         "Blitz Wins": "112",
@@ -9743,7 +9743,7 @@
         "Bullet Best Rating": "2960",
         "Rapid Best Rating": "2695"
     },
-    "tigrvshlyape": {
+    {
         "Username": "tigrvshlyape",
         "Country": "United States",
         "Blitz Wins": "1490",
@@ -9759,7 +9759,7 @@
         "Bullet Best Rating": "2810",
         "Rapid Best Rating": "2082"
     },
-    "timofeevar": {
+    {
         "Username": "timofeevar",
         "Country": "Russia",
         "Blitz Wins": "599",
@@ -9775,7 +9775,7 @@
         "Bullet Best Rating": "2606",
         "Rapid Best Rating": "2681"
     },
-    "timurgareyev": {
+    {
         "Username": "timurgareyev",
         "Country": "United States",
         "Blitz Wins": "319",
@@ -9791,7 +9791,7 @@
         "Bullet Best Rating": "2470",
         "Rapid Best Rating": "2621"
     },
-    "titan013": {
+    {
         "Username": "titan013",
         "Country": "France",
         "Blitz Wins": "2871",
@@ -9807,7 +9807,7 @@
         "Bullet Best Rating": "2765",
         "Rapid Best Rating": "2362"
     },
-    "tjallkompall": {
+    {
         "Username": "tjallkompall",
         "Country": "Norway",
         "Blitz Wins": "589",
@@ -9823,7 +9823,7 @@
         "Bullet Best Rating": "2549",
         "Rapid Best Rating": "2653"
     },
-    "tocras": {
+    {
         "Username": "tocras",
         "Country": "France",
         "Blitz Wins": "832",
@@ -9839,7 +9839,7 @@
         "Bullet Best Rating": "2796",
         "Rapid Best Rating": "2602"
     },
-    "tomaspolak74": {
+    {
         "Username": "tomaspolak74",
         "Country": "Czech Republic",
         "Blitz Wins": "44",
@@ -9855,7 +9855,7 @@
         "Bullet Best Rating": "2647",
         "Rapid Best Rating": "2752"
     },
-    "tomskantans": {
+    {
         "Username": "tomskantans",
         "Country": "Latvia",
         "Blitz Wins": "1849",
@@ -9871,7 +9871,7 @@
         "Bullet Best Rating": "2786",
         "Rapid Best Rating": "2673"
     },
-    "tormoz": {
+    {
         "Username": "tormoz",
         "Country": "Germany",
         "Blitz Wins": "122",
@@ -9887,7 +9887,7 @@
         "Bullet Best Rating": "2579",
         "Rapid Best Rating": "3008"
     },
-    "tornikesanikidze": {
+    {
         "Username": "tornikesanikidze",
         "Country": "Georgia",
         "Blitz Wins": "92",
@@ -9903,7 +9903,7 @@
         "Bullet Best Rating": "2792",
         "Rapid Best Rating": "2252"
     },
-    "tptagain": {
+    {
         "Username": "tptagain",
         "Country": "Spain",
         "Blitz Wins": "671",
@@ -9919,7 +9919,7 @@
         "Bullet Best Rating": "2969",
         "Rapid Best Rating": "2746"
     },
-    "tradjabov": {
+    {
         "Username": "tradjabov",
         "Country": "Azerbaijan",
         "Blitz Wins": "84",
@@ -9935,7 +9935,7 @@
         "Bullet Best Rating": "3062",
         "Rapid Best Rating": "2848"
     },
-    "tranjminh": {
+    {
         "Username": "tranjminh",
         "Country": "Vietnam",
         "Blitz Wins": "801",
@@ -9951,7 +9951,7 @@
         "Bullet Best Rating": "3024",
         "Rapid Best Rating": "2560"
     },
-    "transponster": {
+    {
         "Username": "transponster",
         "Country": "United States",
         "Blitz Wins": "1663",
@@ -9967,7 +9967,7 @@
         "Bullet Best Rating": "2915",
         "Rapid Best Rating": "2000"
     },
-    "twannibal": {
+    {
         "Username": "twannibal",
         "Country": "Netherlands",
         "Blitz Wins": "41",
@@ -9983,7 +9983,7 @@
         "Bullet Best Rating": "2698",
         "Rapid Best Rating": "2418"
     },
-    "uchihovich": {
+    {
         "Username": "uchihovich",
         "Country": "Russia",
         "Blitz Wins": "1115",
@@ -9999,7 +9999,7 @@
         "Bullet Best Rating": "2702",
         "Rapid Best Rating": "2071"
     },
-    "udysseus1": {
+    {
         "Username": "udysseus1",
         "Country": "Greece",
         "Blitz Wins": "1777",
@@ -10015,7 +10015,7 @@
         "Bullet Best Rating": "1081",
         "Rapid Best Rating": "1482"
     },
-    "vaathi_coming": {
+    {
         "Username": "vaathi_coming",
         "Country": "India",
         "Blitz Wins": "528",
@@ -10031,7 +10031,7 @@
         "Bullet Best Rating": "3045",
         "Rapid Best Rating": "2842"
     },
-    "vanina1989": {
+    {
         "Username": "vanina1989",
         "Country": "Russia",
         "Blitz Wins": "338",
@@ -10047,7 +10047,7 @@
         "Bullet Best Rating": "2754",
         "Rapid Best Rating": "2621"
     },
-    "vanych": {
+    {
         "Username": "vanych",
         "Country": "Russia",
         "Blitz Wins": "79",
@@ -10063,7 +10063,7 @@
         "Bullet Best Rating": "1846",
         "Rapid Best Rating": "2400"
     },
-    "verdenotte": {
+    {
         "Username": "verdenotte",
         "Country": "England",
         "Blitz Wins": "793",
@@ -10079,7 +10079,7 @@
         "Bullet Best Rating": "2889",
         "Rapid Best Rating": "2763"
     },
-    "viditchess": {
+    {
         "Username": "viditchess",
         "Country": "India",
         "Blitz Wins": "723",
@@ -10095,7 +10095,7 @@
         "Bullet Best Rating": "3079",
         "Rapid Best Rating": "2747"
     },
-    "vidityt": {
+    {
         "Username": "vidityt",
         "Country": "India",
         "Blitz Wins": "322",
@@ -10111,7 +10111,7 @@
         "Bullet Best Rating": "3122",
         "Rapid Best Rating": "2470"
     },
-    "viiiagra": {
+    {
         "Username": "viiiagra",
         "Country": "Chile",
         "Blitz Wins": "2256",
@@ -10127,7 +10127,7 @@
         "Bullet Best Rating": "3061",
         "Rapid Best Rating": "2766"
     },
-    "vincentkeymer": {
+    {
         "Username": "vincentkeymer",
         "Country": "Germany",
         "Blitz Wins": "1580",
@@ -10143,7 +10143,7 @@
         "Bullet Best Rating": "2994",
         "Rapid Best Rating": "2765"
     },
-    "vincentmasuka": {
+    {
         "Username": "vincentmasuka",
         "Country": "Norway",
         "Blitz Wins": "467",
@@ -10159,7 +10159,7 @@
         "Bullet Best Rating": "2426",
         "Rapid Best Rating": "2451"
     },
-    "virgo15": {
+    {
         "Username": "virgo15",
         "Country": "Mongolia",
         "Blitz Wins": "490",
@@ -10175,7 +10175,7 @@
         "Bullet Best Rating": "2642",
         "Rapid Best Rating": "2614"
     },
-    "vishnuprasanna": {
+    {
         "Username": "vishnuprasanna",
         "Country": "India",
         "Blitz Wins": "1904",
@@ -10191,7 +10191,7 @@
         "Bullet Best Rating": "2737",
         "Rapid Best Rating": "2401"
     },
-    "vitaliybernadskiy": {
+    {
         "Username": "vitaliybernadskiy",
         "Country": "Ukraine",
         "Blitz Wins": "4210",
@@ -10207,7 +10207,7 @@
         "Bullet Best Rating": "2881",
         "Rapid Best Rating": "2606"
     },
-    "vitarasik": {
+    {
         "Username": "vitarasik",
         "Country": "Czech Republic",
         "Blitz Wins": "2309",
@@ -10223,7 +10223,7 @@
         "Bullet Best Rating": "2337",
         "Rapid Best Rating": "2669"
     },
-    "vladdobrov": {
+    {
         "Username": "vladdobrov",
         "Country": "Russia",
         "Blitz Wins": "4511",
@@ -10239,7 +10239,7 @@
         "Bullet Best Rating": "2868",
         "Rapid Best Rating": "2886"
     },
-    "vladislavkovalev": {
+    {
         "Username": "vladislavkovalev",
         "Country": "Belarus",
         "Blitz Wins": "1531",
@@ -10255,7 +10255,7 @@
         "Bullet Best Rating": "2790",
         "Rapid Best Rating": "2842"
     },
-    "vladjianu": {
+    {
         "Username": "vladjianu",
         "Country": "Romania",
         "Blitz Wins": "742",
@@ -10271,7 +10271,7 @@
         "Bullet Best Rating": "2743",
         "Rapid Best Rating": "2428"
     },
-    "vojtechplat": {
+    {
         "Username": "vojtechplat",
         "Country": "Czech Republic",
         "Blitz Wins": "901",
@@ -10287,7 +10287,7 @@
         "Bullet Best Rating": "2750",
         "Rapid Best Rating": "2672"
     },
-    "vovan1991": {
+    {
         "Username": "vovan1991",
         "Country": "Ukraine",
         "Blitz Wins": "104",
@@ -10303,7 +10303,7 @@
         "Bullet Best Rating": "2836",
         "Rapid Best Rating": "2636"
     },
-    "vserguei": {
+    {
         "Username": "vserguei",
         "Country": "Russia",
         "Blitz Wins": "402",
@@ -10319,7 +10319,7 @@
         "Bullet Best Rating": "2374",
         "Rapid Best Rating": "2708"
     },
-    "vugarrasulov": {
+    {
         "Username": "vugarrasulov",
         "Country": "Azerbaijan",
         "Blitz Wins": "3907",
@@ -10335,7 +10335,7 @@
         "Bullet Best Rating": "2957",
         "Rapid Best Rating": "2400"
     },
-    "vyotov": {
+    {
         "Username": "vyotov",
         "Country": "Bulgaria",
         "Blitz Wins": "295",
@@ -10351,7 +10351,7 @@
         "Bullet Best Rating": "2728",
         "Rapid Best Rating": "2226"
     },
-    "wanderingknightly": {
+    {
         "Username": "wanderingknightly",
         "Country": "China",
         "Blitz Wins": "809",
@@ -10367,7 +10367,7 @@
         "Bullet Best Rating": "2623",
         "Rapid Best Rating": "2832"
     },
-    "washuntilholes": {
+    {
         "Username": "washuntilholes",
         "Country": "Russia",
         "Blitz Wins": "133",
@@ -10383,7 +10383,7 @@
         "Bullet Best Rating": "2763",
         "Rapid Best Rating": "1863"
     },
-    "wizard456": {
+    {
         "Username": "wizard456",
         "Country": "India",
         "Blitz Wins": "1009",
@@ -10399,7 +10399,7 @@
         "Bullet Best Rating": "2898",
         "Rapid Best Rating": "2842"
     },
-    "worldwar66": {
+    {
         "Username": "worldwar66",
         "Country": "India",
         "Blitz Wins": "151",
@@ -10415,7 +10415,7 @@
         "Bullet Best Rating": "2798",
         "Rapid Best Rating": "2505"
     },
-    "wraku89": {
+    {
         "Username": "wraku89",
         "Country": "Poland",
         "Blitz Wins": "196",
@@ -10431,7 +10431,7 @@
         "Bullet Best Rating": "2760",
         "Rapid Best Rating": "2086"
     },
-    "wudileige": {
+    {
         "Username": "wudileige",
         "Country": "China",
         "Blitz Wins": "156",
@@ -10447,7 +10447,7 @@
         "Bullet Best Rating": "2884",
         "Rapid Best Rating": "2500"
     },
-    "xamax2000": {
+    {
         "Username": "xamax2000",
         "Country": "Netherlands",
         "Blitz Wins": "481",
@@ -10463,7 +10463,7 @@
         "Bullet Best Rating": "2867",
         "Rapid Best Rating": "2686"
     },
-    "xdps": {
+    {
         "Username": "xdps",
         "Country": "Chile",
         "Blitz Wins": "3700",
@@ -10479,7 +10479,7 @@
         "Bullet Best Rating": "2941",
         "Rapid Best Rating": "2480"
     },
-    "xxysoul6": {
+    {
         "Username": "xxysoul6",
         "Country": "China",
         "Blitz Wins": "495",
@@ -10495,7 +10495,7 @@
         "Bullet Best Rating": "3089",
         "Rapid Best Rating": "2883"
     },
-    "yamalchess": {
+    {
         "Username": "yamalchess",
         "Country": "Russia",
         "Blitz Wins": "510",
@@ -10511,7 +10511,7 @@
         "Bullet Best Rating": "2230",
         "Rapid Best Rating": "2479"
     },
-    "yannickpelletier": {
+    {
         "Username": "yannickpelletier",
         "Country": "Switzerland",
         "Blitz Wins": "485",
@@ -10527,7 +10527,7 @@
         "Bullet Best Rating": "2623",
         "Rapid Best Rating": "2379"
     },
-    "yardird": {
+    {
         "Username": "yardird",
         "Country": "Germany",
         "Blitz Wins": "6137",
@@ -10543,7 +10543,7 @@
         "Bullet Best Rating": "2563",
         "Rapid Best Rating": "2408"
     },
-    "yifan0227": {
+    {
         "Username": "yifan0227",
         "Country": "China",
         "Blitz Wins": "79",
@@ -10559,7 +10559,7 @@
         "Bullet Best Rating": "2653",
         "Rapid Best Rating": "2745"
     },
-    "yobdc": {
+    {
         "Username": "yobdc",
         "Country": "Canada",
         "Blitz Wins": "585",
@@ -10575,7 +10575,7 @@
         "Bullet Best Rating": "2479",
         "Rapid Best Rating": "2396"
     },
-    "youngkid": {
+    {
         "Username": "youngkid",
         "Country": "India",
         "Blitz Wins": "512",
@@ -10591,7 +10591,7 @@
         "Bullet Best Rating": "3011",
         "Rapid Best Rating": "2711"
     },
-    "younguzbek": {
+    {
         "Username": "younguzbek",
         "Country": "Singapore",
         "Blitz Wins": "724",
@@ -10607,7 +10607,7 @@
         "Bullet Best Rating": "2741",
         "Rapid Best Rating": "2451"
     },
-    "yqperez": {
+    {
         "Username": "yqperez",
         "Country": "Cuba",
         "Blitz Wins": "638",
@@ -10623,7 +10623,7 @@
         "Bullet Best Rating": "2619",
         "Rapid Best Rating": "2450"
     },
-    "zabdumalik": {
+    {
         "Username": "zabdumalik",
         "Country": "Kazakhstan",
         "Blitz Wins": "219",
@@ -10639,7 +10639,7 @@
         "Bullet Best Rating": "2691",
         "Rapid Best Rating": "2514"
     },
-    "zablotsky": {
+    {
         "Username": "zablotsky",
         "Country": "Russia",
         "Blitz Wins": "1266",
@@ -10655,7 +10655,7 @@
         "Bullet Best Rating": "2501",
         "Rapid Best Rating": "2772"
     },
-    "zaur-mammadov": {
+    {
         "Username": "zaur-mammadov",
         "Country": "Turkey",
         "Blitz Wins": "251",
@@ -10671,7 +10671,7 @@
         "Bullet Best Rating": "2588",
         "Rapid Best Rating": "2577"
     },
-    "zhuu96": {
+    {
         "Username": "zhuu96",
         "Country": "Russia",
         "Blitz Wins": "1339",
@@ -10687,7 +10687,7 @@
         "Bullet Best Rating": "3012",
         "Rapid Best Rating": "3022"
     },
-    "ziachess74": {
+    {
         "Username": "ziachess74",
         "Country": "Bangladesh",
         "Blitz Wins": "1091",
@@ -10703,7 +10703,7 @@
         "Bullet Best Rating": "2512",
         "Rapid Best Rating": "2791"
     },
-    "zirafa1": {
+    {
         "Username": "zirafa1",
         "Country": "Slovenia",
         "Blitz Wins": "147",
@@ -10719,7 +10719,7 @@
         "Bullet Best Rating": "2503",
         "Rapid Best Rating": "2524"
     },
-    "zkid": {
+    {
         "Username": "zkid",
         "Country": "United States",
         "Blitz Wins": "836",
@@ -10735,7 +10735,7 @@
         "Bullet Best Rating": "2805",
         "Rapid Best Rating": "2771"
     },
-    "zq1": {
+    {
         "Username": "zq1",
         "Country": "United States",
         "Blitz Wins": "2176",
@@ -10751,7 +10751,7 @@
         "Bullet Best Rating": "2594",
         "Rapid Best Rating": "2555"
     },
-    "zubridis": {
+    {
         "Username": "zubridis",
         "Country": "Ukraine",
         "Blitz Wins": "295",
@@ -10767,7 +10767,7 @@
         "Bullet Best Rating": "2481",
         "Rapid Best Rating": "2465"
     },
-    "zugazuando": {
+    {
         "Username": "zugazuando",
         "Country": "Brazil",
         "Blitz Wins": "1048",
@@ -10783,7 +10783,7 @@
         "Bullet Best Rating": "2645",
         "Rapid Best Rating": "2550"
     },
-    "zuraazmai": {
+    {
         "Username": "zuraazmai",
         "Country": "Georgia",
         "Blitz Wins": "71",
@@ -10799,7 +10799,7 @@
         "Bullet Best Rating": "2783",
         "Rapid Best Rating": "2454"
     },
-    "zvonokchess1996": {
+    {
         "Username": "zvonokchess1996",
         "Country": "Russia",
         "Blitz Wins": "1028",
@@ -10815,4 +10815,4 @@
         "Bullet Best Rating": "2949",
         "Rapid Best Rating": "2511"
     }
-}
+]
