@@ -1,15 +1,17 @@
 sample = "static/top_women_chess_players_aug_2020.json"
-var gdata
+// var gdata
 let name_list = []
+let id_list = []
 let standard_rating_list = []
 // Create Bar Chart
 // function barChart(x){
 d3.json(sample).then(function(data) {
     console.log(data);
-    gdata = data
+    // gdata = data
 
     for (i =0; i < data.length; i++){
-        name_list.push(data[i].Fideid)
+        name_list.push(data[i].Name)
+        id_list.push(data[i].Fideid)
         standard_rating_list.push(data[i].Standard_Rating)
         // var names_id = data[i].Fideid   
     }
@@ -18,16 +20,17 @@ d3.json(sample).then(function(data) {
     // g = gdata[0]["Fideid"]
     // console.log(g)
         // Slice the first 10 objects for plotting
+        slicedName = name_list.slice(0,15);
         slicedRating = standard_rating_list.slice(0, 15);
-        slicedNames = name_list.slice(0,15);
-        slicedNames = slicedNames.map(L => "ID " + L)
+        slicedID = id_list.slice(0,15);
+        slicedID = slicedID.map(L => "ID " + L)
 
 
     // // Trace1 for the OTU Data
     let trace1 = {
-        x: slicedNames,
+        x: slicedID,
         y: slicedRating,
-        text: slicedNames,
+        text: slicedName,
         name: "Tournament Bar Chart",
         type: "bar"
         // orientation: "h"
