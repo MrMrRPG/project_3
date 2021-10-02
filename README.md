@@ -1,6 +1,6 @@
 # project_3_turochamp by pink + pandas.py
 
-project link: https://mrmrrpg.github.io/project_3/
+<a href="https://mrmrrpg.github.io/project_3/">Project_3_TuroChamp</a></br>
 
 <b>Members</b></br>
 Benji</br>
@@ -41,10 +41,11 @@ Google Charts
 
 <b>Action Items</b></br>
 
-1. JS Library
-2. Organize Repository
-3. Flask API
-4.
+1. Organize repo 
+2. Edit slide deck 
+3. A couple of practice runs
+4. Draft your 10 sentences 
+5. Clean up 
 
 <b>Bibliography</b></br>
 <a href="https://www.titledopens.com/">Titled Chess</a></br>
