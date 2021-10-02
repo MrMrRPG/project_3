@@ -1,5 +1,6 @@
 from collections import Iterable
 import json
+from collections import defaultdict
 
 # 1. import Flask
 from flask import Flask, jsonify
@@ -15,6 +16,7 @@ fide_historical_load = json.load(fide_historical)
 games_load = json.load(games)
 top_women_chess_players_aug_2020_load = json.load(top_women_chess_players_aug_2020)
 
+# Convert loaded list to dictionaries
 # 2. Create an app, being sure to pass __name__
 app = Flask(__name__)
 
@@ -42,9 +44,16 @@ def about():
 
 @app.route("/chess_games_chart")
 def chess_games_chart():
+    res = defaultdict(list)
+    for sub in chess_load:
+        for key in sub:
+            res[key].append(sub[key])
+
+    chess_d = dict(res)
+
     print("chess_games_chart.js loading...")
     return (
-        chess_load
+        chess_d
     )
 
 
