@@ -28,6 +28,7 @@ def home():
         f"Use the following url extensions to get to the specific APIs you need:)<br/>"
         f"------------------------------------------------------------------------<br/>"
         f"/about<br/>"
+        f"/chess_games_chart</br>"
     )
 
 
@@ -39,12 +40,12 @@ def about():
         f"Welcome to my 'About' page!<br/>"
     )
 
-# @app.route("/chess_games_chart")
-# def chess_games_chart:
-#     print("chess_games_chart.js loading...")
-#     return (
-#         # f""
-#     )
+@app.route("/chess_games_chart")
+def chess_games_chart():
+    print("chess_games_chart.js loading...")
+    return (
+        chess_load
+    )
 
 
 if __name__ == "__main__":
