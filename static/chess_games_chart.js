@@ -1,13 +1,74 @@
 sample = "static/games.json"
+// unique openings // count? 
 
+//     var li2 = drop.append("option").text(`${s1[i].id}`);
+//     li2.property("value", s1[i].id)
+//   }
+
+// function chart()
 d3.json(sample).then(function(data) {
     gdata = data
-    var opening= data[0].opening_name;
-    var outcome = data[0].winner;
-    var turns = data[0].turns;
-    var type = data[o].victory_status 
-    console.log(outcome);
+    //for loop 
+    var openings = data.map(d => d.opening_name)
+    var outcomes = data.map(d => d.winner)
+    var turns = data.map(d => d.turns)
+    var types = data.map(d => d.victory_status)
+
+    
+    var unArr_openings = Array.from(new Set(data.map(d => d.opening_name)))
+    opening_count = []
+
+    unArr_openings.forEach(d => { 
+        x = openings.filter(f => f == d)
+        opening_count.push(x.length)
+    })
+
+    let trace1 = {
+        x: opening_count,
+        y: unArr_openings
+      };
+      
+      let data1 = [trace1];
+      
+      let layout = {
+        title: "Opening Count"
+      };
+      
+      Plotly.newPlot("plot", data1, layout);
+
+    //   const data2 = {
+    //     labels: [
+    //       'Red',
+    //       'Green',
+    //       'Yellow',
+    //       'Grey',
+    //       'Blue'
+    //     ],
+    //     datasets: [{
+    //       label: 'My First Dataset',
+    //       data: [11, 16, 7, 3, 14],
+    //       backgroundColor: [
+    //         'rgb(255, 99, 132)',
+    //         'rgb(75, 192, 192)',
+    //         'rgb(255, 205, 86)',
+    //         'rgb(201, 203, 207)',
+    //         'rgb(54, 162, 235)'
+    //       ]
+    //     }]
+    //   };
   });
+
+  
+// function chart1()
+
+// research types of charts that makes sense based on data that you have 
+// - radar chart, polar area chart, circle charts, how many of each variable you need to make it happen, trial and error
+// start simple (bar chart, color corresponds to something else)
+
+// function chart2()
+
+// function init()
+// queen's gambit 
   
 
 // for loop where i can capture all this summary data: list of openings, list of outcomes (but I want the outcomes to the openings), list of turns 
