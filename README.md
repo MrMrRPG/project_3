@@ -7,13 +7,13 @@ Josh</br>
 Sam</br>
 
 <b>Domain</b></br> 
-Games Industry
+Games & Sports
 
 <b>Topic</b></br> 
 Chess
 
 <b>Angle</b></br> 
-Top female chess players 
+Gender & Chess
 
 <b>Possible Datasets</b></br> 
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
