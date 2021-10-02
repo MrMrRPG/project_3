@@ -1,9 +1,20 @@
 sample = "static/games.json"
 
 d3.json(sample).then(function(data) {
-    console.log(data);
+    gdata = data
+    var opening= data[0].opening_name;
+    var outcome = data[0].winner;
+    var turns = data[0].turns;
+    var type = data[o].victory_status 
+    console.log(outcome);
   });
   
+
+// for loop where i can capture all this summary data: list of openings, list of outcomes (but I want the outcomes to the openings), list of turns 
+// bar, pie, bubble 
+// drop down where you could change the opening move and then it would repopulate the charts 
+// dataset of popular opening moves // original vs. popular 
+// rating? rating and play? 
   
 
 // d3.json("samples.json").then((data) => {
