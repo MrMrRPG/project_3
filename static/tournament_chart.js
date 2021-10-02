@@ -9,7 +9,7 @@ function drawChart() {
         console.log(dataValues); 
             var data = new google.visualization.DataTable();  
   
-                data.addColumn('number', 'money');  
+                data.addColumn('number', 'Ratings');  
                 data.addColumn('number', 'Ratings');
                 data.addColumn({type: 'string', role: 'tooltip'});
 
@@ -37,6 +37,7 @@ function drawChart() {
         }
     },
     legend: 'none',
+    colors: ['#AA4A7F'],
     pointSize: 0.2,
   };
 
