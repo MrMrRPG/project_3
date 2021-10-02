@@ -30,7 +30,10 @@ def home():
         f"Use the following url extensions to get to the specific APIs you need:)<br/>"
         f"------------------------------------------------------------------------<br/>"
         f"/about<br/>"
-        f"/chess_games_chart</br>"
+        f"/chess</br>"
+        f"/fide_historical</br>"
+        # f"/games</br>"
+        # f"/top_women_chess_players_aug_2020</br>"
     )
 
 
@@ -42,8 +45,8 @@ def about():
         f"Welcome to my 'About' page!<br/>"
     )
 
-@app.route("/chess_games_chart")
-def chess_games_chart():
+@app.route("/chess")
+def chess():
     res = defaultdict(list)
     for sub in chess_load:
         for key in sub:
@@ -54,6 +57,20 @@ def chess_games_chart():
     print("chess_games_chart.js loading...")
     return (
         chess_d
+    )
+
+@app.route("/fide_historical")
+def fide_historical():
+    res = defaultdict(list)
+    for sub in fide_historical_load:
+        for key in sub:
+            res[key].append(sub[key])
+
+    fide_historical_d = dict(res)
+
+    print("chess_games_chart.js loading...")
+    return (
+        fide_historical_d
     )
 
 
