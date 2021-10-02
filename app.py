@@ -9,7 +9,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     print("Server received request for 'Home' page...")
-    return "Welcome to my 'Home' page!"
+    return "Welcome to my the Pink Pandas' Chess Directory!"
 
 
 # 4. Define what to do when a user hits the /about route
