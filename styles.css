@@ -56,6 +56,10 @@
     padding-top: 20px;
     padding-bottom:40px;
   }
+
+  #scatter{
+    height: 600px;
+  }
   /* media queries adjustment*/
   @media(max-width:800px){
     .navbar{
