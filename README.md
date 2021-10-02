@@ -32,11 +32,8 @@ Gender & Chess
 AWS Athena
 
 <b>New JS Library</b></br>
-Chartist
-Chart.JS
 Google Charts
-Flex Monster
-Full Chart 
+
 
 <b>Slides</b></br>
 <a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
