@@ -41,12 +41,7 @@ Flex Monster
 <a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
 
 <b>Action Items</b></br>
-1. Scheduling 
-Monday @ noon
-- Leaflet (chess players by country)
-- Focusing on female players
-
-2. Action items
+1. 2. Action items
 JS Library
 
 <b>Bibliography</b></br>
