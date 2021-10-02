@@ -33,7 +33,7 @@ def home():
         f"/chess</br>"
         f"/fide_historical</br>"
         f"/games</br>"
-        # f"/top_women_chess_players_aug_2020</br>"
+        f"/top_women_chess_players_aug_2020</br>"
     )
 
 
@@ -71,6 +71,20 @@ def games():
     print("chess_games_chart.js loading...")
     return (
         games_d
+    )
+
+@app.route("/fide_historical")
+def fide_historical():
+    res = defaultdict(list)
+    for sub in fide_historical_load:
+        for key in sub:
+            res[key].append(sub[key])
+
+    fide_historical_d = dict(res)
+
+    print("chess_games_chart.js loading...")
+    return (
+        fide_historical_d
     )
 
 @app.route("/fide_historical")
