@@ -10,9 +10,9 @@ d3.json(sample).then(function(data) {
     // gdata = data
 
     for (i =0; i < data.length; i++){
-        name_list.push(data[i].rating)
+        name_list.push(data[i].rank)
         id_list.push(data[i].name)
-        standard_rating_list.push(data[i].rank)
+        standard_rating_list.push(data[i].rating)
         // var names_id = data[i].Fideid   
     }
     console.log(name_list)
@@ -23,7 +23,6 @@ d3.json(sample).then(function(data) {
         slicedName = name_list.slice(0,10);
         slicedRating = standard_rating_list.slice(0, 10);
         slicedID = id_list.slice(0,10);
-        slicedID = slicedID.map(L => "Player Name: " + L)
 
 
     // // Trace1 for the OTU Data
@@ -31,8 +30,8 @@ d3.json(sample).then(function(data) {
         x: slicedID,
         y: slicedRating,
         text: slicedName,
-        name: "Player Rank Chart",
-        type: "scatter"
+        name: "Player by Rating Chart",
+        type: "scatter",
         // orientation: "h"
         };
   
