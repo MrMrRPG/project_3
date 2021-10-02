@@ -23,15 +23,32 @@ d3.json(sample).then(function(data) {
         opening_count.push(x.length)
     })
 
+    // sliced_openC = opening_count.slice(0,10);
+
+    let numArray = opening_count;
+    numArray.sort(function compareFunction(firstNum, secondNum) {
+    return secondNum - firstNum;
+  });
+    n2 = numArray.slice(0,10);
+    n1 = unArr_openings.slice(0,10);
+    n2.reverse();
+    // sliced_openC.reverse();
+    console.log(n2)
+
+
     let trace1 = {
-        x: opening_count,
-        y: unArr_openings
+        x: n2,
+        y: n1,
+        type: "bar",
+        orientation: "h"
       };
       
       let data1 = [trace1];
       
       let layout = {
-        title: "Opening Count"
+        title: "Top 10 Most Commonly Used Openings",
+        xaxis: {range: [50, 500]},
+        bargap : 0.4
       };
       
       Plotly.newPlot("plot", data1, layout);
