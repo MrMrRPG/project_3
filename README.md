@@ -51,11 +51,8 @@ JS Library
 
 <b>Bibliography</b></br>
 <a href="https://www.titledopens.com/">Titled Chess</a></br>
-<a href="https://www.titledopens.com/">Titled Chess</a></br>
-<a href="https://www.titledopens.com/">Titled Chess</a></br>
-<a href="https://www.titledopens.com/">Titled Chess</a></br>
-https://github.com/StevenAdema/chess-opening-popularity
-https://github.com/gsfleur/titledopens
+<a href="https://github.com/gsfleur/titledopens">Titled Chess Github Repository</a></br>
+<a href=https://github.com/StevenAdema/chess-opening-popularity>chess-opening-popularity</a></br>
 
 <img src="https://64.media.tumblr.com/f8e0a9a5b5a0f2fd5538d5a7bba1273f/tumblr_mqbflxsjRg1rn2sy0o1_500.gifv" alt="Panda Chess
 by ~jmaaa">
