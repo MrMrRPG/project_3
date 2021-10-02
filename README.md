@@ -36,13 +36,16 @@ Chartist
 Chart.JS
 Google Charts
 Flex Monster
+Full Chart 
 
 <b>Slides</b></br>
 <a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
 
 <b>Action Items</b></br>
-1. 2. Action items
-JS Library
+1. JS Library 
+2. Organize Repository 
+3. Flask API 
+4. 
 
 <b>Bibliography</b></br>
 <a href="https://www.titledopens.com/">Titled Chess</a></br>
