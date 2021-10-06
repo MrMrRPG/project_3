@@ -31,7 +31,9 @@ d3.json(sample).then(function(data) {
         y: slicedRating,
         text: slicedName,
         name: "Player by Rating Chart",
-        type: "scatter",
+        marker:{
+            color: '#AA4A7F'
+        }
         // orientation: "h"
         };
   
