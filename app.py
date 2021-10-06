@@ -54,7 +54,7 @@ def chess():
 
     chess_d = dict(res)
 
-    print("chess_games_chart.js loading...")
+    print("chess_d loading...")
     return (
         chess_d
     )
@@ -68,7 +68,7 @@ def games():
 
     games_d = dict(res)
 
-    print("chess_games_chart.js loading...")
+    print("games_d loading...")
     return (
         games_d
     )
@@ -87,18 +87,18 @@ def fide_historical():
         fide_historical_d
     )
 
-@app.route("/fide_historical")
-def fide_historical():
+@app.route("/top_women_chess_players_aug_2020")
+def top_women_chess_players_aug_2020():
     res = defaultdict(list)
-    for sub in fide_historical_load:
+    for sub in top_women_chess_players_aug_2020_load:
         for key in sub:
             res[key].append(sub[key])
 
-    fide_historical_d = dict(res)
+    top_women_chess_players_aug_2020_d = dict(res)
 
-    print("chess_games_chart.js loading...")
+    print("top_women_chess_players_aug_2020_d loading...")
     return (
-        fide_historical_d
+        top_women_chess_players_aug_2020_d
     )
 
 if __name__ == "__main__":
