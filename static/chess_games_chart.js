@@ -47,7 +47,6 @@ d3.json(sample).then(function(data) {
       let data1 = [trace1];
       
       let layout = {
-        title: "Top 10 Most Commonly Used Openings",
         xaxis: {range: [50, 500]},
         bargap : 0.4
       };
