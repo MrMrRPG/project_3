@@ -40,7 +40,8 @@ d3.json(sample).then(function(data) {
         x: n2,
         y: n1,
         type: "bar",
-        orientation: "h"
+        orientation: "h", 
+        marker: {color: '#AA4A7F'}
       };
       
       let data1 = [trace1];
