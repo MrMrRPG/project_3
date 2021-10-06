@@ -2,6 +2,11 @@
 
 <a href="https://mrmrrpg.github.io/project_3/">Project_3_TuroChamp</a></br>
 
+<b>Directory</b></br>
+1. To access our dashboard: Please click on the link of Project_3_TuroChamp above
+2. To observe our JS files: Please nagivate to the "static" folder
+3. To access our Flask-based API: Please click on "app.py"
+
 <b>Members</b></br>
 Benji</br>
 Meagan</br>
