@@ -24,7 +24,7 @@ function drawChart() {
 
   var options = {
     tooltip: {isHtml: true},
-    title: 'Women Grand Master Tournament Ratings',
+    // title: 'Women Grand Master Tournament Ratings',
     hAxis: {title: 'Rapid Rating',
             viewWindow: {
                 min: 1210,
