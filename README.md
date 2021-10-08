@@ -44,14 +44,6 @@ Google Charts
 <b>Slides</b></br>
 <a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
 
-<b>Action Items</b></br>
-
-1. Organize repo 
-2. Edit slide deck 
-3. A couple of practice runs
-4. Draft your 10 sentences 
-5. Clean up 
-
 <b>Bibliography</b></br>
 <a href="https://www.titledopens.com/">Titled Chess</a></br>
 <a href="https://github.com/gsfleur/titledopens">Titled Chess Github Repository</a></br>
